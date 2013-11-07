@@ -1,0 +1,17311 @@
+Hay 3462 tortas ricas.
+1:
+   ddd
+   fff
+   ccc
+
+2:
+   ddd
+   fff
+   ccm
+
+3:
+   ddd
+   fff
+   cmc
+
+4:
+   ddd
+   fff
+   mcc
+
+5:
+   ddd
+   ffc
+   fcc
+
+6:
+   ddd
+   ffc
+   fcm
+
+7:
+   ddd
+   ffc
+   fmc
+
+8:
+   ddd
+   ffc
+   cfc
+
+9:
+   ddd
+   ffc
+   cfm
+
+10:
+   ddd
+   ffc
+   ccf
+
+11:
+   ddd
+   ffc
+   ccm
+
+12:
+   ddd
+   ffc
+   cmf
+
+13:
+   ddd
+   ffc
+   cmc
+
+14:
+   ddd
+   ffc
+   mfc
+
+15:
+   ddd
+   ffc
+   mcf
+
+16:
+   ddd
+   ffc
+   mcc
+
+17:
+   ddd
+   ffm
+   fcc
+
+18:
+   ddd
+   ffm
+   cfc
+
+19:
+   ddd
+   ffm
+   ccf
+
+20:
+   ddd
+   ffm
+   ccc
+
+21:
+   ddd
+   fcf
+   fcc
+
+22:
+   ddd
+   fcf
+   fcm
+
+23:
+   ddd
+   fcf
+   fmc
+
+24:
+   ddd
+   fcf
+   cfc
+
+25:
+   ddd
+   fcf
+   cfm
+
+26:
+   ddd
+   fcf
+   ccf
+
+27:
+   ddd
+   fcf
+   ccm
+
+28:
+   ddd
+   fcf
+   cmf
+
+29:
+   ddd
+   fcf
+   cmc
+
+30:
+   ddd
+   fcf
+   mfc
+
+31:
+   ddd
+   fcf
+   mcf
+
+32:
+   ddd
+   fcf
+   mcc
+
+33:
+   ddd
+   fcc
+   ffc
+
+34:
+   ddd
+   fcc
+   ffm
+
+35:
+   ddd
+   fcc
+   fcf
+
+36:
+   ddd
+   fcc
+   fcm
+
+37:
+   ddd
+   fcc
+   fmf
+
+38:
+   ddd
+   fcc
+   fmc
+
+39:
+   ddd
+   fcc
+   cff
+
+40:
+   ddd
+   fcc
+   cfm
+
+41:
+   ddd
+   fcc
+   cmf
+
+42:
+   ddd
+   fcc
+   mff
+
+43:
+   ddd
+   fcc
+   mfc
+
+44:
+   ddd
+   fcc
+   mcf
+
+45:
+   ddd
+   fcm
+   ffc
+
+46:
+   ddd
+   fcm
+   fcf
+
+47:
+   ddd
+   fcm
+   fcc
+
+48:
+   ddd
+   fcm
+   cff
+
+49:
+   ddd
+   fcm
+   cfc
+
+50:
+   ddd
+   fcm
+   ccf
+
+51:
+   ddd
+   fmf
+   fcc
+
+52:
+   ddd
+   fmf
+   cfc
+
+53:
+   ddd
+   fmf
+   ccf
+
+54:
+   ddd
+   fmf
+   ccc
+
+55:
+   ddd
+   fmc
+   ffc
+
+56:
+   ddd
+   fmc
+   fcf
+
+57:
+   ddd
+   fmc
+   fcc
+
+58:
+   ddd
+   fmc
+   cff
+
+59:
+   ddd
+   fmc
+   cfc
+
+60:
+   ddd
+   fmc
+   ccf
+
+61:
+   ddd
+   cff
+   fcc
+
+62:
+   ddd
+   cff
+   fcm
+
+63:
+   ddd
+   cff
+   fmc
+
+64:
+   ddd
+   cff
+   cfc
+
+65:
+   ddd
+   cff
+   cfm
+
+66:
+   ddd
+   cff
+   ccf
+
+67:
+   ddd
+   cff
+   ccm
+
+68:
+   ddd
+   cff
+   cmf
+
+69:
+   ddd
+   cff
+   cmc
+
+70:
+   ddd
+   cff
+   mfc
+
+71:
+   ddd
+   cff
+   mcf
+
+72:
+   ddd
+   cff
+   mcc
+
+73:
+   ddd
+   cfc
+   ffc
+
+74:
+   ddd
+   cfc
+   ffm
+
+75:
+   ddd
+   cfc
+   fcf
+
+76:
+   ddd
+   cfc
+   fcm
+
+77:
+   ddd
+   cfc
+   fmf
+
+78:
+   ddd
+   cfc
+   fmc
+
+79:
+   ddd
+   cfc
+   cff
+
+80:
+   ddd
+   cfc
+   cfm
+
+81:
+   ddd
+   cfc
+   cmf
+
+82:
+   ddd
+   cfc
+   mff
+
+83:
+   ddd
+   cfc
+   mfc
+
+84:
+   ddd
+   cfc
+   mcf
+
+85:
+   ddd
+   cfm
+   ffc
+
+86:
+   ddd
+   cfm
+   fcf
+
+87:
+   ddd
+   cfm
+   fcc
+
+88:
+   ddd
+   cfm
+   cff
+
+89:
+   ddd
+   cfm
+   cfc
+
+90:
+   ddd
+   cfm
+   ccf
+
+91:
+   ddd
+   ccf
+   ffc
+
+92:
+   ddd
+   ccf
+   ffm
+
+93:
+   ddd
+   ccf
+   fcf
+
+94:
+   ddd
+   ccf
+   fcm
+
+95:
+   ddd
+   ccf
+   fmf
+
+96:
+   ddd
+   ccf
+   fmc
+
+97:
+   ddd
+   ccf
+   cff
+
+98:
+   ddd
+   ccf
+   cfm
+
+99:
+   ddd
+   ccf
+   cmf
+
+100:
+   ddd
+   ccf
+   mff
+
+101:
+   ddd
+   ccf
+   mfc
+
+102:
+   ddd
+   ccf
+   mcf
+
+103:
+   ddd
+   ccc
+   fff
+
+104:
+   ddd
+   ccc
+   ffm
+
+105:
+   ddd
+   ccc
+   fmf
+
+106:
+   ddd
+   ccc
+   mff
+
+107:
+   ddd
+   ccm
+   fff
+
+108:
+   ddd
+   ccm
+   ffc
+
+109:
+   ddd
+   ccm
+   fcf
+
+110:
+   ddd
+   ccm
+   cff
+
+111:
+   ddd
+   cmf
+   ffc
+
+112:
+   ddd
+   cmf
+   fcf
+
+113:
+   ddd
+   cmf
+   fcc
+
+114:
+   ddd
+   cmf
+   cff
+
+115:
+   ddd
+   cmf
+   cfc
+
+116:
+   ddd
+   cmf
+   ccf
+
+117:
+   ddd
+   cmc
+   fff
+
+118:
+   ddd
+   cmc
+   ffc
+
+119:
+   ddd
+   cmc
+   fcf
+
+120:
+   ddd
+   cmc
+   cff
+
+121:
+   ddd
+   mff
+   fcc
+
+122:
+   ddd
+   mff
+   cfc
+
+123:
+   ddd
+   mff
+   ccf
+
+124:
+   ddd
+   mff
+   ccc
+
+125:
+   ddd
+   mfc
+   ffc
+
+126:
+   ddd
+   mfc
+   fcf
+
+127:
+   ddd
+   mfc
+   fcc
+
+128:
+   ddd
+   mfc
+   cff
+
+129:
+   ddd
+   mfc
+   cfc
+
+130:
+   ddd
+   mfc
+   ccf
+
+131:
+   ddd
+   mcf
+   ffc
+
+132:
+   ddd
+   mcf
+   fcf
+
+133:
+   ddd
+   mcf
+   fcc
+
+134:
+   ddd
+   mcf
+   cff
+
+135:
+   ddd
+   mcf
+   cfc
+
+136:
+   ddd
+   mcf
+   ccf
+
+137:
+   ddd
+   mcc
+   fff
+
+138:
+   ddd
+   mcc
+   ffc
+
+139:
+   ddd
+   mcc
+   fcf
+
+140:
+   ddd
+   mcc
+   cff
+
+141:
+   ddf
+   dff
+   ccc
+
+142:
+   ddf
+   dff
+   ccm
+
+143:
+   ddf
+   dff
+   cmc
+
+144:
+   ddf
+   dfc
+   ccm
+
+145:
+   ddf
+   dfc
+   cmc
+
+146:
+   ddf
+   dfm
+   ccc
+
+147:
+   ddf
+   dcf
+   ccm
+
+148:
+   ddf
+   dcf
+   cmc
+
+149:
+   ddf
+   dcc
+   ffm
+
+150:
+   ddf
+   dcc
+   fmf
+
+151:
+   ddf
+   dmf
+   ccc
+
+152:
+   ddf
+   fdf
+   ccc
+
+153:
+   ddf
+   fdf
+   ccm
+
+154:
+   ddf
+   fdf
+   cmc
+
+155:
+   ddf
+   fdc
+   ccm
+
+156:
+   ddf
+   fdc
+   cmc
+
+157:
+   ddf
+   fdm
+   ccc
+
+158:
+   ddf
+   ffd
+   ccc
+
+159:
+   ddf
+   ffd
+   ccm
+
+160:
+   ddf
+   ffd
+   cmc
+
+161:
+   ddf
+   ffc
+   ccm
+
+162:
+   ddf
+   ffc
+   cmc
+
+163:
+   ddf
+   ffm
+   dcc
+
+164:
+   ddf
+   ffm
+   cdc
+
+165:
+   ddf
+   ffm
+   ccd
+
+166:
+   ddf
+   ffm
+   ccc
+
+167:
+   ddf
+   fcd
+   ccm
+
+168:
+   ddf
+   fcd
+   cmc
+
+169:
+   ddf
+   fcf
+   ccm
+
+170:
+   ddf
+   fcf
+   cmc
+
+171:
+   ddf
+   fmd
+   ccc
+
+172:
+   ddf
+   fmf
+   dcc
+
+173:
+   ddf
+   fmf
+   cdc
+
+174:
+   ddf
+   fmf
+   ccd
+
+175:
+   ddf
+   fmf
+   ccc
+
+176:
+   ddf
+   cdf
+   ccm
+
+177:
+   ddf
+   cdf
+   cmc
+
+178:
+   ddf
+   cdc
+   ffm
+
+179:
+   ddf
+   cdc
+   fmf
+
+180:
+   ddf
+   cfd
+   ccm
+
+181:
+   ddf
+   cfd
+   cmc
+
+182:
+   ddf
+   cff
+   ccm
+
+183:
+   ddf
+   cff
+   cmc
+
+184:
+   ddf
+   ccd
+   ffm
+
+185:
+   ddf
+   ccd
+   fmf
+
+186:
+   ddf
+   ccc
+   dff
+
+187:
+   ddf
+   ccc
+   dfm
+
+188:
+   ddf
+   ccc
+   dmf
+
+189:
+   ddf
+   ccc
+   fdf
+
+190:
+   ddf
+   ccc
+   fdm
+
+191:
+   ddf
+   ccc
+   ffd
+
+192:
+   ddf
+   ccc
+   ffm
+
+193:
+   ddf
+   ccc
+   fmd
+
+194:
+   ddf
+   ccc
+   fmf
+
+195:
+   ddf
+   ccc
+   mdf
+
+196:
+   ddf
+   ccc
+   mfd
+
+197:
+   ddf
+   ccc
+   mff
+
+198:
+   ddf
+   ccm
+   dff
+
+199:
+   ddf
+   ccm
+   dfc
+
+200:
+   ddf
+   ccm
+   dcf
+
+201:
+   ddf
+   ccm
+   fdf
+
+202:
+   ddf
+   ccm
+   fdc
+
+203:
+   ddf
+   ccm
+   ffd
+
+204:
+   ddf
+   ccm
+   ffc
+
+205:
+   ddf
+   ccm
+   fcd
+
+206:
+   ddf
+   ccm
+   fcf
+
+207:
+   ddf
+   ccm
+   cdf
+
+208:
+   ddf
+   ccm
+   cfd
+
+209:
+   ddf
+   ccm
+   cff
+
+210:
+   ddf
+   cmc
+   dff
+
+211:
+   ddf
+   cmc
+   dfc
+
+212:
+   ddf
+   cmc
+   dcf
+
+213:
+   ddf
+   cmc
+   fdf
+
+214:
+   ddf
+   cmc
+   fdc
+
+215:
+   ddf
+   cmc
+   ffd
+
+216:
+   ddf
+   cmc
+   ffc
+
+217:
+   ddf
+   cmc
+   fcd
+
+218:
+   ddf
+   cmc
+   fcf
+
+219:
+   ddf
+   cmc
+   cdf
+
+220:
+   ddf
+   cmc
+   cfd
+
+221:
+   ddf
+   cmc
+   cff
+
+222:
+   ddf
+   mdf
+   ccc
+
+223:
+   ddf
+   mfd
+   ccc
+
+224:
+   ddf
+   mff
+   ccc
+
+225:
+   ddc
+   dff
+   ccm
+
+226:
+   ddc
+   dff
+   cmc
+
+227:
+   ddc
+   dfc
+   ffm
+
+228:
+   ddc
+   dfc
+   fmf
+
+229:
+   ddc
+   dcf
+   ffm
+
+230:
+   ddc
+   dcf
+   fmf
+
+231:
+   ddc
+   dcc
+   fff
+
+232:
+   ddc
+   dcc
+   ffm
+
+233:
+   ddc
+   dcc
+   fmf
+
+234:
+   ddc
+   dcm
+   fff
+
+235:
+   ddc
+   dmc
+   fff
+
+236:
+   ddc
+   fdf
+   ccm
+
+237:
+   ddc
+   fdf
+   cmc
+
+238:
+   ddc
+   fdc
+   ffm
+
+239:
+   ddc
+   fdc
+   fmf
+
+240:
+   ddc
+   ffd
+   ccm
+
+241:
+   ddc
+   ffd
+   cmc
+
+242:
+   ddc
+   fff
+   dcc
+
+243:
+   ddc
+   fff
+   dcm
+
+244:
+   ddc
+   fff
+   dmc
+
+245:
+   ddc
+   fff
+   cdc
+
+246:
+   ddc
+   fff
+   cdm
+
+247:
+   ddc
+   fff
+   ccd
+
+248:
+   ddc
+   fff
+   ccm
+
+249:
+   ddc
+   fff
+   cmd
+
+250:
+   ddc
+   fff
+   cmc
+
+251:
+   ddc
+   fff
+   mdc
+
+252:
+   ddc
+   fff
+   mcd
+
+253:
+   ddc
+   fff
+   mcc
+
+254:
+   ddc
+   ffm
+   dfc
+
+255:
+   ddc
+   ffm
+   dcf
+
+256:
+   ddc
+   ffm
+   dcc
+
+257:
+   ddc
+   ffm
+   fdc
+
+258:
+   ddc
+   ffm
+   fcd
+
+259:
+   ddc
+   ffm
+   fcc
+
+260:
+   ddc
+   ffm
+   cdf
+
+261:
+   ddc
+   ffm
+   cdc
+
+262:
+   ddc
+   ffm
+   cfd
+
+263:
+   ddc
+   ffm
+   cfc
+
+264:
+   ddc
+   ffm
+   ccd
+
+265:
+   ddc
+   ffm
+   ccf
+
+266:
+   ddc
+   fcd
+   ffm
+
+267:
+   ddc
+   fcd
+   fmf
+
+268:
+   ddc
+   fcc
+   ffm
+
+269:
+   ddc
+   fcc
+   fmf
+
+270:
+   ddc
+   fmf
+   dfc
+
+271:
+   ddc
+   fmf
+   dcf
+
+272:
+   ddc
+   fmf
+   dcc
+
+273:
+   ddc
+   fmf
+   fdc
+
+274:
+   ddc
+   fmf
+   fcd
+
+275:
+   ddc
+   fmf
+   fcc
+
+276:
+   ddc
+   fmf
+   cdf
+
+277:
+   ddc
+   fmf
+   cdc
+
+278:
+   ddc
+   fmf
+   cfd
+
+279:
+   ddc
+   fmf
+   cfc
+
+280:
+   ddc
+   fmf
+   ccd
+
+281:
+   ddc
+   fmf
+   ccf
+
+282:
+   ddc
+   cdf
+   ffm
+
+283:
+   ddc
+   cdf
+   fmf
+
+284:
+   ddc
+   cdc
+   fff
+
+285:
+   ddc
+   cdc
+   ffm
+
+286:
+   ddc
+   cdc
+   fmf
+
+287:
+   ddc
+   cdm
+   fff
+
+288:
+   ddc
+   cfd
+   ffm
+
+289:
+   ddc
+   cfd
+   fmf
+
+290:
+   ddc
+   cfc
+   ffm
+
+291:
+   ddc
+   cfc
+   fmf
+
+292:
+   ddc
+   ccd
+   fff
+
+293:
+   ddc
+   ccd
+   ffm
+
+294:
+   ddc
+   ccd
+   fmf
+
+295:
+   ddc
+   ccf
+   ffm
+
+296:
+   ddc
+   ccf
+   fmf
+
+297:
+   ddc
+   ccm
+   dff
+
+298:
+   ddc
+   ccm
+   fdf
+
+299:
+   ddc
+   ccm
+   ffd
+
+300:
+   ddc
+   ccm
+   fff
+
+301:
+   ddc
+   cmd
+   fff
+
+302:
+   ddc
+   cmc
+   dff
+
+303:
+   ddc
+   cmc
+   fdf
+
+304:
+   ddc
+   cmc
+   ffd
+
+305:
+   ddc
+   cmc
+   fff
+
+306:
+   ddc
+   mdc
+   fff
+
+307:
+   ddc
+   mcd
+   fff
+
+308:
+   ddc
+   mcc
+   fff
+
+309:
+   ddm
+   dff
+   fcc
+
+310:
+   ddm
+   dff
+   cfc
+
+311:
+   ddm
+   dff
+   ccf
+
+312:
+   ddm
+   dff
+   ccc
+
+313:
+   ddm
+   dfc
+   ffc
+
+314:
+   ddm
+   dfc
+   fcf
+
+315:
+   ddm
+   dfc
+   fcc
+
+316:
+   ddm
+   dfc
+   cff
+
+317:
+   ddm
+   dfc
+   cfc
+
+318:
+   ddm
+   dfc
+   ccf
+
+319:
+   ddm
+   dcf
+   ffc
+
+320:
+   ddm
+   dcf
+   fcf
+
+321:
+   ddm
+   dcf
+   fcc
+
+322:
+   ddm
+   dcf
+   cff
+
+323:
+   ddm
+   dcf
+   cfc
+
+324:
+   ddm
+   dcf
+   ccf
+
+325:
+   ddm
+   dcc
+   fff
+
+326:
+   ddm
+   dcc
+   ffc
+
+327:
+   ddm
+   dcc
+   fcf
+
+328:
+   ddm
+   dcc
+   cff
+
+329:
+   ddm
+   fdf
+   fcc
+
+330:
+   ddm
+   fdf
+   cfc
+
+331:
+   ddm
+   fdf
+   ccf
+
+332:
+   ddm
+   fdf
+   ccc
+
+333:
+   ddm
+   fdc
+   ffc
+
+334:
+   ddm
+   fdc
+   fcf
+
+335:
+   ddm
+   fdc
+   fcc
+
+336:
+   ddm
+   fdc
+   cff
+
+337:
+   ddm
+   fdc
+   cfc
+
+338:
+   ddm
+   fdc
+   ccf
+
+339:
+   ddm
+   ffd
+   fcc
+
+340:
+   ddm
+   ffd
+   cfc
+
+341:
+   ddm
+   ffd
+   ccf
+
+342:
+   ddm
+   ffd
+   ccc
+
+343:
+   ddm
+   fff
+   dcc
+
+344:
+   ddm
+   fff
+   cdc
+
+345:
+   ddm
+   fff
+   ccd
+
+346:
+   ddm
+   fff
+   ccc
+
+347:
+   ddm
+   ffc
+   dfc
+
+348:
+   ddm
+   ffc
+   dcf
+
+349:
+   ddm
+   ffc
+   dcc
+
+350:
+   ddm
+   ffc
+   fdc
+
+351:
+   ddm
+   ffc
+   fcd
+
+352:
+   ddm
+   ffc
+   fcc
+
+353:
+   ddm
+   ffc
+   cdf
+
+354:
+   ddm
+   ffc
+   cdc
+
+355:
+   ddm
+   ffc
+   cfd
+
+356:
+   ddm
+   ffc
+   cfc
+
+357:
+   ddm
+   ffc
+   ccd
+
+358:
+   ddm
+   ffc
+   ccf
+
+359:
+   ddm
+   fcd
+   ffc
+
+360:
+   ddm
+   fcd
+   fcf
+
+361:
+   ddm
+   fcd
+   fcc
+
+362:
+   ddm
+   fcd
+   cff
+
+363:
+   ddm
+   fcd
+   cfc
+
+364:
+   ddm
+   fcd
+   ccf
+
+365:
+   ddm
+   fcf
+   dfc
+
+366:
+   ddm
+   fcf
+   dcf
+
+367:
+   ddm
+   fcf
+   dcc
+
+368:
+   ddm
+   fcf
+   fdc
+
+369:
+   ddm
+   fcf
+   fcd
+
+370:
+   ddm
+   fcf
+   fcc
+
+371:
+   ddm
+   fcf
+   cdf
+
+372:
+   ddm
+   fcf
+   cdc
+
+373:
+   ddm
+   fcf
+   cfd
+
+374:
+   ddm
+   fcf
+   cfc
+
+375:
+   ddm
+   fcf
+   ccd
+
+376:
+   ddm
+   fcf
+   ccf
+
+377:
+   ddm
+   fcc
+   dff
+
+378:
+   ddm
+   fcc
+   dfc
+
+379:
+   ddm
+   fcc
+   dcf
+
+380:
+   ddm
+   fcc
+   fdf
+
+381:
+   ddm
+   fcc
+   fdc
+
+382:
+   ddm
+   fcc
+   ffd
+
+383:
+   ddm
+   fcc
+   ffc
+
+384:
+   ddm
+   fcc
+   fcd
+
+385:
+   ddm
+   fcc
+   fcf
+
+386:
+   ddm
+   fcc
+   cdf
+
+387:
+   ddm
+   fcc
+   cfd
+
+388:
+   ddm
+   fcc
+   cff
+
+389:
+   ddm
+   cdf
+   ffc
+
+390:
+   ddm
+   cdf
+   fcf
+
+391:
+   ddm
+   cdf
+   fcc
+
+392:
+   ddm
+   cdf
+   cff
+
+393:
+   ddm
+   cdf
+   cfc
+
+394:
+   ddm
+   cdf
+   ccf
+
+395:
+   ddm
+   cdc
+   fff
+
+396:
+   ddm
+   cdc
+   ffc
+
+397:
+   ddm
+   cdc
+   fcf
+
+398:
+   ddm
+   cdc
+   cff
+
+399:
+   ddm
+   cfd
+   ffc
+
+400:
+   ddm
+   cfd
+   fcf
+
+401:
+   ddm
+   cfd
+   fcc
+
+402:
+   ddm
+   cfd
+   cff
+
+403:
+   ddm
+   cfd
+   cfc
+
+404:
+   ddm
+   cfd
+   ccf
+
+405:
+   ddm
+   cff
+   dfc
+
+406:
+   ddm
+   cff
+   dcf
+
+407:
+   ddm
+   cff
+   dcc
+
+408:
+   ddm
+   cff
+   fdc
+
+409:
+   ddm
+   cff
+   fcd
+
+410:
+   ddm
+   cff
+   fcc
+
+411:
+   ddm
+   cff
+   cdf
+
+412:
+   ddm
+   cff
+   cdc
+
+413:
+   ddm
+   cff
+   cfd
+
+414:
+   ddm
+   cff
+   cfc
+
+415:
+   ddm
+   cff
+   ccd
+
+416:
+   ddm
+   cff
+   ccf
+
+417:
+   ddm
+   cfc
+   dff
+
+418:
+   ddm
+   cfc
+   dfc
+
+419:
+   ddm
+   cfc
+   dcf
+
+420:
+   ddm
+   cfc
+   fdf
+
+421:
+   ddm
+   cfc
+   fdc
+
+422:
+   ddm
+   cfc
+   ffd
+
+423:
+   ddm
+   cfc
+   ffc
+
+424:
+   ddm
+   cfc
+   fcd
+
+425:
+   ddm
+   cfc
+   fcf
+
+426:
+   ddm
+   cfc
+   cdf
+
+427:
+   ddm
+   cfc
+   cfd
+
+428:
+   ddm
+   cfc
+   cff
+
+429:
+   ddm
+   ccd
+   fff
+
+430:
+   ddm
+   ccd
+   ffc
+
+431:
+   ddm
+   ccd
+   fcf
+
+432:
+   ddm
+   ccd
+   cff
+
+433:
+   ddm
+   ccf
+   dff
+
+434:
+   ddm
+   ccf
+   dfc
+
+435:
+   ddm
+   ccf
+   dcf
+
+436:
+   ddm
+   ccf
+   fdf
+
+437:
+   ddm
+   ccf
+   fdc
+
+438:
+   ddm
+   ccf
+   ffd
+
+439:
+   ddm
+   ccf
+   ffc
+
+440:
+   ddm
+   ccf
+   fcd
+
+441:
+   ddm
+   ccf
+   fcf
+
+442:
+   ddm
+   ccf
+   cdf
+
+443:
+   ddm
+   ccf
+   cfd
+
+444:
+   ddm
+   ccf
+   cff
+
+445:
+   ddm
+   ccc
+   dff
+
+446:
+   ddm
+   ccc
+   fdf
+
+447:
+   ddm
+   ccc
+   ffd
+
+448:
+   ddm
+   ccc
+   fff
+
+449:
+   dfd
+   dff
+   ccc
+
+450:
+   dfd
+   dff
+   ccm
+
+451:
+   dfd
+   dff
+   cmc
+
+452:
+   dfd
+   dfc
+   ccm
+
+453:
+   dfd
+   dfc
+   cmc
+
+454:
+   dfd
+   dfm
+   ccc
+
+455:
+   dfd
+   dcf
+   ccm
+
+456:
+   dfd
+   dcf
+   cmc
+
+457:
+   dfd
+   dcc
+   ffm
+
+458:
+   dfd
+   dcc
+   fmf
+
+459:
+   dfd
+   dmf
+   ccc
+
+460:
+   dfd
+   fdf
+   ccc
+
+461:
+   dfd
+   fdf
+   ccm
+
+462:
+   dfd
+   fdf
+   cmc
+
+463:
+   dfd
+   fdc
+   ccm
+
+464:
+   dfd
+   fdc
+   cmc
+
+465:
+   dfd
+   fdm
+   ccc
+
+466:
+   dfd
+   ffd
+   ccc
+
+467:
+   dfd
+   ffd
+   ccm
+
+468:
+   dfd
+   ffd
+   cmc
+
+469:
+   dfd
+   ffc
+   ccm
+
+470:
+   dfd
+   ffc
+   cmc
+
+471:
+   dfd
+   ffm
+   dcc
+
+472:
+   dfd
+   ffm
+   cdc
+
+473:
+   dfd
+   ffm
+   ccd
+
+474:
+   dfd
+   ffm
+   ccc
+
+475:
+   dfd
+   fcd
+   ccm
+
+476:
+   dfd
+   fcd
+   cmc
+
+477:
+   dfd
+   fcf
+   ccm
+
+478:
+   dfd
+   fcf
+   cmc
+
+479:
+   dfd
+   fmd
+   ccc
+
+480:
+   dfd
+   fmf
+   dcc
+
+481:
+   dfd
+   fmf
+   cdc
+
+482:
+   dfd
+   fmf
+   ccd
+
+483:
+   dfd
+   fmf
+   ccc
+
+484:
+   dfd
+   cdf
+   ccm
+
+485:
+   dfd
+   cdf
+   cmc
+
+486:
+   dfd
+   cdc
+   ffm
+
+487:
+   dfd
+   cdc
+   fmf
+
+488:
+   dfd
+   cfd
+   ccm
+
+489:
+   dfd
+   cfd
+   cmc
+
+490:
+   dfd
+   cff
+   ccm
+
+491:
+   dfd
+   cff
+   cmc
+
+492:
+   dfd
+   ccd
+   ffm
+
+493:
+   dfd
+   ccd
+   fmf
+
+494:
+   dfd
+   ccc
+   dff
+
+495:
+   dfd
+   ccc
+   dfm
+
+496:
+   dfd
+   ccc
+   dmf
+
+497:
+   dfd
+   ccc
+   fdf
+
+498:
+   dfd
+   ccc
+   fdm
+
+499:
+   dfd
+   ccc
+   ffd
+
+500:
+   dfd
+   ccc
+   ffm
+
+501:
+   dfd
+   ccc
+   fmd
+
+502:
+   dfd
+   ccc
+   fmf
+
+503:
+   dfd
+   ccc
+   mdf
+
+504:
+   dfd
+   ccc
+   mfd
+
+505:
+   dfd
+   ccc
+   mff
+
+506:
+   dfd
+   ccm
+   dff
+
+507:
+   dfd
+   ccm
+   dfc
+
+508:
+   dfd
+   ccm
+   dcf
+
+509:
+   dfd
+   ccm
+   fdf
+
+510:
+   dfd
+   ccm
+   fdc
+
+511:
+   dfd
+   ccm
+   ffd
+
+512:
+   dfd
+   ccm
+   ffc
+
+513:
+   dfd
+   ccm
+   fcd
+
+514:
+   dfd
+   ccm
+   fcf
+
+515:
+   dfd
+   ccm
+   cdf
+
+516:
+   dfd
+   ccm
+   cfd
+
+517:
+   dfd
+   ccm
+   cff
+
+518:
+   dfd
+   cmc
+   dff
+
+519:
+   dfd
+   cmc
+   dfc
+
+520:
+   dfd
+   cmc
+   dcf
+
+521:
+   dfd
+   cmc
+   fdf
+
+522:
+   dfd
+   cmc
+   fdc
+
+523:
+   dfd
+   cmc
+   ffd
+
+524:
+   dfd
+   cmc
+   ffc
+
+525:
+   dfd
+   cmc
+   fcd
+
+526:
+   dfd
+   cmc
+   fcf
+
+527:
+   dfd
+   cmc
+   cdf
+
+528:
+   dfd
+   cmc
+   cfd
+
+529:
+   dfd
+   cmc
+   cff
+
+530:
+   dfd
+   mdf
+   ccc
+
+531:
+   dfd
+   mfd
+   ccc
+
+532:
+   dfd
+   mff
+   ccc
+
+533:
+   dff
+   ddf
+   ccc
+
+534:
+   dff
+   ddf
+   ccm
+
+535:
+   dff
+   ddf
+   cmc
+
+536:
+   dff
+   ddc
+   ccm
+
+537:
+   dff
+   ddc
+   cmc
+
+538:
+   dff
+   ddm
+   fcc
+
+539:
+   dff
+   ddm
+   cfc
+
+540:
+   dff
+   ddm
+   ccf
+
+541:
+   dff
+   ddm
+   ccc
+
+542:
+   dff
+   dfd
+   ccc
+
+543:
+   dff
+   dfd
+   ccm
+
+544:
+   dff
+   dfd
+   cmc
+
+545:
+   dff
+   dfc
+   ccm
+
+546:
+   dff
+   dfc
+   cmc
+
+547:
+   dff
+   dfm
+   ccc
+
+548:
+   dff
+   dcd
+   ccm
+
+549:
+   dff
+   dcd
+   cmc
+
+550:
+   dff
+   dcf
+   ccm
+
+551:
+   dff
+   dcf
+   cmc
+
+552:
+   dff
+   dmd
+   fcc
+
+553:
+   dff
+   dmd
+   cfc
+
+554:
+   dff
+   dmd
+   ccf
+
+555:
+   dff
+   dmd
+   ccc
+
+556:
+   dff
+   dmf
+   ccc
+
+557:
+   dff
+   fdd
+   ccc
+
+558:
+   dff
+   fdd
+   ccm
+
+559:
+   dff
+   fdd
+   cmc
+
+560:
+   dff
+   fdc
+   ccm
+
+561:
+   dff
+   fdc
+   cmc
+
+562:
+   dff
+   fdm
+   ccc
+
+563:
+   dff
+   fcd
+   ccm
+
+564:
+   dff
+   fcd
+   cmc
+
+565:
+   dff
+   fcc
+   ddm
+
+566:
+   dff
+   fcc
+   dmd
+
+567:
+   dff
+   fmd
+   ccc
+
+568:
+   dff
+   cdd
+   ccm
+
+569:
+   dff
+   cdd
+   cmc
+
+570:
+   dff
+   cdf
+   ccm
+
+571:
+   dff
+   cdf
+   cmc
+
+572:
+   dff
+   cfd
+   ccm
+
+573:
+   dff
+   cfd
+   cmc
+
+574:
+   dff
+   cfc
+   ddm
+
+575:
+   dff
+   cfc
+   dmd
+
+576:
+   dff
+   ccf
+   ddm
+
+577:
+   dff
+   ccf
+   dmd
+
+578:
+   dff
+   ccc
+   ddf
+
+579:
+   dff
+   ccc
+   ddm
+
+580:
+   dff
+   ccc
+   dfd
+
+581:
+   dff
+   ccc
+   dfm
+
+582:
+   dff
+   ccc
+   dmd
+
+583:
+   dff
+   ccc
+   dmf
+
+584:
+   dff
+   ccc
+   fdd
+
+585:
+   dff
+   ccc
+   fdm
+
+586:
+   dff
+   ccc
+   fmd
+
+587:
+   dff
+   ccc
+   mdd
+
+588:
+   dff
+   ccc
+   mdf
+
+589:
+   dff
+   ccc
+   mfd
+
+590:
+   dff
+   ccm
+   ddf
+
+591:
+   dff
+   ccm
+   ddc
+
+592:
+   dff
+   ccm
+   dfd
+
+593:
+   dff
+   ccm
+   dfc
+
+594:
+   dff
+   ccm
+   dcd
+
+595:
+   dff
+   ccm
+   dcf
+
+596:
+   dff
+   ccm
+   fdd
+
+597:
+   dff
+   ccm
+   fdc
+
+598:
+   dff
+   ccm
+   fcd
+
+599:
+   dff
+   ccm
+   cdd
+
+600:
+   dff
+   ccm
+   cdf
+
+601:
+   dff
+   ccm
+   cfd
+
+602:
+   dff
+   cmc
+   ddf
+
+603:
+   dff
+   cmc
+   ddc
+
+604:
+   dff
+   cmc
+   dfd
+
+605:
+   dff
+   cmc
+   dfc
+
+606:
+   dff
+   cmc
+   dcd
+
+607:
+   dff
+   cmc
+   dcf
+
+608:
+   dff
+   cmc
+   fdd
+
+609:
+   dff
+   cmc
+   fdc
+
+610:
+   dff
+   cmc
+   fcd
+
+611:
+   dff
+   cmc
+   cdd
+
+612:
+   dff
+   cmc
+   cdf
+
+613:
+   dff
+   cmc
+   cfd
+
+614:
+   dff
+   mdd
+   ccc
+
+615:
+   dff
+   mdf
+   ccc
+
+616:
+   dff
+   mfd
+   ccc
+
+617:
+   dfc
+   ddf
+   ccm
+
+618:
+   dfc
+   ddf
+   cmc
+
+619:
+   dfc
+   ddc
+   ffm
+
+620:
+   dfc
+   ddc
+   fmf
+
+621:
+   dfc
+   ddm
+   ffc
+
+622:
+   dfc
+   ddm
+   fcf
+
+623:
+   dfc
+   ddm
+   fcc
+
+624:
+   dfc
+   ddm
+   cff
+
+625:
+   dfc
+   ddm
+   cfc
+
+626:
+   dfc
+   ddm
+   ccf
+
+627:
+   dfc
+   dfd
+   ccm
+
+628:
+   dfc
+   dfd
+   cmc
+
+629:
+   dfc
+   dff
+   ccm
+
+630:
+   dfc
+   dff
+   cmc
+
+631:
+   dfc
+   dcd
+   ffm
+
+632:
+   dfc
+   dcd
+   fmf
+
+633:
+   dfc
+   dcc
+   ffm
+
+634:
+   dfc
+   dcc
+   fmf
+
+635:
+   dfc
+   dmd
+   ffc
+
+636:
+   dfc
+   dmd
+   fcf
+
+637:
+   dfc
+   dmd
+   fcc
+
+638:
+   dfc
+   dmd
+   cff
+
+639:
+   dfc
+   dmd
+   cfc
+
+640:
+   dfc
+   dmd
+   ccf
+
+641:
+   dfc
+   fdd
+   ccm
+
+642:
+   dfc
+   fdd
+   cmc
+
+643:
+   dfc
+   fdf
+   ccm
+
+644:
+   dfc
+   fdf
+   cmc
+
+645:
+   dfc
+   ffd
+   ccm
+
+646:
+   dfc
+   ffd
+   cmc
+
+647:
+   dfc
+   ffc
+   ddm
+
+648:
+   dfc
+   ffc
+   dmd
+
+649:
+   dfc
+   ffm
+   ddc
+
+650:
+   dfc
+   ffm
+   dcd
+
+651:
+   dfc
+   ffm
+   dcc
+
+652:
+   dfc
+   ffm
+   cdd
+
+653:
+   dfc
+   ffm
+   cdc
+
+654:
+   dfc
+   ffm
+   ccd
+
+655:
+   dfc
+   fcf
+   ddm
+
+656:
+   dfc
+   fcf
+   dmd
+
+657:
+   dfc
+   fcc
+   ddm
+
+658:
+   dfc
+   fcc
+   dmd
+
+659:
+   dfc
+   fmf
+   ddc
+
+660:
+   dfc
+   fmf
+   dcd
+
+661:
+   dfc
+   fmf
+   dcc
+
+662:
+   dfc
+   fmf
+   cdd
+
+663:
+   dfc
+   fmf
+   cdc
+
+664:
+   dfc
+   fmf
+   ccd
+
+665:
+   dfc
+   cdd
+   ffm
+
+666:
+   dfc
+   cdd
+   fmf
+
+667:
+   dfc
+   cdc
+   ffm
+
+668:
+   dfc
+   cdc
+   fmf
+
+669:
+   dfc
+   cff
+   ddm
+
+670:
+   dfc
+   cff
+   dmd
+
+671:
+   dfc
+   cfc
+   ddm
+
+672:
+   dfc
+   cfc
+   dmd
+
+673:
+   dfc
+   ccd
+   ffm
+
+674:
+   dfc
+   ccd
+   fmf
+
+675:
+   dfc
+   ccf
+   ddm
+
+676:
+   dfc
+   ccf
+   dmd
+
+677:
+   dfc
+   ccm
+   ddf
+
+678:
+   dfc
+   ccm
+   dfd
+
+679:
+   dfc
+   ccm
+   dff
+
+680:
+   dfc
+   ccm
+   fdd
+
+681:
+   dfc
+   ccm
+   fdf
+
+682:
+   dfc
+   ccm
+   ffd
+
+683:
+   dfc
+   cmc
+   ddf
+
+684:
+   dfc
+   cmc
+   dfd
+
+685:
+   dfc
+   cmc
+   dff
+
+686:
+   dfc
+   cmc
+   fdd
+
+687:
+   dfc
+   cmc
+   fdf
+
+688:
+   dfc
+   cmc
+   ffd
+
+689:
+   dfm
+   ddf
+   ccc
+
+690:
+   dfm
+   dfd
+   ccc
+
+691:
+   dfm
+   dff
+   ccc
+
+692:
+   dfm
+   fdd
+   ccc
+
+693:
+   dfm
+   fdf
+   ccc
+
+694:
+   dfm
+   ffd
+   ccc
+
+695:
+   dfm
+   ccc
+   ddf
+
+696:
+   dfm
+   ccc
+   dfd
+
+697:
+   dfm
+   ccc
+   dff
+
+698:
+   dfm
+   ccc
+   fdd
+
+699:
+   dfm
+   ccc
+   fdf
+
+700:
+   dfm
+   ccc
+   ffd
+
+701:
+   dcd
+   dff
+   ccm
+
+702:
+   dcd
+   dff
+   cmc
+
+703:
+   dcd
+   dfc
+   ffm
+
+704:
+   dcd
+   dfc
+   fmf
+
+705:
+   dcd
+   dcf
+   ffm
+
+706:
+   dcd
+   dcf
+   fmf
+
+707:
+   dcd
+   dcc
+   fff
+
+708:
+   dcd
+   dcc
+   ffm
+
+709:
+   dcd
+   dcc
+   fmf
+
+710:
+   dcd
+   dcm
+   fff
+
+711:
+   dcd
+   dmc
+   fff
+
+712:
+   dcd
+   fdf
+   ccm
+
+713:
+   dcd
+   fdf
+   cmc
+
+714:
+   dcd
+   fdc
+   ffm
+
+715:
+   dcd
+   fdc
+   fmf
+
+716:
+   dcd
+   ffd
+   ccm
+
+717:
+   dcd
+   ffd
+   cmc
+
+718:
+   dcd
+   fff
+   dcc
+
+719:
+   dcd
+   fff
+   dcm
+
+720:
+   dcd
+   fff
+   dmc
+
+721:
+   dcd
+   fff
+   cdc
+
+722:
+   dcd
+   fff
+   cdm
+
+723:
+   dcd
+   fff
+   ccd
+
+724:
+   dcd
+   fff
+   ccm
+
+725:
+   dcd
+   fff
+   cmd
+
+726:
+   dcd
+   fff
+   cmc
+
+727:
+   dcd
+   fff
+   mdc
+
+728:
+   dcd
+   fff
+   mcd
+
+729:
+   dcd
+   fff
+   mcc
+
+730:
+   dcd
+   ffm
+   dfc
+
+731:
+   dcd
+   ffm
+   dcf
+
+732:
+   dcd
+   ffm
+   dcc
+
+733:
+   dcd
+   ffm
+   fdc
+
+734:
+   dcd
+   ffm
+   fcd
+
+735:
+   dcd
+   ffm
+   fcc
+
+736:
+   dcd
+   ffm
+   cdf
+
+737:
+   dcd
+   ffm
+   cdc
+
+738:
+   dcd
+   ffm
+   cfd
+
+739:
+   dcd
+   ffm
+   cfc
+
+740:
+   dcd
+   ffm
+   ccd
+
+741:
+   dcd
+   ffm
+   ccf
+
+742:
+   dcd
+   fcd
+   ffm
+
+743:
+   dcd
+   fcd
+   fmf
+
+744:
+   dcd
+   fcc
+   ffm
+
+745:
+   dcd
+   fcc
+   fmf
+
+746:
+   dcd
+   fmf
+   dfc
+
+747:
+   dcd
+   fmf
+   dcf
+
+748:
+   dcd
+   fmf
+   dcc
+
+749:
+   dcd
+   fmf
+   fdc
+
+750:
+   dcd
+   fmf
+   fcd
+
+751:
+   dcd
+   fmf
+   fcc
+
+752:
+   dcd
+   fmf
+   cdf
+
+753:
+   dcd
+   fmf
+   cdc
+
+754:
+   dcd
+   fmf
+   cfd
+
+755:
+   dcd
+   fmf
+   cfc
+
+756:
+   dcd
+   fmf
+   ccd
+
+757:
+   dcd
+   fmf
+   ccf
+
+758:
+   dcd
+   cdf
+   ffm
+
+759:
+   dcd
+   cdf
+   fmf
+
+760:
+   dcd
+   cdc
+   fff
+
+761:
+   dcd
+   cdc
+   ffm
+
+762:
+   dcd
+   cdc
+   fmf
+
+763:
+   dcd
+   cdm
+   fff
+
+764:
+   dcd
+   cfd
+   ffm
+
+765:
+   dcd
+   cfd
+   fmf
+
+766:
+   dcd
+   cfc
+   ffm
+
+767:
+   dcd
+   cfc
+   fmf
+
+768:
+   dcd
+   ccd
+   fff
+
+769:
+   dcd
+   ccd
+   ffm
+
+770:
+   dcd
+   ccd
+   fmf
+
+771:
+   dcd
+   ccf
+   ffm
+
+772:
+   dcd
+   ccf
+   fmf
+
+773:
+   dcd
+   ccm
+   dff
+
+774:
+   dcd
+   ccm
+   fdf
+
+775:
+   dcd
+   ccm
+   ffd
+
+776:
+   dcd
+   ccm
+   fff
+
+777:
+   dcd
+   cmd
+   fff
+
+778:
+   dcd
+   cmc
+   dff
+
+779:
+   dcd
+   cmc
+   fdf
+
+780:
+   dcd
+   cmc
+   ffd
+
+781:
+   dcd
+   cmc
+   fff
+
+782:
+   dcd
+   mdc
+   fff
+
+783:
+   dcd
+   mcd
+   fff
+
+784:
+   dcd
+   mcc
+   fff
+
+785:
+   dcf
+   ddf
+   ccm
+
+786:
+   dcf
+   ddf
+   cmc
+
+787:
+   dcf
+   ddc
+   ffm
+
+788:
+   dcf
+   ddc
+   fmf
+
+789:
+   dcf
+   ddm
+   ffc
+
+790:
+   dcf
+   ddm
+   fcf
+
+791:
+   dcf
+   ddm
+   fcc
+
+792:
+   dcf
+   ddm
+   cff
+
+793:
+   dcf
+   ddm
+   cfc
+
+794:
+   dcf
+   ddm
+   ccf
+
+795:
+   dcf
+   dfd
+   ccm
+
+796:
+   dcf
+   dfd
+   cmc
+
+797:
+   dcf
+   dff
+   ccm
+
+798:
+   dcf
+   dff
+   cmc
+
+799:
+   dcf
+   dcd
+   ffm
+
+800:
+   dcf
+   dcd
+   fmf
+
+801:
+   dcf
+   dcc
+   ffm
+
+802:
+   dcf
+   dcc
+   fmf
+
+803:
+   dcf
+   dmd
+   ffc
+
+804:
+   dcf
+   dmd
+   fcf
+
+805:
+   dcf
+   dmd
+   fcc
+
+806:
+   dcf
+   dmd
+   cff
+
+807:
+   dcf
+   dmd
+   cfc
+
+808:
+   dcf
+   dmd
+   ccf
+
+809:
+   dcf
+   fdd
+   ccm
+
+810:
+   dcf
+   fdd
+   cmc
+
+811:
+   dcf
+   fdf
+   ccm
+
+812:
+   dcf
+   fdf
+   cmc
+
+813:
+   dcf
+   ffd
+   ccm
+
+814:
+   dcf
+   ffd
+   cmc
+
+815:
+   dcf
+   ffc
+   ddm
+
+816:
+   dcf
+   ffc
+   dmd
+
+817:
+   dcf
+   ffm
+   ddc
+
+818:
+   dcf
+   ffm
+   dcd
+
+819:
+   dcf
+   ffm
+   dcc
+
+820:
+   dcf
+   ffm
+   cdd
+
+821:
+   dcf
+   ffm
+   cdc
+
+822:
+   dcf
+   ffm
+   ccd
+
+823:
+   dcf
+   fcf
+   ddm
+
+824:
+   dcf
+   fcf
+   dmd
+
+825:
+   dcf
+   fcc
+   ddm
+
+826:
+   dcf
+   fcc
+   dmd
+
+827:
+   dcf
+   fmf
+   ddc
+
+828:
+   dcf
+   fmf
+   dcd
+
+829:
+   dcf
+   fmf
+   dcc
+
+830:
+   dcf
+   fmf
+   cdd
+
+831:
+   dcf
+   fmf
+   cdc
+
+832:
+   dcf
+   fmf
+   ccd
+
+833:
+   dcf
+   cdd
+   ffm
+
+834:
+   dcf
+   cdd
+   fmf
+
+835:
+   dcf
+   cdc
+   ffm
+
+836:
+   dcf
+   cdc
+   fmf
+
+837:
+   dcf
+   cff
+   ddm
+
+838:
+   dcf
+   cff
+   dmd
+
+839:
+   dcf
+   cfc
+   ddm
+
+840:
+   dcf
+   cfc
+   dmd
+
+841:
+   dcf
+   ccd
+   ffm
+
+842:
+   dcf
+   ccd
+   fmf
+
+843:
+   dcf
+   ccf
+   ddm
+
+844:
+   dcf
+   ccf
+   dmd
+
+845:
+   dcf
+   ccm
+   ddf
+
+846:
+   dcf
+   ccm
+   dfd
+
+847:
+   dcf
+   ccm
+   dff
+
+848:
+   dcf
+   ccm
+   fdd
+
+849:
+   dcf
+   ccm
+   fdf
+
+850:
+   dcf
+   ccm
+   ffd
+
+851:
+   dcf
+   cmc
+   ddf
+
+852:
+   dcf
+   cmc
+   dfd
+
+853:
+   dcf
+   cmc
+   dff
+
+854:
+   dcf
+   cmc
+   fdd
+
+855:
+   dcf
+   cmc
+   fdf
+
+856:
+   dcf
+   cmc
+   ffd
+
+857:
+   dcc
+   ddf
+   ffm
+
+858:
+   dcc
+   ddf
+   fmf
+
+859:
+   dcc
+   ddc
+   fff
+
+860:
+   dcc
+   ddc
+   ffm
+
+861:
+   dcc
+   ddc
+   fmf
+
+862:
+   dcc
+   ddm
+   fff
+
+863:
+   dcc
+   ddm
+   ffc
+
+864:
+   dcc
+   ddm
+   fcf
+
+865:
+   dcc
+   ddm
+   cff
+
+866:
+   dcc
+   dfd
+   ffm
+
+867:
+   dcc
+   dfd
+   fmf
+
+868:
+   dcc
+   dfc
+   ffm
+
+869:
+   dcc
+   dfc
+   fmf
+
+870:
+   dcc
+   dcd
+   fff
+
+871:
+   dcc
+   dcd
+   ffm
+
+872:
+   dcc
+   dcd
+   fmf
+
+873:
+   dcc
+   dcf
+   ffm
+
+874:
+   dcc
+   dcf
+   fmf
+
+875:
+   dcc
+   dcm
+   fff
+
+876:
+   dcc
+   dmd
+   fff
+
+877:
+   dcc
+   dmd
+   ffc
+
+878:
+   dcc
+   dmd
+   fcf
+
+879:
+   dcc
+   dmd
+   cff
+
+880:
+   dcc
+   dmc
+   fff
+
+881:
+   dcc
+   fdd
+   ffm
+
+882:
+   dcc
+   fdd
+   fmf
+
+883:
+   dcc
+   fdc
+   ffm
+
+884:
+   dcc
+   fdc
+   fmf
+
+885:
+   dcc
+   fff
+   ddc
+
+886:
+   dcc
+   fff
+   ddm
+
+887:
+   dcc
+   fff
+   dcd
+
+888:
+   dcc
+   fff
+   dcm
+
+889:
+   dcc
+   fff
+   dmd
+
+890:
+   dcc
+   fff
+   dmc
+
+891:
+   dcc
+   fff
+   cdd
+
+892:
+   dcc
+   fff
+   cdm
+
+893:
+   dcc
+   fff
+   cmd
+
+894:
+   dcc
+   fff
+   mdd
+
+895:
+   dcc
+   fff
+   mdc
+
+896:
+   dcc
+   fff
+   mcd
+
+897:
+   dcc
+   ffc
+   ddm
+
+898:
+   dcc
+   ffc
+   dmd
+
+899:
+   dcc
+   ffm
+   ddf
+
+900:
+   dcc
+   ffm
+   ddc
+
+901:
+   dcc
+   ffm
+   dfd
+
+902:
+   dcc
+   ffm
+   dfc
+
+903:
+   dcc
+   ffm
+   dcd
+
+904:
+   dcc
+   ffm
+   dcf
+
+905:
+   dcc
+   ffm
+   fdd
+
+906:
+   dcc
+   ffm
+   fdc
+
+907:
+   dcc
+   ffm
+   fcd
+
+908:
+   dcc
+   ffm
+   cdd
+
+909:
+   dcc
+   ffm
+   cdf
+
+910:
+   dcc
+   ffm
+   cfd
+
+911:
+   dcc
+   fcd
+   ffm
+
+912:
+   dcc
+   fcd
+   fmf
+
+913:
+   dcc
+   fcf
+   ddm
+
+914:
+   dcc
+   fcf
+   dmd
+
+915:
+   dcc
+   fmf
+   ddf
+
+916:
+   dcc
+   fmf
+   ddc
+
+917:
+   dcc
+   fmf
+   dfd
+
+918:
+   dcc
+   fmf
+   dfc
+
+919:
+   dcc
+   fmf
+   dcd
+
+920:
+   dcc
+   fmf
+   dcf
+
+921:
+   dcc
+   fmf
+   fdd
+
+922:
+   dcc
+   fmf
+   fdc
+
+923:
+   dcc
+   fmf
+   fcd
+
+924:
+   dcc
+   fmf
+   cdd
+
+925:
+   dcc
+   fmf
+   cdf
+
+926:
+   dcc
+   fmf
+   cfd
+
+927:
+   dcc
+   cdd
+   fff
+
+928:
+   dcc
+   cdd
+   ffm
+
+929:
+   dcc
+   cdd
+   fmf
+
+930:
+   dcc
+   cdf
+   ffm
+
+931:
+   dcc
+   cdf
+   fmf
+
+932:
+   dcc
+   cdm
+   fff
+
+933:
+   dcc
+   cfd
+   ffm
+
+934:
+   dcc
+   cfd
+   fmf
+
+935:
+   dcc
+   cff
+   ddm
+
+936:
+   dcc
+   cff
+   dmd
+
+937:
+   dcc
+   cmd
+   fff
+
+938:
+   dcc
+   mdd
+   fff
+
+939:
+   dcc
+   mdc
+   fff
+
+940:
+   dcc
+   mcd
+   fff
+
+941:
+   dcm
+   ddc
+   fff
+
+942:
+   dcm
+   dcd
+   fff
+
+943:
+   dcm
+   dcc
+   fff
+
+944:
+   dcm
+   fff
+   ddc
+
+945:
+   dcm
+   fff
+   dcd
+
+946:
+   dcm
+   fff
+   dcc
+
+947:
+   dcm
+   fff
+   cdd
+
+948:
+   dcm
+   fff
+   cdc
+
+949:
+   dcm
+   fff
+   ccd
+
+950:
+   dcm
+   cdd
+   fff
+
+951:
+   dcm
+   cdc
+   fff
+
+952:
+   dcm
+   ccd
+   fff
+
+953:
+   dmd
+   dff
+   fcc
+
+954:
+   dmd
+   dff
+   cfc
+
+955:
+   dmd
+   dff
+   ccf
+
+956:
+   dmd
+   dff
+   ccc
+
+957:
+   dmd
+   dfc
+   ffc
+
+958:
+   dmd
+   dfc
+   fcf
+
+959:
+   dmd
+   dfc
+   fcc
+
+960:
+   dmd
+   dfc
+   cff
+
+961:
+   dmd
+   dfc
+   cfc
+
+962:
+   dmd
+   dfc
+   ccf
+
+963:
+   dmd
+   dcf
+   ffc
+
+964:
+   dmd
+   dcf
+   fcf
+
+965:
+   dmd
+   dcf
+   fcc
+
+966:
+   dmd
+   dcf
+   cff
+
+967:
+   dmd
+   dcf
+   cfc
+
+968:
+   dmd
+   dcf
+   ccf
+
+969:
+   dmd
+   dcc
+   fff
+
+970:
+   dmd
+   dcc
+   ffc
+
+971:
+   dmd
+   dcc
+   fcf
+
+972:
+   dmd
+   dcc
+   cff
+
+973:
+   dmd
+   fdf
+   fcc
+
+974:
+   dmd
+   fdf
+   cfc
+
+975:
+   dmd
+   fdf
+   ccf
+
+976:
+   dmd
+   fdf
+   ccc
+
+977:
+   dmd
+   fdc
+   ffc
+
+978:
+   dmd
+   fdc
+   fcf
+
+979:
+   dmd
+   fdc
+   fcc
+
+980:
+   dmd
+   fdc
+   cff
+
+981:
+   dmd
+   fdc
+   cfc
+
+982:
+   dmd
+   fdc
+   ccf
+
+983:
+   dmd
+   ffd
+   fcc
+
+984:
+   dmd
+   ffd
+   cfc
+
+985:
+   dmd
+   ffd
+   ccf
+
+986:
+   dmd
+   ffd
+   ccc
+
+987:
+   dmd
+   fff
+   dcc
+
+988:
+   dmd
+   fff
+   cdc
+
+989:
+   dmd
+   fff
+   ccd
+
+990:
+   dmd
+   fff
+   ccc
+
+991:
+   dmd
+   ffc
+   dfc
+
+992:
+   dmd
+   ffc
+   dcf
+
+993:
+   dmd
+   ffc
+   dcc
+
+994:
+   dmd
+   ffc
+   fdc
+
+995:
+   dmd
+   ffc
+   fcd
+
+996:
+   dmd
+   ffc
+   fcc
+
+997:
+   dmd
+   ffc
+   cdf
+
+998:
+   dmd
+   ffc
+   cdc
+
+999:
+   dmd
+   ffc
+   cfd
+
+1000:
+   dmd
+   ffc
+   cfc
+
+1001:
+   dmd
+   ffc
+   ccd
+
+1002:
+   dmd
+   ffc
+   ccf
+
+1003:
+   dmd
+   fcd
+   ffc
+
+1004:
+   dmd
+   fcd
+   fcf
+
+1005:
+   dmd
+   fcd
+   fcc
+
+1006:
+   dmd
+   fcd
+   cff
+
+1007:
+   dmd
+   fcd
+   cfc
+
+1008:
+   dmd
+   fcd
+   ccf
+
+1009:
+   dmd
+   fcf
+   dfc
+
+1010:
+   dmd
+   fcf
+   dcf
+
+1011:
+   dmd
+   fcf
+   dcc
+
+1012:
+   dmd
+   fcf
+   fdc
+
+1013:
+   dmd
+   fcf
+   fcd
+
+1014:
+   dmd
+   fcf
+   fcc
+
+1015:
+   dmd
+   fcf
+   cdf
+
+1016:
+   dmd
+   fcf
+   cdc
+
+1017:
+   dmd
+   fcf
+   cfd
+
+1018:
+   dmd
+   fcf
+   cfc
+
+1019:
+   dmd
+   fcf
+   ccd
+
+1020:
+   dmd
+   fcf
+   ccf
+
+1021:
+   dmd
+   fcc
+   dff
+
+1022:
+   dmd
+   fcc
+   dfc
+
+1023:
+   dmd
+   fcc
+   dcf
+
+1024:
+   dmd
+   fcc
+   fdf
+
+1025:
+   dmd
+   fcc
+   fdc
+
+1026:
+   dmd
+   fcc
+   ffd
+
+1027:
+   dmd
+   fcc
+   ffc
+
+1028:
+   dmd
+   fcc
+   fcd
+
+1029:
+   dmd
+   fcc
+   fcf
+
+1030:
+   dmd
+   fcc
+   cdf
+
+1031:
+   dmd
+   fcc
+   cfd
+
+1032:
+   dmd
+   fcc
+   cff
+
+1033:
+   dmd
+   cdf
+   ffc
+
+1034:
+   dmd
+   cdf
+   fcf
+
+1035:
+   dmd
+   cdf
+   fcc
+
+1036:
+   dmd
+   cdf
+   cff
+
+1037:
+   dmd
+   cdf
+   cfc
+
+1038:
+   dmd
+   cdf
+   ccf
+
+1039:
+   dmd
+   cdc
+   fff
+
+1040:
+   dmd
+   cdc
+   ffc
+
+1041:
+   dmd
+   cdc
+   fcf
+
+1042:
+   dmd
+   cdc
+   cff
+
+1043:
+   dmd
+   cfd
+   ffc
+
+1044:
+   dmd
+   cfd
+   fcf
+
+1045:
+   dmd
+   cfd
+   fcc
+
+1046:
+   dmd
+   cfd
+   cff
+
+1047:
+   dmd
+   cfd
+   cfc
+
+1048:
+   dmd
+   cfd
+   ccf
+
+1049:
+   dmd
+   cff
+   dfc
+
+1050:
+   dmd
+   cff
+   dcf
+
+1051:
+   dmd
+   cff
+   dcc
+
+1052:
+   dmd
+   cff
+   fdc
+
+1053:
+   dmd
+   cff
+   fcd
+
+1054:
+   dmd
+   cff
+   fcc
+
+1055:
+   dmd
+   cff
+   cdf
+
+1056:
+   dmd
+   cff
+   cdc
+
+1057:
+   dmd
+   cff
+   cfd
+
+1058:
+   dmd
+   cff
+   cfc
+
+1059:
+   dmd
+   cff
+   ccd
+
+1060:
+   dmd
+   cff
+   ccf
+
+1061:
+   dmd
+   cfc
+   dff
+
+1062:
+   dmd
+   cfc
+   dfc
+
+1063:
+   dmd
+   cfc
+   dcf
+
+1064:
+   dmd
+   cfc
+   fdf
+
+1065:
+   dmd
+   cfc
+   fdc
+
+1066:
+   dmd
+   cfc
+   ffd
+
+1067:
+   dmd
+   cfc
+   ffc
+
+1068:
+   dmd
+   cfc
+   fcd
+
+1069:
+   dmd
+   cfc
+   fcf
+
+1070:
+   dmd
+   cfc
+   cdf
+
+1071:
+   dmd
+   cfc
+   cfd
+
+1072:
+   dmd
+   cfc
+   cff
+
+1073:
+   dmd
+   ccd
+   fff
+
+1074:
+   dmd
+   ccd
+   ffc
+
+1075:
+   dmd
+   ccd
+   fcf
+
+1076:
+   dmd
+   ccd
+   cff
+
+1077:
+   dmd
+   ccf
+   dff
+
+1078:
+   dmd
+   ccf
+   dfc
+
+1079:
+   dmd
+   ccf
+   dcf
+
+1080:
+   dmd
+   ccf
+   fdf
+
+1081:
+   dmd
+   ccf
+   fdc
+
+1082:
+   dmd
+   ccf
+   ffd
+
+1083:
+   dmd
+   ccf
+   ffc
+
+1084:
+   dmd
+   ccf
+   fcd
+
+1085:
+   dmd
+   ccf
+   fcf
+
+1086:
+   dmd
+   ccf
+   cdf
+
+1087:
+   dmd
+   ccf
+   cfd
+
+1088:
+   dmd
+   ccf
+   cff
+
+1089:
+   dmd
+   ccc
+   dff
+
+1090:
+   dmd
+   ccc
+   fdf
+
+1091:
+   dmd
+   ccc
+   ffd
+
+1092:
+   dmd
+   ccc
+   fff
+
+1093:
+   dmf
+   ddf
+   ccc
+
+1094:
+   dmf
+   dfd
+   ccc
+
+1095:
+   dmf
+   dff
+   ccc
+
+1096:
+   dmf
+   fdd
+   ccc
+
+1097:
+   dmf
+   fdf
+   ccc
+
+1098:
+   dmf
+   ffd
+   ccc
+
+1099:
+   dmf
+   ccc
+   ddf
+
+1100:
+   dmf
+   ccc
+   dfd
+
+1101:
+   dmf
+   ccc
+   dff
+
+1102:
+   dmf
+   ccc
+   fdd
+
+1103:
+   dmf
+   ccc
+   fdf
+
+1104:
+   dmf
+   ccc
+   ffd
+
+1105:
+   dmc
+   ddc
+   fff
+
+1106:
+   dmc
+   dcd
+   fff
+
+1107:
+   dmc
+   dcc
+   fff
+
+1108:
+   dmc
+   fff
+   ddc
+
+1109:
+   dmc
+   fff
+   dcd
+
+1110:
+   dmc
+   fff
+   dcc
+
+1111:
+   dmc
+   fff
+   cdd
+
+1112:
+   dmc
+   fff
+   cdc
+
+1113:
+   dmc
+   fff
+   ccd
+
+1114:
+   dmc
+   cdd
+   fff
+
+1115:
+   dmc
+   cdc
+   fff
+
+1116:
+   dmc
+   ccd
+   fff
+
+1117:
+   fdd
+   dff
+   ccc
+
+1118:
+   fdd
+   dff
+   ccm
+
+1119:
+   fdd
+   dff
+   cmc
+
+1120:
+   fdd
+   dfc
+   ccm
+
+1121:
+   fdd
+   dfc
+   cmc
+
+1122:
+   fdd
+   dfm
+   ccc
+
+1123:
+   fdd
+   dcf
+   ccm
+
+1124:
+   fdd
+   dcf
+   cmc
+
+1125:
+   fdd
+   dcc
+   ffm
+
+1126:
+   fdd
+   dcc
+   fmf
+
+1127:
+   fdd
+   dmf
+   ccc
+
+1128:
+   fdd
+   fdf
+   ccc
+
+1129:
+   fdd
+   fdf
+   ccm
+
+1130:
+   fdd
+   fdf
+   cmc
+
+1131:
+   fdd
+   fdc
+   ccm
+
+1132:
+   fdd
+   fdc
+   cmc
+
+1133:
+   fdd
+   fdm
+   ccc
+
+1134:
+   fdd
+   ffd
+   ccc
+
+1135:
+   fdd
+   ffd
+   ccm
+
+1136:
+   fdd
+   ffd
+   cmc
+
+1137:
+   fdd
+   ffc
+   ccm
+
+1138:
+   fdd
+   ffc
+   cmc
+
+1139:
+   fdd
+   ffm
+   dcc
+
+1140:
+   fdd
+   ffm
+   cdc
+
+1141:
+   fdd
+   ffm
+   ccd
+
+1142:
+   fdd
+   ffm
+   ccc
+
+1143:
+   fdd
+   fcd
+   ccm
+
+1144:
+   fdd
+   fcd
+   cmc
+
+1145:
+   fdd
+   fcf
+   ccm
+
+1146:
+   fdd
+   fcf
+   cmc
+
+1147:
+   fdd
+   fmd
+   ccc
+
+1148:
+   fdd
+   fmf
+   dcc
+
+1149:
+   fdd
+   fmf
+   cdc
+
+1150:
+   fdd
+   fmf
+   ccd
+
+1151:
+   fdd
+   fmf
+   ccc
+
+1152:
+   fdd
+   cdf
+   ccm
+
+1153:
+   fdd
+   cdf
+   cmc
+
+1154:
+   fdd
+   cdc
+   ffm
+
+1155:
+   fdd
+   cdc
+   fmf
+
+1156:
+   fdd
+   cfd
+   ccm
+
+1157:
+   fdd
+   cfd
+   cmc
+
+1158:
+   fdd
+   cff
+   ccm
+
+1159:
+   fdd
+   cff
+   cmc
+
+1160:
+   fdd
+   ccd
+   ffm
+
+1161:
+   fdd
+   ccd
+   fmf
+
+1162:
+   fdd
+   ccc
+   dff
+
+1163:
+   fdd
+   ccc
+   dfm
+
+1164:
+   fdd
+   ccc
+   dmf
+
+1165:
+   fdd
+   ccc
+   fdf
+
+1166:
+   fdd
+   ccc
+   fdm
+
+1167:
+   fdd
+   ccc
+   ffd
+
+1168:
+   fdd
+   ccc
+   ffm
+
+1169:
+   fdd
+   ccc
+   fmd
+
+1170:
+   fdd
+   ccc
+   fmf
+
+1171:
+   fdd
+   ccc
+   mdf
+
+1172:
+   fdd
+   ccc
+   mfd
+
+1173:
+   fdd
+   ccc
+   mff
+
+1174:
+   fdd
+   ccm
+   dff
+
+1175:
+   fdd
+   ccm
+   dfc
+
+1176:
+   fdd
+   ccm
+   dcf
+
+1177:
+   fdd
+   ccm
+   fdf
+
+1178:
+   fdd
+   ccm
+   fdc
+
+1179:
+   fdd
+   ccm
+   ffd
+
+1180:
+   fdd
+   ccm
+   ffc
+
+1181:
+   fdd
+   ccm
+   fcd
+
+1182:
+   fdd
+   ccm
+   fcf
+
+1183:
+   fdd
+   ccm
+   cdf
+
+1184:
+   fdd
+   ccm
+   cfd
+
+1185:
+   fdd
+   ccm
+   cff
+
+1186:
+   fdd
+   cmc
+   dff
+
+1187:
+   fdd
+   cmc
+   dfc
+
+1188:
+   fdd
+   cmc
+   dcf
+
+1189:
+   fdd
+   cmc
+   fdf
+
+1190:
+   fdd
+   cmc
+   fdc
+
+1191:
+   fdd
+   cmc
+   ffd
+
+1192:
+   fdd
+   cmc
+   ffc
+
+1193:
+   fdd
+   cmc
+   fcd
+
+1194:
+   fdd
+   cmc
+   fcf
+
+1195:
+   fdd
+   cmc
+   cdf
+
+1196:
+   fdd
+   cmc
+   cfd
+
+1197:
+   fdd
+   cmc
+   cff
+
+1198:
+   fdd
+   mdf
+   ccc
+
+1199:
+   fdd
+   mfd
+   ccc
+
+1200:
+   fdd
+   mff
+   ccc
+
+1201:
+   fdf
+   ddf
+   ccc
+
+1202:
+   fdf
+   ddf
+   ccm
+
+1203:
+   fdf
+   ddf
+   cmc
+
+1204:
+   fdf
+   ddc
+   ccm
+
+1205:
+   fdf
+   ddc
+   cmc
+
+1206:
+   fdf
+   ddm
+   fcc
+
+1207:
+   fdf
+   ddm
+   cfc
+
+1208:
+   fdf
+   ddm
+   ccf
+
+1209:
+   fdf
+   ddm
+   ccc
+
+1210:
+   fdf
+   dfd
+   ccc
+
+1211:
+   fdf
+   dfd
+   ccm
+
+1212:
+   fdf
+   dfd
+   cmc
+
+1213:
+   fdf
+   dfc
+   ccm
+
+1214:
+   fdf
+   dfc
+   cmc
+
+1215:
+   fdf
+   dfm
+   ccc
+
+1216:
+   fdf
+   dcd
+   ccm
+
+1217:
+   fdf
+   dcd
+   cmc
+
+1218:
+   fdf
+   dcf
+   ccm
+
+1219:
+   fdf
+   dcf
+   cmc
+
+1220:
+   fdf
+   dmd
+   fcc
+
+1221:
+   fdf
+   dmd
+   cfc
+
+1222:
+   fdf
+   dmd
+   ccf
+
+1223:
+   fdf
+   dmd
+   ccc
+
+1224:
+   fdf
+   dmf
+   ccc
+
+1225:
+   fdf
+   fdd
+   ccc
+
+1226:
+   fdf
+   fdd
+   ccm
+
+1227:
+   fdf
+   fdd
+   cmc
+
+1228:
+   fdf
+   fdc
+   ccm
+
+1229:
+   fdf
+   fdc
+   cmc
+
+1230:
+   fdf
+   fdm
+   ccc
+
+1231:
+   fdf
+   fcd
+   ccm
+
+1232:
+   fdf
+   fcd
+   cmc
+
+1233:
+   fdf
+   fcc
+   ddm
+
+1234:
+   fdf
+   fcc
+   dmd
+
+1235:
+   fdf
+   fmd
+   ccc
+
+1236:
+   fdf
+   cdd
+   ccm
+
+1237:
+   fdf
+   cdd
+   cmc
+
+1238:
+   fdf
+   cdf
+   ccm
+
+1239:
+   fdf
+   cdf
+   cmc
+
+1240:
+   fdf
+   cfd
+   ccm
+
+1241:
+   fdf
+   cfd
+   cmc
+
+1242:
+   fdf
+   cfc
+   ddm
+
+1243:
+   fdf
+   cfc
+   dmd
+
+1244:
+   fdf
+   ccf
+   ddm
+
+1245:
+   fdf
+   ccf
+   dmd
+
+1246:
+   fdf
+   ccc
+   ddf
+
+1247:
+   fdf
+   ccc
+   ddm
+
+1248:
+   fdf
+   ccc
+   dfd
+
+1249:
+   fdf
+   ccc
+   dfm
+
+1250:
+   fdf
+   ccc
+   dmd
+
+1251:
+   fdf
+   ccc
+   dmf
+
+1252:
+   fdf
+   ccc
+   fdd
+
+1253:
+   fdf
+   ccc
+   fdm
+
+1254:
+   fdf
+   ccc
+   fmd
+
+1255:
+   fdf
+   ccc
+   mdd
+
+1256:
+   fdf
+   ccc
+   mdf
+
+1257:
+   fdf
+   ccc
+   mfd
+
+1258:
+   fdf
+   ccm
+   ddf
+
+1259:
+   fdf
+   ccm
+   ddc
+
+1260:
+   fdf
+   ccm
+   dfd
+
+1261:
+   fdf
+   ccm
+   dfc
+
+1262:
+   fdf
+   ccm
+   dcd
+
+1263:
+   fdf
+   ccm
+   dcf
+
+1264:
+   fdf
+   ccm
+   fdd
+
+1265:
+   fdf
+   ccm
+   fdc
+
+1266:
+   fdf
+   ccm
+   fcd
+
+1267:
+   fdf
+   ccm
+   cdd
+
+1268:
+   fdf
+   ccm
+   cdf
+
+1269:
+   fdf
+   ccm
+   cfd
+
+1270:
+   fdf
+   cmc
+   ddf
+
+1271:
+   fdf
+   cmc
+   ddc
+
+1272:
+   fdf
+   cmc
+   dfd
+
+1273:
+   fdf
+   cmc
+   dfc
+
+1274:
+   fdf
+   cmc
+   dcd
+
+1275:
+   fdf
+   cmc
+   dcf
+
+1276:
+   fdf
+   cmc
+   fdd
+
+1277:
+   fdf
+   cmc
+   fdc
+
+1278:
+   fdf
+   cmc
+   fcd
+
+1279:
+   fdf
+   cmc
+   cdd
+
+1280:
+   fdf
+   cmc
+   cdf
+
+1281:
+   fdf
+   cmc
+   cfd
+
+1282:
+   fdf
+   mdd
+   ccc
+
+1283:
+   fdf
+   mdf
+   ccc
+
+1284:
+   fdf
+   mfd
+   ccc
+
+1285:
+   fdc
+   ddf
+   ccm
+
+1286:
+   fdc
+   ddf
+   cmc
+
+1287:
+   fdc
+   ddc
+   ffm
+
+1288:
+   fdc
+   ddc
+   fmf
+
+1289:
+   fdc
+   ddm
+   ffc
+
+1290:
+   fdc
+   ddm
+   fcf
+
+1291:
+   fdc
+   ddm
+   fcc
+
+1292:
+   fdc
+   ddm
+   cff
+
+1293:
+   fdc
+   ddm
+   cfc
+
+1294:
+   fdc
+   ddm
+   ccf
+
+1295:
+   fdc
+   dfd
+   ccm
+
+1296:
+   fdc
+   dfd
+   cmc
+
+1297:
+   fdc
+   dff
+   ccm
+
+1298:
+   fdc
+   dff
+   cmc
+
+1299:
+   fdc
+   dcd
+   ffm
+
+1300:
+   fdc
+   dcd
+   fmf
+
+1301:
+   fdc
+   dcc
+   ffm
+
+1302:
+   fdc
+   dcc
+   fmf
+
+1303:
+   fdc
+   dmd
+   ffc
+
+1304:
+   fdc
+   dmd
+   fcf
+
+1305:
+   fdc
+   dmd
+   fcc
+
+1306:
+   fdc
+   dmd
+   cff
+
+1307:
+   fdc
+   dmd
+   cfc
+
+1308:
+   fdc
+   dmd
+   ccf
+
+1309:
+   fdc
+   fdd
+   ccm
+
+1310:
+   fdc
+   fdd
+   cmc
+
+1311:
+   fdc
+   fdf
+   ccm
+
+1312:
+   fdc
+   fdf
+   cmc
+
+1313:
+   fdc
+   ffd
+   ccm
+
+1314:
+   fdc
+   ffd
+   cmc
+
+1315:
+   fdc
+   ffc
+   ddm
+
+1316:
+   fdc
+   ffc
+   dmd
+
+1317:
+   fdc
+   ffm
+   ddc
+
+1318:
+   fdc
+   ffm
+   dcd
+
+1319:
+   fdc
+   ffm
+   dcc
+
+1320:
+   fdc
+   ffm
+   cdd
+
+1321:
+   fdc
+   ffm
+   cdc
+
+1322:
+   fdc
+   ffm
+   ccd
+
+1323:
+   fdc
+   fcf
+   ddm
+
+1324:
+   fdc
+   fcf
+   dmd
+
+1325:
+   fdc
+   fcc
+   ddm
+
+1326:
+   fdc
+   fcc
+   dmd
+
+1327:
+   fdc
+   fmf
+   ddc
+
+1328:
+   fdc
+   fmf
+   dcd
+
+1329:
+   fdc
+   fmf
+   dcc
+
+1330:
+   fdc
+   fmf
+   cdd
+
+1331:
+   fdc
+   fmf
+   cdc
+
+1332:
+   fdc
+   fmf
+   ccd
+
+1333:
+   fdc
+   cdd
+   ffm
+
+1334:
+   fdc
+   cdd
+   fmf
+
+1335:
+   fdc
+   cdc
+   ffm
+
+1336:
+   fdc
+   cdc
+   fmf
+
+1337:
+   fdc
+   cff
+   ddm
+
+1338:
+   fdc
+   cff
+   dmd
+
+1339:
+   fdc
+   cfc
+   ddm
+
+1340:
+   fdc
+   cfc
+   dmd
+
+1341:
+   fdc
+   ccd
+   ffm
+
+1342:
+   fdc
+   ccd
+   fmf
+
+1343:
+   fdc
+   ccf
+   ddm
+
+1344:
+   fdc
+   ccf
+   dmd
+
+1345:
+   fdc
+   ccm
+   ddf
+
+1346:
+   fdc
+   ccm
+   dfd
+
+1347:
+   fdc
+   ccm
+   dff
+
+1348:
+   fdc
+   ccm
+   fdd
+
+1349:
+   fdc
+   ccm
+   fdf
+
+1350:
+   fdc
+   ccm
+   ffd
+
+1351:
+   fdc
+   cmc
+   ddf
+
+1352:
+   fdc
+   cmc
+   dfd
+
+1353:
+   fdc
+   cmc
+   dff
+
+1354:
+   fdc
+   cmc
+   fdd
+
+1355:
+   fdc
+   cmc
+   fdf
+
+1356:
+   fdc
+   cmc
+   ffd
+
+1357:
+   fdm
+   ddf
+   ccc
+
+1358:
+   fdm
+   dfd
+   ccc
+
+1359:
+   fdm
+   dff
+   ccc
+
+1360:
+   fdm
+   fdd
+   ccc
+
+1361:
+   fdm
+   fdf
+   ccc
+
+1362:
+   fdm
+   ffd
+   ccc
+
+1363:
+   fdm
+   ccc
+   ddf
+
+1364:
+   fdm
+   ccc
+   dfd
+
+1365:
+   fdm
+   ccc
+   dff
+
+1366:
+   fdm
+   ccc
+   fdd
+
+1367:
+   fdm
+   ccc
+   fdf
+
+1368:
+   fdm
+   ccc
+   ffd
+
+1369:
+   ffd
+   ddf
+   ccc
+
+1370:
+   ffd
+   ddf
+   ccm
+
+1371:
+   ffd
+   ddf
+   cmc
+
+1372:
+   ffd
+   ddc
+   ccm
+
+1373:
+   ffd
+   ddc
+   cmc
+
+1374:
+   ffd
+   ddm
+   fcc
+
+1375:
+   ffd
+   ddm
+   cfc
+
+1376:
+   ffd
+   ddm
+   ccf
+
+1377:
+   ffd
+   ddm
+   ccc
+
+1378:
+   ffd
+   dfd
+   ccc
+
+1379:
+   ffd
+   dfd
+   ccm
+
+1380:
+   ffd
+   dfd
+   cmc
+
+1381:
+   ffd
+   dfc
+   ccm
+
+1382:
+   ffd
+   dfc
+   cmc
+
+1383:
+   ffd
+   dfm
+   ccc
+
+1384:
+   ffd
+   dcd
+   ccm
+
+1385:
+   ffd
+   dcd
+   cmc
+
+1386:
+   ffd
+   dcf
+   ccm
+
+1387:
+   ffd
+   dcf
+   cmc
+
+1388:
+   ffd
+   dmd
+   fcc
+
+1389:
+   ffd
+   dmd
+   cfc
+
+1390:
+   ffd
+   dmd
+   ccf
+
+1391:
+   ffd
+   dmd
+   ccc
+
+1392:
+   ffd
+   dmf
+   ccc
+
+1393:
+   ffd
+   fdd
+   ccc
+
+1394:
+   ffd
+   fdd
+   ccm
+
+1395:
+   ffd
+   fdd
+   cmc
+
+1396:
+   ffd
+   fdc
+   ccm
+
+1397:
+   ffd
+   fdc
+   cmc
+
+1398:
+   ffd
+   fdm
+   ccc
+
+1399:
+   ffd
+   fcd
+   ccm
+
+1400:
+   ffd
+   fcd
+   cmc
+
+1401:
+   ffd
+   fcc
+   ddm
+
+1402:
+   ffd
+   fcc
+   dmd
+
+1403:
+   ffd
+   fmd
+   ccc
+
+1404:
+   ffd
+   cdd
+   ccm
+
+1405:
+   ffd
+   cdd
+   cmc
+
+1406:
+   ffd
+   cdf
+   ccm
+
+1407:
+   ffd
+   cdf
+   cmc
+
+1408:
+   ffd
+   cfd
+   ccm
+
+1409:
+   ffd
+   cfd
+   cmc
+
+1410:
+   ffd
+   cfc
+   ddm
+
+1411:
+   ffd
+   cfc
+   dmd
+
+1412:
+   ffd
+   ccf
+   ddm
+
+1413:
+   ffd
+   ccf
+   dmd
+
+1414:
+   ffd
+   ccc
+   ddf
+
+1415:
+   ffd
+   ccc
+   ddm
+
+1416:
+   ffd
+   ccc
+   dfd
+
+1417:
+   ffd
+   ccc
+   dfm
+
+1418:
+   ffd
+   ccc
+   dmd
+
+1419:
+   ffd
+   ccc
+   dmf
+
+1420:
+   ffd
+   ccc
+   fdd
+
+1421:
+   ffd
+   ccc
+   fdm
+
+1422:
+   ffd
+   ccc
+   fmd
+
+1423:
+   ffd
+   ccc
+   mdd
+
+1424:
+   ffd
+   ccc
+   mdf
+
+1425:
+   ffd
+   ccc
+   mfd
+
+1426:
+   ffd
+   ccm
+   ddf
+
+1427:
+   ffd
+   ccm
+   ddc
+
+1428:
+   ffd
+   ccm
+   dfd
+
+1429:
+   ffd
+   ccm
+   dfc
+
+1430:
+   ffd
+   ccm
+   dcd
+
+1431:
+   ffd
+   ccm
+   dcf
+
+1432:
+   ffd
+   ccm
+   fdd
+
+1433:
+   ffd
+   ccm
+   fdc
+
+1434:
+   ffd
+   ccm
+   fcd
+
+1435:
+   ffd
+   ccm
+   cdd
+
+1436:
+   ffd
+   ccm
+   cdf
+
+1437:
+   ffd
+   ccm
+   cfd
+
+1438:
+   ffd
+   cmc
+   ddf
+
+1439:
+   ffd
+   cmc
+   ddc
+
+1440:
+   ffd
+   cmc
+   dfd
+
+1441:
+   ffd
+   cmc
+   dfc
+
+1442:
+   ffd
+   cmc
+   dcd
+
+1443:
+   ffd
+   cmc
+   dcf
+
+1444:
+   ffd
+   cmc
+   fdd
+
+1445:
+   ffd
+   cmc
+   fdc
+
+1446:
+   ffd
+   cmc
+   fcd
+
+1447:
+   ffd
+   cmc
+   cdd
+
+1448:
+   ffd
+   cmc
+   cdf
+
+1449:
+   ffd
+   cmc
+   cfd
+
+1450:
+   ffd
+   mdd
+   ccc
+
+1451:
+   ffd
+   mdf
+   ccc
+
+1452:
+   ffd
+   mfd
+   ccc
+
+1453:
+   fff
+   ddd
+   ccc
+
+1454:
+   fff
+   ddd
+   ccm
+
+1455:
+   fff
+   ddd
+   cmc
+
+1456:
+   fff
+   ddd
+   mcc
+
+1457:
+   fff
+   ddc
+   dcc
+
+1458:
+   fff
+   ddc
+   dcm
+
+1459:
+   fff
+   ddc
+   dmc
+
+1460:
+   fff
+   ddc
+   cdc
+
+1461:
+   fff
+   ddc
+   cdm
+
+1462:
+   fff
+   ddc
+   ccd
+
+1463:
+   fff
+   ddc
+   ccm
+
+1464:
+   fff
+   ddc
+   cmd
+
+1465:
+   fff
+   ddc
+   cmc
+
+1466:
+   fff
+   ddc
+   mdc
+
+1467:
+   fff
+   ddc
+   mcd
+
+1468:
+   fff
+   ddc
+   mcc
+
+1469:
+   fff
+   ddm
+   dcc
+
+1470:
+   fff
+   ddm
+   cdc
+
+1471:
+   fff
+   ddm
+   ccd
+
+1472:
+   fff
+   ddm
+   ccc
+
+1473:
+   fff
+   dcd
+   dcc
+
+1474:
+   fff
+   dcd
+   dcm
+
+1475:
+   fff
+   dcd
+   dmc
+
+1476:
+   fff
+   dcd
+   cdc
+
+1477:
+   fff
+   dcd
+   cdm
+
+1478:
+   fff
+   dcd
+   ccd
+
+1479:
+   fff
+   dcd
+   ccm
+
+1480:
+   fff
+   dcd
+   cmd
+
+1481:
+   fff
+   dcd
+   cmc
+
+1482:
+   fff
+   dcd
+   mdc
+
+1483:
+   fff
+   dcd
+   mcd
+
+1484:
+   fff
+   dcd
+   mcc
+
+1485:
+   fff
+   dcc
+   ddc
+
+1486:
+   fff
+   dcc
+   ddm
+
+1487:
+   fff
+   dcc
+   dcd
+
+1488:
+   fff
+   dcc
+   dcm
+
+1489:
+   fff
+   dcc
+   dmd
+
+1490:
+   fff
+   dcc
+   dmc
+
+1491:
+   fff
+   dcc
+   cdd
+
+1492:
+   fff
+   dcc
+   cdm
+
+1493:
+   fff
+   dcc
+   cmd
+
+1494:
+   fff
+   dcc
+   mdd
+
+1495:
+   fff
+   dcc
+   mdc
+
+1496:
+   fff
+   dcc
+   mcd
+
+1497:
+   fff
+   dcm
+   ddc
+
+1498:
+   fff
+   dcm
+   dcd
+
+1499:
+   fff
+   dcm
+   dcc
+
+1500:
+   fff
+   dcm
+   cdd
+
+1501:
+   fff
+   dcm
+   cdc
+
+1502:
+   fff
+   dcm
+   ccd
+
+1503:
+   fff
+   dmd
+   dcc
+
+1504:
+   fff
+   dmd
+   cdc
+
+1505:
+   fff
+   dmd
+   ccd
+
+1506:
+   fff
+   dmd
+   ccc
+
+1507:
+   fff
+   dmc
+   ddc
+
+1508:
+   fff
+   dmc
+   dcd
+
+1509:
+   fff
+   dmc
+   dcc
+
+1510:
+   fff
+   dmc
+   cdd
+
+1511:
+   fff
+   dmc
+   cdc
+
+1512:
+   fff
+   dmc
+   ccd
+
+1513:
+   fff
+   cdd
+   dcc
+
+1514:
+   fff
+   cdd
+   dcm
+
+1515:
+   fff
+   cdd
+   dmc
+
+1516:
+   fff
+   cdd
+   cdc
+
+1517:
+   fff
+   cdd
+   cdm
+
+1518:
+   fff
+   cdd
+   ccd
+
+1519:
+   fff
+   cdd
+   ccm
+
+1520:
+   fff
+   cdd
+   cmd
+
+1521:
+   fff
+   cdd
+   cmc
+
+1522:
+   fff
+   cdd
+   mdc
+
+1523:
+   fff
+   cdd
+   mcd
+
+1524:
+   fff
+   cdd
+   mcc
+
+1525:
+   fff
+   cdc
+   ddc
+
+1526:
+   fff
+   cdc
+   ddm
+
+1527:
+   fff
+   cdc
+   dcd
+
+1528:
+   fff
+   cdc
+   dcm
+
+1529:
+   fff
+   cdc
+   dmd
+
+1530:
+   fff
+   cdc
+   dmc
+
+1531:
+   fff
+   cdc
+   cdd
+
+1532:
+   fff
+   cdc
+   cdm
+
+1533:
+   fff
+   cdc
+   cmd
+
+1534:
+   fff
+   cdc
+   mdd
+
+1535:
+   fff
+   cdc
+   mdc
+
+1536:
+   fff
+   cdc
+   mcd
+
+1537:
+   fff
+   cdm
+   ddc
+
+1538:
+   fff
+   cdm
+   dcd
+
+1539:
+   fff
+   cdm
+   dcc
+
+1540:
+   fff
+   cdm
+   cdd
+
+1541:
+   fff
+   cdm
+   cdc
+
+1542:
+   fff
+   cdm
+   ccd
+
+1543:
+   fff
+   ccd
+   ddc
+
+1544:
+   fff
+   ccd
+   ddm
+
+1545:
+   fff
+   ccd
+   dcd
+
+1546:
+   fff
+   ccd
+   dcm
+
+1547:
+   fff
+   ccd
+   dmd
+
+1548:
+   fff
+   ccd
+   dmc
+
+1549:
+   fff
+   ccd
+   cdd
+
+1550:
+   fff
+   ccd
+   cdm
+
+1551:
+   fff
+   ccd
+   cmd
+
+1552:
+   fff
+   ccd
+   mdd
+
+1553:
+   fff
+   ccd
+   mdc
+
+1554:
+   fff
+   ccd
+   mcd
+
+1555:
+   fff
+   ccc
+   ddd
+
+1556:
+   fff
+   ccc
+   ddm
+
+1557:
+   fff
+   ccc
+   dmd
+
+1558:
+   fff
+   ccc
+   mdd
+
+1559:
+   fff
+   ccm
+   ddd
+
+1560:
+   fff
+   ccm
+   ddc
+
+1561:
+   fff
+   ccm
+   dcd
+
+1562:
+   fff
+   ccm
+   cdd
+
+1563:
+   fff
+   cmd
+   ddc
+
+1564:
+   fff
+   cmd
+   dcd
+
+1565:
+   fff
+   cmd
+   dcc
+
+1566:
+   fff
+   cmd
+   cdd
+
+1567:
+   fff
+   cmd
+   cdc
+
+1568:
+   fff
+   cmd
+   ccd
+
+1569:
+   fff
+   cmc
+   ddd
+
+1570:
+   fff
+   cmc
+   ddc
+
+1571:
+   fff
+   cmc
+   dcd
+
+1572:
+   fff
+   cmc
+   cdd
+
+1573:
+   fff
+   mdd
+   dcc
+
+1574:
+   fff
+   mdd
+   cdc
+
+1575:
+   fff
+   mdd
+   ccd
+
+1576:
+   fff
+   mdd
+   ccc
+
+1577:
+   fff
+   mdc
+   ddc
+
+1578:
+   fff
+   mdc
+   dcd
+
+1579:
+   fff
+   mdc
+   dcc
+
+1580:
+   fff
+   mdc
+   cdd
+
+1581:
+   fff
+   mdc
+   cdc
+
+1582:
+   fff
+   mdc
+   ccd
+
+1583:
+   fff
+   mcd
+   ddc
+
+1584:
+   fff
+   mcd
+   dcd
+
+1585:
+   fff
+   mcd
+   dcc
+
+1586:
+   fff
+   mcd
+   cdd
+
+1587:
+   fff
+   mcd
+   cdc
+
+1588:
+   fff
+   mcd
+   ccd
+
+1589:
+   fff
+   mcc
+   ddd
+
+1590:
+   fff
+   mcc
+   ddc
+
+1591:
+   fff
+   mcc
+   dcd
+
+1592:
+   fff
+   mcc
+   cdd
+
+1593:
+   ffc
+   ddd
+   fcc
+
+1594:
+   ffc
+   ddd
+   fcm
+
+1595:
+   ffc
+   ddd
+   fmc
+
+1596:
+   ffc
+   ddd
+   cfc
+
+1597:
+   ffc
+   ddd
+   cfm
+
+1598:
+   ffc
+   ddd
+   ccf
+
+1599:
+   ffc
+   ddd
+   ccm
+
+1600:
+   ffc
+   ddd
+   cmf
+
+1601:
+   ffc
+   ddd
+   cmc
+
+1602:
+   ffc
+   ddd
+   mfc
+
+1603:
+   ffc
+   ddd
+   mcf
+
+1604:
+   ffc
+   ddd
+   mcc
+
+1605:
+   ffc
+   ddf
+   ccm
+
+1606:
+   ffc
+   ddf
+   cmc
+
+1607:
+   ffc
+   ddm
+   dfc
+
+1608:
+   ffc
+   ddm
+   dcf
+
+1609:
+   ffc
+   ddm
+   dcc
+
+1610:
+   ffc
+   ddm
+   fdc
+
+1611:
+   ffc
+   ddm
+   fcd
+
+1612:
+   ffc
+   ddm
+   fcc
+
+1613:
+   ffc
+   ddm
+   cdf
+
+1614:
+   ffc
+   ddm
+   cdc
+
+1615:
+   ffc
+   ddm
+   cfd
+
+1616:
+   ffc
+   ddm
+   cfc
+
+1617:
+   ffc
+   ddm
+   ccd
+
+1618:
+   ffc
+   ddm
+   ccf
+
+1619:
+   ffc
+   dfd
+   ccm
+
+1620:
+   ffc
+   dfd
+   cmc
+
+1621:
+   ffc
+   dfc
+   ddm
+
+1622:
+   ffc
+   dfc
+   dmd
+
+1623:
+   ffc
+   dcf
+   ddm
+
+1624:
+   ffc
+   dcf
+   dmd
+
+1625:
+   ffc
+   dcc
+   ddm
+
+1626:
+   ffc
+   dcc
+   dmd
+
+1627:
+   ffc
+   dmd
+   dfc
+
+1628:
+   ffc
+   dmd
+   dcf
+
+1629:
+   ffc
+   dmd
+   dcc
+
+1630:
+   ffc
+   dmd
+   fdc
+
+1631:
+   ffc
+   dmd
+   fcd
+
+1632:
+   ffc
+   dmd
+   fcc
+
+1633:
+   ffc
+   dmd
+   cdf
+
+1634:
+   ffc
+   dmd
+   cdc
+
+1635:
+   ffc
+   dmd
+   cfd
+
+1636:
+   ffc
+   dmd
+   cfc
+
+1637:
+   ffc
+   dmd
+   ccd
+
+1638:
+   ffc
+   dmd
+   ccf
+
+1639:
+   ffc
+   fdd
+   ccm
+
+1640:
+   ffc
+   fdd
+   cmc
+
+1641:
+   ffc
+   fdc
+   ddm
+
+1642:
+   ffc
+   fdc
+   dmd
+
+1643:
+   ffc
+   fcd
+   ddm
+
+1644:
+   ffc
+   fcd
+   dmd
+
+1645:
+   ffc
+   fcc
+   ddd
+
+1646:
+   ffc
+   fcc
+   ddm
+
+1647:
+   ffc
+   fcc
+   dmd
+
+1648:
+   ffc
+   fcm
+   ddd
+
+1649:
+   ffc
+   fmc
+   ddd
+
+1650:
+   ffc
+   cdf
+   ddm
+
+1651:
+   ffc
+   cdf
+   dmd
+
+1652:
+   ffc
+   cdc
+   ddm
+
+1653:
+   ffc
+   cdc
+   dmd
+
+1654:
+   ffc
+   cfd
+   ddm
+
+1655:
+   ffc
+   cfd
+   dmd
+
+1656:
+   ffc
+   cfc
+   ddd
+
+1657:
+   ffc
+   cfc
+   ddm
+
+1658:
+   ffc
+   cfc
+   dmd
+
+1659:
+   ffc
+   cfm
+   ddd
+
+1660:
+   ffc
+   ccd
+   ddm
+
+1661:
+   ffc
+   ccd
+   dmd
+
+1662:
+   ffc
+   ccf
+   ddd
+
+1663:
+   ffc
+   ccf
+   ddm
+
+1664:
+   ffc
+   ccf
+   dmd
+
+1665:
+   ffc
+   ccm
+   ddd
+
+1666:
+   ffc
+   ccm
+   ddf
+
+1667:
+   ffc
+   ccm
+   dfd
+
+1668:
+   ffc
+   ccm
+   fdd
+
+1669:
+   ffc
+   cmf
+   ddd
+
+1670:
+   ffc
+   cmc
+   ddd
+
+1671:
+   ffc
+   cmc
+   ddf
+
+1672:
+   ffc
+   cmc
+   dfd
+
+1673:
+   ffc
+   cmc
+   fdd
+
+1674:
+   ffc
+   mfc
+   ddd
+
+1675:
+   ffc
+   mcf
+   ddd
+
+1676:
+   ffc
+   mcc
+   ddd
+
+1677:
+   ffm
+   ddd
+   fcc
+
+1678:
+   ffm
+   ddd
+   cfc
+
+1679:
+   ffm
+   ddd
+   ccf
+
+1680:
+   ffm
+   ddd
+   ccc
+
+1681:
+   ffm
+   ddf
+   dcc
+
+1682:
+   ffm
+   ddf
+   cdc
+
+1683:
+   ffm
+   ddf
+   ccd
+
+1684:
+   ffm
+   ddf
+   ccc
+
+1685:
+   ffm
+   ddc
+   dfc
+
+1686:
+   ffm
+   ddc
+   dcf
+
+1687:
+   ffm
+   ddc
+   dcc
+
+1688:
+   ffm
+   ddc
+   fdc
+
+1689:
+   ffm
+   ddc
+   fcd
+
+1690:
+   ffm
+   ddc
+   fcc
+
+1691:
+   ffm
+   ddc
+   cdf
+
+1692:
+   ffm
+   ddc
+   cdc
+
+1693:
+   ffm
+   ddc
+   cfd
+
+1694:
+   ffm
+   ddc
+   cfc
+
+1695:
+   ffm
+   ddc
+   ccd
+
+1696:
+   ffm
+   ddc
+   ccf
+
+1697:
+   ffm
+   dfd
+   dcc
+
+1698:
+   ffm
+   dfd
+   cdc
+
+1699:
+   ffm
+   dfd
+   ccd
+
+1700:
+   ffm
+   dfd
+   ccc
+
+1701:
+   ffm
+   dfc
+   ddc
+
+1702:
+   ffm
+   dfc
+   dcd
+
+1703:
+   ffm
+   dfc
+   dcc
+
+1704:
+   ffm
+   dfc
+   cdd
+
+1705:
+   ffm
+   dfc
+   cdc
+
+1706:
+   ffm
+   dfc
+   ccd
+
+1707:
+   ffm
+   dcd
+   dfc
+
+1708:
+   ffm
+   dcd
+   dcf
+
+1709:
+   ffm
+   dcd
+   dcc
+
+1710:
+   ffm
+   dcd
+   fdc
+
+1711:
+   ffm
+   dcd
+   fcd
+
+1712:
+   ffm
+   dcd
+   fcc
+
+1713:
+   ffm
+   dcd
+   cdf
+
+1714:
+   ffm
+   dcd
+   cdc
+
+1715:
+   ffm
+   dcd
+   cfd
+
+1716:
+   ffm
+   dcd
+   cfc
+
+1717:
+   ffm
+   dcd
+   ccd
+
+1718:
+   ffm
+   dcd
+   ccf
+
+1719:
+   ffm
+   dcf
+   ddc
+
+1720:
+   ffm
+   dcf
+   dcd
+
+1721:
+   ffm
+   dcf
+   dcc
+
+1722:
+   ffm
+   dcf
+   cdd
+
+1723:
+   ffm
+   dcf
+   cdc
+
+1724:
+   ffm
+   dcf
+   ccd
+
+1725:
+   ffm
+   dcc
+   ddf
+
+1726:
+   ffm
+   dcc
+   ddc
+
+1727:
+   ffm
+   dcc
+   dfd
+
+1728:
+   ffm
+   dcc
+   dfc
+
+1729:
+   ffm
+   dcc
+   dcd
+
+1730:
+   ffm
+   dcc
+   dcf
+
+1731:
+   ffm
+   dcc
+   fdd
+
+1732:
+   ffm
+   dcc
+   fdc
+
+1733:
+   ffm
+   dcc
+   fcd
+
+1734:
+   ffm
+   dcc
+   cdd
+
+1735:
+   ffm
+   dcc
+   cdf
+
+1736:
+   ffm
+   dcc
+   cfd
+
+1737:
+   ffm
+   fdd
+   dcc
+
+1738:
+   ffm
+   fdd
+   cdc
+
+1739:
+   ffm
+   fdd
+   ccd
+
+1740:
+   ffm
+   fdd
+   ccc
+
+1741:
+   ffm
+   fdc
+   ddc
+
+1742:
+   ffm
+   fdc
+   dcd
+
+1743:
+   ffm
+   fdc
+   dcc
+
+1744:
+   ffm
+   fdc
+   cdd
+
+1745:
+   ffm
+   fdc
+   cdc
+
+1746:
+   ffm
+   fdc
+   ccd
+
+1747:
+   ffm
+   fcd
+   ddc
+
+1748:
+   ffm
+   fcd
+   dcd
+
+1749:
+   ffm
+   fcd
+   dcc
+
+1750:
+   ffm
+   fcd
+   cdd
+
+1751:
+   ffm
+   fcd
+   cdc
+
+1752:
+   ffm
+   fcd
+   ccd
+
+1753:
+   ffm
+   fcc
+   ddd
+
+1754:
+   ffm
+   fcc
+   ddc
+
+1755:
+   ffm
+   fcc
+   dcd
+
+1756:
+   ffm
+   fcc
+   cdd
+
+1757:
+   ffm
+   cdd
+   dfc
+
+1758:
+   ffm
+   cdd
+   dcf
+
+1759:
+   ffm
+   cdd
+   dcc
+
+1760:
+   ffm
+   cdd
+   fdc
+
+1761:
+   ffm
+   cdd
+   fcd
+
+1762:
+   ffm
+   cdd
+   fcc
+
+1763:
+   ffm
+   cdd
+   cdf
+
+1764:
+   ffm
+   cdd
+   cdc
+
+1765:
+   ffm
+   cdd
+   cfd
+
+1766:
+   ffm
+   cdd
+   cfc
+
+1767:
+   ffm
+   cdd
+   ccd
+
+1768:
+   ffm
+   cdd
+   ccf
+
+1769:
+   ffm
+   cdf
+   ddc
+
+1770:
+   ffm
+   cdf
+   dcd
+
+1771:
+   ffm
+   cdf
+   dcc
+
+1772:
+   ffm
+   cdf
+   cdd
+
+1773:
+   ffm
+   cdf
+   cdc
+
+1774:
+   ffm
+   cdf
+   ccd
+
+1775:
+   ffm
+   cdc
+   ddf
+
+1776:
+   ffm
+   cdc
+   ddc
+
+1777:
+   ffm
+   cdc
+   dfd
+
+1778:
+   ffm
+   cdc
+   dfc
+
+1779:
+   ffm
+   cdc
+   dcd
+
+1780:
+   ffm
+   cdc
+   dcf
+
+1781:
+   ffm
+   cdc
+   fdd
+
+1782:
+   ffm
+   cdc
+   fdc
+
+1783:
+   ffm
+   cdc
+   fcd
+
+1784:
+   ffm
+   cdc
+   cdd
+
+1785:
+   ffm
+   cdc
+   cdf
+
+1786:
+   ffm
+   cdc
+   cfd
+
+1787:
+   ffm
+   cfd
+   ddc
+
+1788:
+   ffm
+   cfd
+   dcd
+
+1789:
+   ffm
+   cfd
+   dcc
+
+1790:
+   ffm
+   cfd
+   cdd
+
+1791:
+   ffm
+   cfd
+   cdc
+
+1792:
+   ffm
+   cfd
+   ccd
+
+1793:
+   ffm
+   cfc
+   ddd
+
+1794:
+   ffm
+   cfc
+   ddc
+
+1795:
+   ffm
+   cfc
+   dcd
+
+1796:
+   ffm
+   cfc
+   cdd
+
+1797:
+   ffm
+   ccd
+   ddf
+
+1798:
+   ffm
+   ccd
+   ddc
+
+1799:
+   ffm
+   ccd
+   dfd
+
+1800:
+   ffm
+   ccd
+   dfc
+
+1801:
+   ffm
+   ccd
+   dcd
+
+1802:
+   ffm
+   ccd
+   dcf
+
+1803:
+   ffm
+   ccd
+   fdd
+
+1804:
+   ffm
+   ccd
+   fdc
+
+1805:
+   ffm
+   ccd
+   fcd
+
+1806:
+   ffm
+   ccd
+   cdd
+
+1807:
+   ffm
+   ccd
+   cdf
+
+1808:
+   ffm
+   ccd
+   cfd
+
+1809:
+   ffm
+   ccf
+   ddd
+
+1810:
+   ffm
+   ccf
+   ddc
+
+1811:
+   ffm
+   ccf
+   dcd
+
+1812:
+   ffm
+   ccf
+   cdd
+
+1813:
+   ffm
+   ccc
+   ddd
+
+1814:
+   ffm
+   ccc
+   ddf
+
+1815:
+   ffm
+   ccc
+   dfd
+
+1816:
+   ffm
+   ccc
+   fdd
+
+1817:
+   fcd
+   ddf
+   ccm
+
+1818:
+   fcd
+   ddf
+   cmc
+
+1819:
+   fcd
+   ddc
+   ffm
+
+1820:
+   fcd
+   ddc
+   fmf
+
+1821:
+   fcd
+   ddm
+   ffc
+
+1822:
+   fcd
+   ddm
+   fcf
+
+1823:
+   fcd
+   ddm
+   fcc
+
+1824:
+   fcd
+   ddm
+   cff
+
+1825:
+   fcd
+   ddm
+   cfc
+
+1826:
+   fcd
+   ddm
+   ccf
+
+1827:
+   fcd
+   dfd
+   ccm
+
+1828:
+   fcd
+   dfd
+   cmc
+
+1829:
+   fcd
+   dff
+   ccm
+
+1830:
+   fcd
+   dff
+   cmc
+
+1831:
+   fcd
+   dcd
+   ffm
+
+1832:
+   fcd
+   dcd
+   fmf
+
+1833:
+   fcd
+   dcc
+   ffm
+
+1834:
+   fcd
+   dcc
+   fmf
+
+1835:
+   fcd
+   dmd
+   ffc
+
+1836:
+   fcd
+   dmd
+   fcf
+
+1837:
+   fcd
+   dmd
+   fcc
+
+1838:
+   fcd
+   dmd
+   cff
+
+1839:
+   fcd
+   dmd
+   cfc
+
+1840:
+   fcd
+   dmd
+   ccf
+
+1841:
+   fcd
+   fdd
+   ccm
+
+1842:
+   fcd
+   fdd
+   cmc
+
+1843:
+   fcd
+   fdf
+   ccm
+
+1844:
+   fcd
+   fdf
+   cmc
+
+1845:
+   fcd
+   ffd
+   ccm
+
+1846:
+   fcd
+   ffd
+   cmc
+
+1847:
+   fcd
+   ffc
+   ddm
+
+1848:
+   fcd
+   ffc
+   dmd
+
+1849:
+   fcd
+   ffm
+   ddc
+
+1850:
+   fcd
+   ffm
+   dcd
+
+1851:
+   fcd
+   ffm
+   dcc
+
+1852:
+   fcd
+   ffm
+   cdd
+
+1853:
+   fcd
+   ffm
+   cdc
+
+1854:
+   fcd
+   ffm
+   ccd
+
+1855:
+   fcd
+   fcf
+   ddm
+
+1856:
+   fcd
+   fcf
+   dmd
+
+1857:
+   fcd
+   fcc
+   ddm
+
+1858:
+   fcd
+   fcc
+   dmd
+
+1859:
+   fcd
+   fmf
+   ddc
+
+1860:
+   fcd
+   fmf
+   dcd
+
+1861:
+   fcd
+   fmf
+   dcc
+
+1862:
+   fcd
+   fmf
+   cdd
+
+1863:
+   fcd
+   fmf
+   cdc
+
+1864:
+   fcd
+   fmf
+   ccd
+
+1865:
+   fcd
+   cdd
+   ffm
+
+1866:
+   fcd
+   cdd
+   fmf
+
+1867:
+   fcd
+   cdc
+   ffm
+
+1868:
+   fcd
+   cdc
+   fmf
+
+1869:
+   fcd
+   cff
+   ddm
+
+1870:
+   fcd
+   cff
+   dmd
+
+1871:
+   fcd
+   cfc
+   ddm
+
+1872:
+   fcd
+   cfc
+   dmd
+
+1873:
+   fcd
+   ccd
+   ffm
+
+1874:
+   fcd
+   ccd
+   fmf
+
+1875:
+   fcd
+   ccf
+   ddm
+
+1876:
+   fcd
+   ccf
+   dmd
+
+1877:
+   fcd
+   ccm
+   ddf
+
+1878:
+   fcd
+   ccm
+   dfd
+
+1879:
+   fcd
+   ccm
+   dff
+
+1880:
+   fcd
+   ccm
+   fdd
+
+1881:
+   fcd
+   ccm
+   fdf
+
+1882:
+   fcd
+   ccm
+   ffd
+
+1883:
+   fcd
+   cmc
+   ddf
+
+1884:
+   fcd
+   cmc
+   dfd
+
+1885:
+   fcd
+   cmc
+   dff
+
+1886:
+   fcd
+   cmc
+   fdd
+
+1887:
+   fcd
+   cmc
+   fdf
+
+1888:
+   fcd
+   cmc
+   ffd
+
+1889:
+   fcf
+   ddd
+   fcc
+
+1890:
+   fcf
+   ddd
+   fcm
+
+1891:
+   fcf
+   ddd
+   fmc
+
+1892:
+   fcf
+   ddd
+   cfc
+
+1893:
+   fcf
+   ddd
+   cfm
+
+1894:
+   fcf
+   ddd
+   ccf
+
+1895:
+   fcf
+   ddd
+   ccm
+
+1896:
+   fcf
+   ddd
+   cmf
+
+1897:
+   fcf
+   ddd
+   cmc
+
+1898:
+   fcf
+   ddd
+   mfc
+
+1899:
+   fcf
+   ddd
+   mcf
+
+1900:
+   fcf
+   ddd
+   mcc
+
+1901:
+   fcf
+   ddf
+   ccm
+
+1902:
+   fcf
+   ddf
+   cmc
+
+1903:
+   fcf
+   ddm
+   dfc
+
+1904:
+   fcf
+   ddm
+   dcf
+
+1905:
+   fcf
+   ddm
+   dcc
+
+1906:
+   fcf
+   ddm
+   fdc
+
+1907:
+   fcf
+   ddm
+   fcd
+
+1908:
+   fcf
+   ddm
+   fcc
+
+1909:
+   fcf
+   ddm
+   cdf
+
+1910:
+   fcf
+   ddm
+   cdc
+
+1911:
+   fcf
+   ddm
+   cfd
+
+1912:
+   fcf
+   ddm
+   cfc
+
+1913:
+   fcf
+   ddm
+   ccd
+
+1914:
+   fcf
+   ddm
+   ccf
+
+1915:
+   fcf
+   dfd
+   ccm
+
+1916:
+   fcf
+   dfd
+   cmc
+
+1917:
+   fcf
+   dfc
+   ddm
+
+1918:
+   fcf
+   dfc
+   dmd
+
+1919:
+   fcf
+   dcf
+   ddm
+
+1920:
+   fcf
+   dcf
+   dmd
+
+1921:
+   fcf
+   dcc
+   ddm
+
+1922:
+   fcf
+   dcc
+   dmd
+
+1923:
+   fcf
+   dmd
+   dfc
+
+1924:
+   fcf
+   dmd
+   dcf
+
+1925:
+   fcf
+   dmd
+   dcc
+
+1926:
+   fcf
+   dmd
+   fdc
+
+1927:
+   fcf
+   dmd
+   fcd
+
+1928:
+   fcf
+   dmd
+   fcc
+
+1929:
+   fcf
+   dmd
+   cdf
+
+1930:
+   fcf
+   dmd
+   cdc
+
+1931:
+   fcf
+   dmd
+   cfd
+
+1932:
+   fcf
+   dmd
+   cfc
+
+1933:
+   fcf
+   dmd
+   ccd
+
+1934:
+   fcf
+   dmd
+   ccf
+
+1935:
+   fcf
+   fdd
+   ccm
+
+1936:
+   fcf
+   fdd
+   cmc
+
+1937:
+   fcf
+   fdc
+   ddm
+
+1938:
+   fcf
+   fdc
+   dmd
+
+1939:
+   fcf
+   fcd
+   ddm
+
+1940:
+   fcf
+   fcd
+   dmd
+
+1941:
+   fcf
+   fcc
+   ddd
+
+1942:
+   fcf
+   fcc
+   ddm
+
+1943:
+   fcf
+   fcc
+   dmd
+
+1944:
+   fcf
+   fcm
+   ddd
+
+1945:
+   fcf
+   fmc
+   ddd
+
+1946:
+   fcf
+   cdf
+   ddm
+
+1947:
+   fcf
+   cdf
+   dmd
+
+1948:
+   fcf
+   cdc
+   ddm
+
+1949:
+   fcf
+   cdc
+   dmd
+
+1950:
+   fcf
+   cfd
+   ddm
+
+1951:
+   fcf
+   cfd
+   dmd
+
+1952:
+   fcf
+   cfc
+   ddd
+
+1953:
+   fcf
+   cfc
+   ddm
+
+1954:
+   fcf
+   cfc
+   dmd
+
+1955:
+   fcf
+   cfm
+   ddd
+
+1956:
+   fcf
+   ccd
+   ddm
+
+1957:
+   fcf
+   ccd
+   dmd
+
+1958:
+   fcf
+   ccf
+   ddd
+
+1959:
+   fcf
+   ccf
+   ddm
+
+1960:
+   fcf
+   ccf
+   dmd
+
+1961:
+   fcf
+   ccm
+   ddd
+
+1962:
+   fcf
+   ccm
+   ddf
+
+1963:
+   fcf
+   ccm
+   dfd
+
+1964:
+   fcf
+   ccm
+   fdd
+
+1965:
+   fcf
+   cmf
+   ddd
+
+1966:
+   fcf
+   cmc
+   ddd
+
+1967:
+   fcf
+   cmc
+   ddf
+
+1968:
+   fcf
+   cmc
+   dfd
+
+1969:
+   fcf
+   cmc
+   fdd
+
+1970:
+   fcf
+   mfc
+   ddd
+
+1971:
+   fcf
+   mcf
+   ddd
+
+1972:
+   fcf
+   mcc
+   ddd
+
+1973:
+   fcc
+   ddd
+   ffc
+
+1974:
+   fcc
+   ddd
+   ffm
+
+1975:
+   fcc
+   ddd
+   fcf
+
+1976:
+   fcc
+   ddd
+   fcm
+
+1977:
+   fcc
+   ddd
+   fmf
+
+1978:
+   fcc
+   ddd
+   fmc
+
+1979:
+   fcc
+   ddd
+   cff
+
+1980:
+   fcc
+   ddd
+   cfm
+
+1981:
+   fcc
+   ddd
+   cmf
+
+1982:
+   fcc
+   ddd
+   mff
+
+1983:
+   fcc
+   ddd
+   mfc
+
+1984:
+   fcc
+   ddd
+   mcf
+
+1985:
+   fcc
+   ddc
+   ffm
+
+1986:
+   fcc
+   ddc
+   fmf
+
+1987:
+   fcc
+   ddm
+   dff
+
+1988:
+   fcc
+   ddm
+   dfc
+
+1989:
+   fcc
+   ddm
+   dcf
+
+1990:
+   fcc
+   ddm
+   fdf
+
+1991:
+   fcc
+   ddm
+   fdc
+
+1992:
+   fcc
+   ddm
+   ffd
+
+1993:
+   fcc
+   ddm
+   ffc
+
+1994:
+   fcc
+   ddm
+   fcd
+
+1995:
+   fcc
+   ddm
+   fcf
+
+1996:
+   fcc
+   ddm
+   cdf
+
+1997:
+   fcc
+   ddm
+   cfd
+
+1998:
+   fcc
+   ddm
+   cff
+
+1999:
+   fcc
+   dff
+   ddm
+
+2000:
+   fcc
+   dff
+   dmd
+
+2001:
+   fcc
+   dfc
+   ddm
+
+2002:
+   fcc
+   dfc
+   dmd
+
+2003:
+   fcc
+   dcd
+   ffm
+
+2004:
+   fcc
+   dcd
+   fmf
+
+2005:
+   fcc
+   dcf
+   ddm
+
+2006:
+   fcc
+   dcf
+   dmd
+
+2007:
+   fcc
+   dmd
+   dff
+
+2008:
+   fcc
+   dmd
+   dfc
+
+2009:
+   fcc
+   dmd
+   dcf
+
+2010:
+   fcc
+   dmd
+   fdf
+
+2011:
+   fcc
+   dmd
+   fdc
+
+2012:
+   fcc
+   dmd
+   ffd
+
+2013:
+   fcc
+   dmd
+   ffc
+
+2014:
+   fcc
+   dmd
+   fcd
+
+2015:
+   fcc
+   dmd
+   fcf
+
+2016:
+   fcc
+   dmd
+   cdf
+
+2017:
+   fcc
+   dmd
+   cfd
+
+2018:
+   fcc
+   dmd
+   cff
+
+2019:
+   fcc
+   fdf
+   ddm
+
+2020:
+   fcc
+   fdf
+   dmd
+
+2021:
+   fcc
+   fdc
+   ddm
+
+2022:
+   fcc
+   fdc
+   dmd
+
+2023:
+   fcc
+   ffd
+   ddm
+
+2024:
+   fcc
+   ffd
+   dmd
+
+2025:
+   fcc
+   ffc
+   ddd
+
+2026:
+   fcc
+   ffc
+   ddm
+
+2027:
+   fcc
+   ffc
+   dmd
+
+2028:
+   fcc
+   ffm
+   ddd
+
+2029:
+   fcc
+   ffm
+   ddc
+
+2030:
+   fcc
+   ffm
+   dcd
+
+2031:
+   fcc
+   ffm
+   cdd
+
+2032:
+   fcc
+   fcd
+   ddm
+
+2033:
+   fcc
+   fcd
+   dmd
+
+2034:
+   fcc
+   fcf
+   ddd
+
+2035:
+   fcc
+   fcf
+   ddm
+
+2036:
+   fcc
+   fcf
+   dmd
+
+2037:
+   fcc
+   fcm
+   ddd
+
+2038:
+   fcc
+   fmf
+   ddd
+
+2039:
+   fcc
+   fmf
+   ddc
+
+2040:
+   fcc
+   fmf
+   dcd
+
+2041:
+   fcc
+   fmf
+   cdd
+
+2042:
+   fcc
+   fmc
+   ddd
+
+2043:
+   fcc
+   cdd
+   ffm
+
+2044:
+   fcc
+   cdd
+   fmf
+
+2045:
+   fcc
+   cdf
+   ddm
+
+2046:
+   fcc
+   cdf
+   dmd
+
+2047:
+   fcc
+   cfd
+   ddm
+
+2048:
+   fcc
+   cfd
+   dmd
+
+2049:
+   fcc
+   cff
+   ddd
+
+2050:
+   fcc
+   cff
+   ddm
+
+2051:
+   fcc
+   cff
+   dmd
+
+2052:
+   fcc
+   cfm
+   ddd
+
+2053:
+   fcc
+   cmf
+   ddd
+
+2054:
+   fcc
+   mff
+   ddd
+
+2055:
+   fcc
+   mfc
+   ddd
+
+2056:
+   fcc
+   mcf
+   ddd
+
+2057:
+   fcm
+   ddd
+   ffc
+
+2058:
+   fcm
+   ddd
+   fcf
+
+2059:
+   fcm
+   ddd
+   fcc
+
+2060:
+   fcm
+   ddd
+   cff
+
+2061:
+   fcm
+   ddd
+   cfc
+
+2062:
+   fcm
+   ddd
+   ccf
+
+2063:
+   fcm
+   ffc
+   ddd
+
+2064:
+   fcm
+   fcf
+   ddd
+
+2065:
+   fcm
+   fcc
+   ddd
+
+2066:
+   fcm
+   cff
+   ddd
+
+2067:
+   fcm
+   cfc
+   ddd
+
+2068:
+   fcm
+   ccf
+   ddd
+
+2069:
+   fmd
+   ddf
+   ccc
+
+2070:
+   fmd
+   dfd
+   ccc
+
+2071:
+   fmd
+   dff
+   ccc
+
+2072:
+   fmd
+   fdd
+   ccc
+
+2073:
+   fmd
+   fdf
+   ccc
+
+2074:
+   fmd
+   ffd
+   ccc
+
+2075:
+   fmd
+   ccc
+   ddf
+
+2076:
+   fmd
+   ccc
+   dfd
+
+2077:
+   fmd
+   ccc
+   dff
+
+2078:
+   fmd
+   ccc
+   fdd
+
+2079:
+   fmd
+   ccc
+   fdf
+
+2080:
+   fmd
+   ccc
+   ffd
+
+2081:
+   fmf
+   ddd
+   fcc
+
+2082:
+   fmf
+   ddd
+   cfc
+
+2083:
+   fmf
+   ddd
+   ccf
+
+2084:
+   fmf
+   ddd
+   ccc
+
+2085:
+   fmf
+   ddf
+   dcc
+
+2086:
+   fmf
+   ddf
+   cdc
+
+2087:
+   fmf
+   ddf
+   ccd
+
+2088:
+   fmf
+   ddf
+   ccc
+
+2089:
+   fmf
+   ddc
+   dfc
+
+2090:
+   fmf
+   ddc
+   dcf
+
+2091:
+   fmf
+   ddc
+   dcc
+
+2092:
+   fmf
+   ddc
+   fdc
+
+2093:
+   fmf
+   ddc
+   fcd
+
+2094:
+   fmf
+   ddc
+   fcc
+
+2095:
+   fmf
+   ddc
+   cdf
+
+2096:
+   fmf
+   ddc
+   cdc
+
+2097:
+   fmf
+   ddc
+   cfd
+
+2098:
+   fmf
+   ddc
+   cfc
+
+2099:
+   fmf
+   ddc
+   ccd
+
+2100:
+   fmf
+   ddc
+   ccf
+
+2101:
+   fmf
+   dfd
+   dcc
+
+2102:
+   fmf
+   dfd
+   cdc
+
+2103:
+   fmf
+   dfd
+   ccd
+
+2104:
+   fmf
+   dfd
+   ccc
+
+2105:
+   fmf
+   dfc
+   ddc
+
+2106:
+   fmf
+   dfc
+   dcd
+
+2107:
+   fmf
+   dfc
+   dcc
+
+2108:
+   fmf
+   dfc
+   cdd
+
+2109:
+   fmf
+   dfc
+   cdc
+
+2110:
+   fmf
+   dfc
+   ccd
+
+2111:
+   fmf
+   dcd
+   dfc
+
+2112:
+   fmf
+   dcd
+   dcf
+
+2113:
+   fmf
+   dcd
+   dcc
+
+2114:
+   fmf
+   dcd
+   fdc
+
+2115:
+   fmf
+   dcd
+   fcd
+
+2116:
+   fmf
+   dcd
+   fcc
+
+2117:
+   fmf
+   dcd
+   cdf
+
+2118:
+   fmf
+   dcd
+   cdc
+
+2119:
+   fmf
+   dcd
+   cfd
+
+2120:
+   fmf
+   dcd
+   cfc
+
+2121:
+   fmf
+   dcd
+   ccd
+
+2122:
+   fmf
+   dcd
+   ccf
+
+2123:
+   fmf
+   dcf
+   ddc
+
+2124:
+   fmf
+   dcf
+   dcd
+
+2125:
+   fmf
+   dcf
+   dcc
+
+2126:
+   fmf
+   dcf
+   cdd
+
+2127:
+   fmf
+   dcf
+   cdc
+
+2128:
+   fmf
+   dcf
+   ccd
+
+2129:
+   fmf
+   dcc
+   ddf
+
+2130:
+   fmf
+   dcc
+   ddc
+
+2131:
+   fmf
+   dcc
+   dfd
+
+2132:
+   fmf
+   dcc
+   dfc
+
+2133:
+   fmf
+   dcc
+   dcd
+
+2134:
+   fmf
+   dcc
+   dcf
+
+2135:
+   fmf
+   dcc
+   fdd
+
+2136:
+   fmf
+   dcc
+   fdc
+
+2137:
+   fmf
+   dcc
+   fcd
+
+2138:
+   fmf
+   dcc
+   cdd
+
+2139:
+   fmf
+   dcc
+   cdf
+
+2140:
+   fmf
+   dcc
+   cfd
+
+2141:
+   fmf
+   fdd
+   dcc
+
+2142:
+   fmf
+   fdd
+   cdc
+
+2143:
+   fmf
+   fdd
+   ccd
+
+2144:
+   fmf
+   fdd
+   ccc
+
+2145:
+   fmf
+   fdc
+   ddc
+
+2146:
+   fmf
+   fdc
+   dcd
+
+2147:
+   fmf
+   fdc
+   dcc
+
+2148:
+   fmf
+   fdc
+   cdd
+
+2149:
+   fmf
+   fdc
+   cdc
+
+2150:
+   fmf
+   fdc
+   ccd
+
+2151:
+   fmf
+   fcd
+   ddc
+
+2152:
+   fmf
+   fcd
+   dcd
+
+2153:
+   fmf
+   fcd
+   dcc
+
+2154:
+   fmf
+   fcd
+   cdd
+
+2155:
+   fmf
+   fcd
+   cdc
+
+2156:
+   fmf
+   fcd
+   ccd
+
+2157:
+   fmf
+   fcc
+   ddd
+
+2158:
+   fmf
+   fcc
+   ddc
+
+2159:
+   fmf
+   fcc
+   dcd
+
+2160:
+   fmf
+   fcc
+   cdd
+
+2161:
+   fmf
+   cdd
+   dfc
+
+2162:
+   fmf
+   cdd
+   dcf
+
+2163:
+   fmf
+   cdd
+   dcc
+
+2164:
+   fmf
+   cdd
+   fdc
+
+2165:
+   fmf
+   cdd
+   fcd
+
+2166:
+   fmf
+   cdd
+   fcc
+
+2167:
+   fmf
+   cdd
+   cdf
+
+2168:
+   fmf
+   cdd
+   cdc
+
+2169:
+   fmf
+   cdd
+   cfd
+
+2170:
+   fmf
+   cdd
+   cfc
+
+2171:
+   fmf
+   cdd
+   ccd
+
+2172:
+   fmf
+   cdd
+   ccf
+
+2173:
+   fmf
+   cdf
+   ddc
+
+2174:
+   fmf
+   cdf
+   dcd
+
+2175:
+   fmf
+   cdf
+   dcc
+
+2176:
+   fmf
+   cdf
+   cdd
+
+2177:
+   fmf
+   cdf
+   cdc
+
+2178:
+   fmf
+   cdf
+   ccd
+
+2179:
+   fmf
+   cdc
+   ddf
+
+2180:
+   fmf
+   cdc
+   ddc
+
+2181:
+   fmf
+   cdc
+   dfd
+
+2182:
+   fmf
+   cdc
+   dfc
+
+2183:
+   fmf
+   cdc
+   dcd
+
+2184:
+   fmf
+   cdc
+   dcf
+
+2185:
+   fmf
+   cdc
+   fdd
+
+2186:
+   fmf
+   cdc
+   fdc
+
+2187:
+   fmf
+   cdc
+   fcd
+
+2188:
+   fmf
+   cdc
+   cdd
+
+2189:
+   fmf
+   cdc
+   cdf
+
+2190:
+   fmf
+   cdc
+   cfd
+
+2191:
+   fmf
+   cfd
+   ddc
+
+2192:
+   fmf
+   cfd
+   dcd
+
+2193:
+   fmf
+   cfd
+   dcc
+
+2194:
+   fmf
+   cfd
+   cdd
+
+2195:
+   fmf
+   cfd
+   cdc
+
+2196:
+   fmf
+   cfd
+   ccd
+
+2197:
+   fmf
+   cfc
+   ddd
+
+2198:
+   fmf
+   cfc
+   ddc
+
+2199:
+   fmf
+   cfc
+   dcd
+
+2200:
+   fmf
+   cfc
+   cdd
+
+2201:
+   fmf
+   ccd
+   ddf
+
+2202:
+   fmf
+   ccd
+   ddc
+
+2203:
+   fmf
+   ccd
+   dfd
+
+2204:
+   fmf
+   ccd
+   dfc
+
+2205:
+   fmf
+   ccd
+   dcd
+
+2206:
+   fmf
+   ccd
+   dcf
+
+2207:
+   fmf
+   ccd
+   fdd
+
+2208:
+   fmf
+   ccd
+   fdc
+
+2209:
+   fmf
+   ccd
+   fcd
+
+2210:
+   fmf
+   ccd
+   cdd
+
+2211:
+   fmf
+   ccd
+   cdf
+
+2212:
+   fmf
+   ccd
+   cfd
+
+2213:
+   fmf
+   ccf
+   ddd
+
+2214:
+   fmf
+   ccf
+   ddc
+
+2215:
+   fmf
+   ccf
+   dcd
+
+2216:
+   fmf
+   ccf
+   cdd
+
+2217:
+   fmf
+   ccc
+   ddd
+
+2218:
+   fmf
+   ccc
+   ddf
+
+2219:
+   fmf
+   ccc
+   dfd
+
+2220:
+   fmf
+   ccc
+   fdd
+
+2221:
+   fmc
+   ddd
+   ffc
+
+2222:
+   fmc
+   ddd
+   fcf
+
+2223:
+   fmc
+   ddd
+   fcc
+
+2224:
+   fmc
+   ddd
+   cff
+
+2225:
+   fmc
+   ddd
+   cfc
+
+2226:
+   fmc
+   ddd
+   ccf
+
+2227:
+   fmc
+   ffc
+   ddd
+
+2228:
+   fmc
+   fcf
+   ddd
+
+2229:
+   fmc
+   fcc
+   ddd
+
+2230:
+   fmc
+   cff
+   ddd
+
+2231:
+   fmc
+   cfc
+   ddd
+
+2232:
+   fmc
+   ccf
+   ddd
+
+2233:
+   cdd
+   dff
+   ccm
+
+2234:
+   cdd
+   dff
+   cmc
+
+2235:
+   cdd
+   dfc
+   ffm
+
+2236:
+   cdd
+   dfc
+   fmf
+
+2237:
+   cdd
+   dcf
+   ffm
+
+2238:
+   cdd
+   dcf
+   fmf
+
+2239:
+   cdd
+   dcc
+   fff
+
+2240:
+   cdd
+   dcc
+   ffm
+
+2241:
+   cdd
+   dcc
+   fmf
+
+2242:
+   cdd
+   dcm
+   fff
+
+2243:
+   cdd
+   dmc
+   fff
+
+2244:
+   cdd
+   fdf
+   ccm
+
+2245:
+   cdd
+   fdf
+   cmc
+
+2246:
+   cdd
+   fdc
+   ffm
+
+2247:
+   cdd
+   fdc
+   fmf
+
+2248:
+   cdd
+   ffd
+   ccm
+
+2249:
+   cdd
+   ffd
+   cmc
+
+2250:
+   cdd
+   fff
+   dcc
+
+2251:
+   cdd
+   fff
+   dcm
+
+2252:
+   cdd
+   fff
+   dmc
+
+2253:
+   cdd
+   fff
+   cdc
+
+2254:
+   cdd
+   fff
+   cdm
+
+2255:
+   cdd
+   fff
+   ccd
+
+2256:
+   cdd
+   fff
+   ccm
+
+2257:
+   cdd
+   fff
+   cmd
+
+2258:
+   cdd
+   fff
+   cmc
+
+2259:
+   cdd
+   fff
+   mdc
+
+2260:
+   cdd
+   fff
+   mcd
+
+2261:
+   cdd
+   fff
+   mcc
+
+2262:
+   cdd
+   ffm
+   dfc
+
+2263:
+   cdd
+   ffm
+   dcf
+
+2264:
+   cdd
+   ffm
+   dcc
+
+2265:
+   cdd
+   ffm
+   fdc
+
+2266:
+   cdd
+   ffm
+   fcd
+
+2267:
+   cdd
+   ffm
+   fcc
+
+2268:
+   cdd
+   ffm
+   cdf
+
+2269:
+   cdd
+   ffm
+   cdc
+
+2270:
+   cdd
+   ffm
+   cfd
+
+2271:
+   cdd
+   ffm
+   cfc
+
+2272:
+   cdd
+   ffm
+   ccd
+
+2273:
+   cdd
+   ffm
+   ccf
+
+2274:
+   cdd
+   fcd
+   ffm
+
+2275:
+   cdd
+   fcd
+   fmf
+
+2276:
+   cdd
+   fcc
+   ffm
+
+2277:
+   cdd
+   fcc
+   fmf
+
+2278:
+   cdd
+   fmf
+   dfc
+
+2279:
+   cdd
+   fmf
+   dcf
+
+2280:
+   cdd
+   fmf
+   dcc
+
+2281:
+   cdd
+   fmf
+   fdc
+
+2282:
+   cdd
+   fmf
+   fcd
+
+2283:
+   cdd
+   fmf
+   fcc
+
+2284:
+   cdd
+   fmf
+   cdf
+
+2285:
+   cdd
+   fmf
+   cdc
+
+2286:
+   cdd
+   fmf
+   cfd
+
+2287:
+   cdd
+   fmf
+   cfc
+
+2288:
+   cdd
+   fmf
+   ccd
+
+2289:
+   cdd
+   fmf
+   ccf
+
+2290:
+   cdd
+   cdf
+   ffm
+
+2291:
+   cdd
+   cdf
+   fmf
+
+2292:
+   cdd
+   cdc
+   fff
+
+2293:
+   cdd
+   cdc
+   ffm
+
+2294:
+   cdd
+   cdc
+   fmf
+
+2295:
+   cdd
+   cdm
+   fff
+
+2296:
+   cdd
+   cfd
+   ffm
+
+2297:
+   cdd
+   cfd
+   fmf
+
+2298:
+   cdd
+   cfc
+   ffm
+
+2299:
+   cdd
+   cfc
+   fmf
+
+2300:
+   cdd
+   ccd
+   fff
+
+2301:
+   cdd
+   ccd
+   ffm
+
+2302:
+   cdd
+   ccd
+   fmf
+
+2303:
+   cdd
+   ccf
+   ffm
+
+2304:
+   cdd
+   ccf
+   fmf
+
+2305:
+   cdd
+   ccm
+   dff
+
+2306:
+   cdd
+   ccm
+   fdf
+
+2307:
+   cdd
+   ccm
+   ffd
+
+2308:
+   cdd
+   ccm
+   fff
+
+2309:
+   cdd
+   cmd
+   fff
+
+2310:
+   cdd
+   cmc
+   dff
+
+2311:
+   cdd
+   cmc
+   fdf
+
+2312:
+   cdd
+   cmc
+   ffd
+
+2313:
+   cdd
+   cmc
+   fff
+
+2314:
+   cdd
+   mdc
+   fff
+
+2315:
+   cdd
+   mcd
+   fff
+
+2316:
+   cdd
+   mcc
+   fff
+
+2317:
+   cdf
+   ddf
+   ccm
+
+2318:
+   cdf
+   ddf
+   cmc
+
+2319:
+   cdf
+   ddc
+   ffm
+
+2320:
+   cdf
+   ddc
+   fmf
+
+2321:
+   cdf
+   ddm
+   ffc
+
+2322:
+   cdf
+   ddm
+   fcf
+
+2323:
+   cdf
+   ddm
+   fcc
+
+2324:
+   cdf
+   ddm
+   cff
+
+2325:
+   cdf
+   ddm
+   cfc
+
+2326:
+   cdf
+   ddm
+   ccf
+
+2327:
+   cdf
+   dfd
+   ccm
+
+2328:
+   cdf
+   dfd
+   cmc
+
+2329:
+   cdf
+   dff
+   ccm
+
+2330:
+   cdf
+   dff
+   cmc
+
+2331:
+   cdf
+   dcd
+   ffm
+
+2332:
+   cdf
+   dcd
+   fmf
+
+2333:
+   cdf
+   dcc
+   ffm
+
+2334:
+   cdf
+   dcc
+   fmf
+
+2335:
+   cdf
+   dmd
+   ffc
+
+2336:
+   cdf
+   dmd
+   fcf
+
+2337:
+   cdf
+   dmd
+   fcc
+
+2338:
+   cdf
+   dmd
+   cff
+
+2339:
+   cdf
+   dmd
+   cfc
+
+2340:
+   cdf
+   dmd
+   ccf
+
+2341:
+   cdf
+   fdd
+   ccm
+
+2342:
+   cdf
+   fdd
+   cmc
+
+2343:
+   cdf
+   fdf
+   ccm
+
+2344:
+   cdf
+   fdf
+   cmc
+
+2345:
+   cdf
+   ffd
+   ccm
+
+2346:
+   cdf
+   ffd
+   cmc
+
+2347:
+   cdf
+   ffc
+   ddm
+
+2348:
+   cdf
+   ffc
+   dmd
+
+2349:
+   cdf
+   ffm
+   ddc
+
+2350:
+   cdf
+   ffm
+   dcd
+
+2351:
+   cdf
+   ffm
+   dcc
+
+2352:
+   cdf
+   ffm
+   cdd
+
+2353:
+   cdf
+   ffm
+   cdc
+
+2354:
+   cdf
+   ffm
+   ccd
+
+2355:
+   cdf
+   fcf
+   ddm
+
+2356:
+   cdf
+   fcf
+   dmd
+
+2357:
+   cdf
+   fcc
+   ddm
+
+2358:
+   cdf
+   fcc
+   dmd
+
+2359:
+   cdf
+   fmf
+   ddc
+
+2360:
+   cdf
+   fmf
+   dcd
+
+2361:
+   cdf
+   fmf
+   dcc
+
+2362:
+   cdf
+   fmf
+   cdd
+
+2363:
+   cdf
+   fmf
+   cdc
+
+2364:
+   cdf
+   fmf
+   ccd
+
+2365:
+   cdf
+   cdd
+   ffm
+
+2366:
+   cdf
+   cdd
+   fmf
+
+2367:
+   cdf
+   cdc
+   ffm
+
+2368:
+   cdf
+   cdc
+   fmf
+
+2369:
+   cdf
+   cff
+   ddm
+
+2370:
+   cdf
+   cff
+   dmd
+
+2371:
+   cdf
+   cfc
+   ddm
+
+2372:
+   cdf
+   cfc
+   dmd
+
+2373:
+   cdf
+   ccd
+   ffm
+
+2374:
+   cdf
+   ccd
+   fmf
+
+2375:
+   cdf
+   ccf
+   ddm
+
+2376:
+   cdf
+   ccf
+   dmd
+
+2377:
+   cdf
+   ccm
+   ddf
+
+2378:
+   cdf
+   ccm
+   dfd
+
+2379:
+   cdf
+   ccm
+   dff
+
+2380:
+   cdf
+   ccm
+   fdd
+
+2381:
+   cdf
+   ccm
+   fdf
+
+2382:
+   cdf
+   ccm
+   ffd
+
+2383:
+   cdf
+   cmc
+   ddf
+
+2384:
+   cdf
+   cmc
+   dfd
+
+2385:
+   cdf
+   cmc
+   dff
+
+2386:
+   cdf
+   cmc
+   fdd
+
+2387:
+   cdf
+   cmc
+   fdf
+
+2388:
+   cdf
+   cmc
+   ffd
+
+2389:
+   cdc
+   ddf
+   ffm
+
+2390:
+   cdc
+   ddf
+   fmf
+
+2391:
+   cdc
+   ddc
+   fff
+
+2392:
+   cdc
+   ddc
+   ffm
+
+2393:
+   cdc
+   ddc
+   fmf
+
+2394:
+   cdc
+   ddm
+   fff
+
+2395:
+   cdc
+   ddm
+   ffc
+
+2396:
+   cdc
+   ddm
+   fcf
+
+2397:
+   cdc
+   ddm
+   cff
+
+2398:
+   cdc
+   dfd
+   ffm
+
+2399:
+   cdc
+   dfd
+   fmf
+
+2400:
+   cdc
+   dfc
+   ffm
+
+2401:
+   cdc
+   dfc
+   fmf
+
+2402:
+   cdc
+   dcd
+   fff
+
+2403:
+   cdc
+   dcd
+   ffm
+
+2404:
+   cdc
+   dcd
+   fmf
+
+2405:
+   cdc
+   dcf
+   ffm
+
+2406:
+   cdc
+   dcf
+   fmf
+
+2407:
+   cdc
+   dcm
+   fff
+
+2408:
+   cdc
+   dmd
+   fff
+
+2409:
+   cdc
+   dmd
+   ffc
+
+2410:
+   cdc
+   dmd
+   fcf
+
+2411:
+   cdc
+   dmd
+   cff
+
+2412:
+   cdc
+   dmc
+   fff
+
+2413:
+   cdc
+   fdd
+   ffm
+
+2414:
+   cdc
+   fdd
+   fmf
+
+2415:
+   cdc
+   fdc
+   ffm
+
+2416:
+   cdc
+   fdc
+   fmf
+
+2417:
+   cdc
+   fff
+   ddc
+
+2418:
+   cdc
+   fff
+   ddm
+
+2419:
+   cdc
+   fff
+   dcd
+
+2420:
+   cdc
+   fff
+   dcm
+
+2421:
+   cdc
+   fff
+   dmd
+
+2422:
+   cdc
+   fff
+   dmc
+
+2423:
+   cdc
+   fff
+   cdd
+
+2424:
+   cdc
+   fff
+   cdm
+
+2425:
+   cdc
+   fff
+   cmd
+
+2426:
+   cdc
+   fff
+   mdd
+
+2427:
+   cdc
+   fff
+   mdc
+
+2428:
+   cdc
+   fff
+   mcd
+
+2429:
+   cdc
+   ffc
+   ddm
+
+2430:
+   cdc
+   ffc
+   dmd
+
+2431:
+   cdc
+   ffm
+   ddf
+
+2432:
+   cdc
+   ffm
+   ddc
+
+2433:
+   cdc
+   ffm
+   dfd
+
+2434:
+   cdc
+   ffm
+   dfc
+
+2435:
+   cdc
+   ffm
+   dcd
+
+2436:
+   cdc
+   ffm
+   dcf
+
+2437:
+   cdc
+   ffm
+   fdd
+
+2438:
+   cdc
+   ffm
+   fdc
+
+2439:
+   cdc
+   ffm
+   fcd
+
+2440:
+   cdc
+   ffm
+   cdd
+
+2441:
+   cdc
+   ffm
+   cdf
+
+2442:
+   cdc
+   ffm
+   cfd
+
+2443:
+   cdc
+   fcd
+   ffm
+
+2444:
+   cdc
+   fcd
+   fmf
+
+2445:
+   cdc
+   fcf
+   ddm
+
+2446:
+   cdc
+   fcf
+   dmd
+
+2447:
+   cdc
+   fmf
+   ddf
+
+2448:
+   cdc
+   fmf
+   ddc
+
+2449:
+   cdc
+   fmf
+   dfd
+
+2450:
+   cdc
+   fmf
+   dfc
+
+2451:
+   cdc
+   fmf
+   dcd
+
+2452:
+   cdc
+   fmf
+   dcf
+
+2453:
+   cdc
+   fmf
+   fdd
+
+2454:
+   cdc
+   fmf
+   fdc
+
+2455:
+   cdc
+   fmf
+   fcd
+
+2456:
+   cdc
+   fmf
+   cdd
+
+2457:
+   cdc
+   fmf
+   cdf
+
+2458:
+   cdc
+   fmf
+   cfd
+
+2459:
+   cdc
+   cdd
+   fff
+
+2460:
+   cdc
+   cdd
+   ffm
+
+2461:
+   cdc
+   cdd
+   fmf
+
+2462:
+   cdc
+   cdf
+   ffm
+
+2463:
+   cdc
+   cdf
+   fmf
+
+2464:
+   cdc
+   cdm
+   fff
+
+2465:
+   cdc
+   cfd
+   ffm
+
+2466:
+   cdc
+   cfd
+   fmf
+
+2467:
+   cdc
+   cff
+   ddm
+
+2468:
+   cdc
+   cff
+   dmd
+
+2469:
+   cdc
+   cmd
+   fff
+
+2470:
+   cdc
+   mdd
+   fff
+
+2471:
+   cdc
+   mdc
+   fff
+
+2472:
+   cdc
+   mcd
+   fff
+
+2473:
+   cdm
+   ddc
+   fff
+
+2474:
+   cdm
+   dcd
+   fff
+
+2475:
+   cdm
+   dcc
+   fff
+
+2476:
+   cdm
+   fff
+   ddc
+
+2477:
+   cdm
+   fff
+   dcd
+
+2478:
+   cdm
+   fff
+   dcc
+
+2479:
+   cdm
+   fff
+   cdd
+
+2480:
+   cdm
+   fff
+   cdc
+
+2481:
+   cdm
+   fff
+   ccd
+
+2482:
+   cdm
+   cdd
+   fff
+
+2483:
+   cdm
+   cdc
+   fff
+
+2484:
+   cdm
+   ccd
+   fff
+
+2485:
+   cfd
+   ddf
+   ccm
+
+2486:
+   cfd
+   ddf
+   cmc
+
+2487:
+   cfd
+   ddc
+   ffm
+
+2488:
+   cfd
+   ddc
+   fmf
+
+2489:
+   cfd
+   ddm
+   ffc
+
+2490:
+   cfd
+   ddm
+   fcf
+
+2491:
+   cfd
+   ddm
+   fcc
+
+2492:
+   cfd
+   ddm
+   cff
+
+2493:
+   cfd
+   ddm
+   cfc
+
+2494:
+   cfd
+   ddm
+   ccf
+
+2495:
+   cfd
+   dfd
+   ccm
+
+2496:
+   cfd
+   dfd
+   cmc
+
+2497:
+   cfd
+   dff
+   ccm
+
+2498:
+   cfd
+   dff
+   cmc
+
+2499:
+   cfd
+   dcd
+   ffm
+
+2500:
+   cfd
+   dcd
+   fmf
+
+2501:
+   cfd
+   dcc
+   ffm
+
+2502:
+   cfd
+   dcc
+   fmf
+
+2503:
+   cfd
+   dmd
+   ffc
+
+2504:
+   cfd
+   dmd
+   fcf
+
+2505:
+   cfd
+   dmd
+   fcc
+
+2506:
+   cfd
+   dmd
+   cff
+
+2507:
+   cfd
+   dmd
+   cfc
+
+2508:
+   cfd
+   dmd
+   ccf
+
+2509:
+   cfd
+   fdd
+   ccm
+
+2510:
+   cfd
+   fdd
+   cmc
+
+2511:
+   cfd
+   fdf
+   ccm
+
+2512:
+   cfd
+   fdf
+   cmc
+
+2513:
+   cfd
+   ffd
+   ccm
+
+2514:
+   cfd
+   ffd
+   cmc
+
+2515:
+   cfd
+   ffc
+   ddm
+
+2516:
+   cfd
+   ffc
+   dmd
+
+2517:
+   cfd
+   ffm
+   ddc
+
+2518:
+   cfd
+   ffm
+   dcd
+
+2519:
+   cfd
+   ffm
+   dcc
+
+2520:
+   cfd
+   ffm
+   cdd
+
+2521:
+   cfd
+   ffm
+   cdc
+
+2522:
+   cfd
+   ffm
+   ccd
+
+2523:
+   cfd
+   fcf
+   ddm
+
+2524:
+   cfd
+   fcf
+   dmd
+
+2525:
+   cfd
+   fcc
+   ddm
+
+2526:
+   cfd
+   fcc
+   dmd
+
+2527:
+   cfd
+   fmf
+   ddc
+
+2528:
+   cfd
+   fmf
+   dcd
+
+2529:
+   cfd
+   fmf
+   dcc
+
+2530:
+   cfd
+   fmf
+   cdd
+
+2531:
+   cfd
+   fmf
+   cdc
+
+2532:
+   cfd
+   fmf
+   ccd
+
+2533:
+   cfd
+   cdd
+   ffm
+
+2534:
+   cfd
+   cdd
+   fmf
+
+2535:
+   cfd
+   cdc
+   ffm
+
+2536:
+   cfd
+   cdc
+   fmf
+
+2537:
+   cfd
+   cff
+   ddm
+
+2538:
+   cfd
+   cff
+   dmd
+
+2539:
+   cfd
+   cfc
+   ddm
+
+2540:
+   cfd
+   cfc
+   dmd
+
+2541:
+   cfd
+   ccd
+   ffm
+
+2542:
+   cfd
+   ccd
+   fmf
+
+2543:
+   cfd
+   ccf
+   ddm
+
+2544:
+   cfd
+   ccf
+   dmd
+
+2545:
+   cfd
+   ccm
+   ddf
+
+2546:
+   cfd
+   ccm
+   dfd
+
+2547:
+   cfd
+   ccm
+   dff
+
+2548:
+   cfd
+   ccm
+   fdd
+
+2549:
+   cfd
+   ccm
+   fdf
+
+2550:
+   cfd
+   ccm
+   ffd
+
+2551:
+   cfd
+   cmc
+   ddf
+
+2552:
+   cfd
+   cmc
+   dfd
+
+2553:
+   cfd
+   cmc
+   dff
+
+2554:
+   cfd
+   cmc
+   fdd
+
+2555:
+   cfd
+   cmc
+   fdf
+
+2556:
+   cfd
+   cmc
+   ffd
+
+2557:
+   cff
+   ddd
+   fcc
+
+2558:
+   cff
+   ddd
+   fcm
+
+2559:
+   cff
+   ddd
+   fmc
+
+2560:
+   cff
+   ddd
+   cfc
+
+2561:
+   cff
+   ddd
+   cfm
+
+2562:
+   cff
+   ddd
+   ccf
+
+2563:
+   cff
+   ddd
+   ccm
+
+2564:
+   cff
+   ddd
+   cmf
+
+2565:
+   cff
+   ddd
+   cmc
+
+2566:
+   cff
+   ddd
+   mfc
+
+2567:
+   cff
+   ddd
+   mcf
+
+2568:
+   cff
+   ddd
+   mcc
+
+2569:
+   cff
+   ddf
+   ccm
+
+2570:
+   cff
+   ddf
+   cmc
+
+2571:
+   cff
+   ddm
+   dfc
+
+2572:
+   cff
+   ddm
+   dcf
+
+2573:
+   cff
+   ddm
+   dcc
+
+2574:
+   cff
+   ddm
+   fdc
+
+2575:
+   cff
+   ddm
+   fcd
+
+2576:
+   cff
+   ddm
+   fcc
+
+2577:
+   cff
+   ddm
+   cdf
+
+2578:
+   cff
+   ddm
+   cdc
+
+2579:
+   cff
+   ddm
+   cfd
+
+2580:
+   cff
+   ddm
+   cfc
+
+2581:
+   cff
+   ddm
+   ccd
+
+2582:
+   cff
+   ddm
+   ccf
+
+2583:
+   cff
+   dfd
+   ccm
+
+2584:
+   cff
+   dfd
+   cmc
+
+2585:
+   cff
+   dfc
+   ddm
+
+2586:
+   cff
+   dfc
+   dmd
+
+2587:
+   cff
+   dcf
+   ddm
+
+2588:
+   cff
+   dcf
+   dmd
+
+2589:
+   cff
+   dcc
+   ddm
+
+2590:
+   cff
+   dcc
+   dmd
+
+2591:
+   cff
+   dmd
+   dfc
+
+2592:
+   cff
+   dmd
+   dcf
+
+2593:
+   cff
+   dmd
+   dcc
+
+2594:
+   cff
+   dmd
+   fdc
+
+2595:
+   cff
+   dmd
+   fcd
+
+2596:
+   cff
+   dmd
+   fcc
+
+2597:
+   cff
+   dmd
+   cdf
+
+2598:
+   cff
+   dmd
+   cdc
+
+2599:
+   cff
+   dmd
+   cfd
+
+2600:
+   cff
+   dmd
+   cfc
+
+2601:
+   cff
+   dmd
+   ccd
+
+2602:
+   cff
+   dmd
+   ccf
+
+2603:
+   cff
+   fdd
+   ccm
+
+2604:
+   cff
+   fdd
+   cmc
+
+2605:
+   cff
+   fdc
+   ddm
+
+2606:
+   cff
+   fdc
+   dmd
+
+2607:
+   cff
+   fcd
+   ddm
+
+2608:
+   cff
+   fcd
+   dmd
+
+2609:
+   cff
+   fcc
+   ddd
+
+2610:
+   cff
+   fcc
+   ddm
+
+2611:
+   cff
+   fcc
+   dmd
+
+2612:
+   cff
+   fcm
+   ddd
+
+2613:
+   cff
+   fmc
+   ddd
+
+2614:
+   cff
+   cdf
+   ddm
+
+2615:
+   cff
+   cdf
+   dmd
+
+2616:
+   cff
+   cdc
+   ddm
+
+2617:
+   cff
+   cdc
+   dmd
+
+2618:
+   cff
+   cfd
+   ddm
+
+2619:
+   cff
+   cfd
+   dmd
+
+2620:
+   cff
+   cfc
+   ddd
+
+2621:
+   cff
+   cfc
+   ddm
+
+2622:
+   cff
+   cfc
+   dmd
+
+2623:
+   cff
+   cfm
+   ddd
+
+2624:
+   cff
+   ccd
+   ddm
+
+2625:
+   cff
+   ccd
+   dmd
+
+2626:
+   cff
+   ccf
+   ddd
+
+2627:
+   cff
+   ccf
+   ddm
+
+2628:
+   cff
+   ccf
+   dmd
+
+2629:
+   cff
+   ccm
+   ddd
+
+2630:
+   cff
+   ccm
+   ddf
+
+2631:
+   cff
+   ccm
+   dfd
+
+2632:
+   cff
+   ccm
+   fdd
+
+2633:
+   cff
+   cmf
+   ddd
+
+2634:
+   cff
+   cmc
+   ddd
+
+2635:
+   cff
+   cmc
+   ddf
+
+2636:
+   cff
+   cmc
+   dfd
+
+2637:
+   cff
+   cmc
+   fdd
+
+2638:
+   cff
+   mfc
+   ddd
+
+2639:
+   cff
+   mcf
+   ddd
+
+2640:
+   cff
+   mcc
+   ddd
+
+2641:
+   cfc
+   ddd
+   ffc
+
+2642:
+   cfc
+   ddd
+   ffm
+
+2643:
+   cfc
+   ddd
+   fcf
+
+2644:
+   cfc
+   ddd
+   fcm
+
+2645:
+   cfc
+   ddd
+   fmf
+
+2646:
+   cfc
+   ddd
+   fmc
+
+2647:
+   cfc
+   ddd
+   cff
+
+2648:
+   cfc
+   ddd
+   cfm
+
+2649:
+   cfc
+   ddd
+   cmf
+
+2650:
+   cfc
+   ddd
+   mff
+
+2651:
+   cfc
+   ddd
+   mfc
+
+2652:
+   cfc
+   ddd
+   mcf
+
+2653:
+   cfc
+   ddc
+   ffm
+
+2654:
+   cfc
+   ddc
+   fmf
+
+2655:
+   cfc
+   ddm
+   dff
+
+2656:
+   cfc
+   ddm
+   dfc
+
+2657:
+   cfc
+   ddm
+   dcf
+
+2658:
+   cfc
+   ddm
+   fdf
+
+2659:
+   cfc
+   ddm
+   fdc
+
+2660:
+   cfc
+   ddm
+   ffd
+
+2661:
+   cfc
+   ddm
+   ffc
+
+2662:
+   cfc
+   ddm
+   fcd
+
+2663:
+   cfc
+   ddm
+   fcf
+
+2664:
+   cfc
+   ddm
+   cdf
+
+2665:
+   cfc
+   ddm
+   cfd
+
+2666:
+   cfc
+   ddm
+   cff
+
+2667:
+   cfc
+   dff
+   ddm
+
+2668:
+   cfc
+   dff
+   dmd
+
+2669:
+   cfc
+   dfc
+   ddm
+
+2670:
+   cfc
+   dfc
+   dmd
+
+2671:
+   cfc
+   dcd
+   ffm
+
+2672:
+   cfc
+   dcd
+   fmf
+
+2673:
+   cfc
+   dcf
+   ddm
+
+2674:
+   cfc
+   dcf
+   dmd
+
+2675:
+   cfc
+   dmd
+   dff
+
+2676:
+   cfc
+   dmd
+   dfc
+
+2677:
+   cfc
+   dmd
+   dcf
+
+2678:
+   cfc
+   dmd
+   fdf
+
+2679:
+   cfc
+   dmd
+   fdc
+
+2680:
+   cfc
+   dmd
+   ffd
+
+2681:
+   cfc
+   dmd
+   ffc
+
+2682:
+   cfc
+   dmd
+   fcd
+
+2683:
+   cfc
+   dmd
+   fcf
+
+2684:
+   cfc
+   dmd
+   cdf
+
+2685:
+   cfc
+   dmd
+   cfd
+
+2686:
+   cfc
+   dmd
+   cff
+
+2687:
+   cfc
+   fdf
+   ddm
+
+2688:
+   cfc
+   fdf
+   dmd
+
+2689:
+   cfc
+   fdc
+   ddm
+
+2690:
+   cfc
+   fdc
+   dmd
+
+2691:
+   cfc
+   ffd
+   ddm
+
+2692:
+   cfc
+   ffd
+   dmd
+
+2693:
+   cfc
+   ffc
+   ddd
+
+2694:
+   cfc
+   ffc
+   ddm
+
+2695:
+   cfc
+   ffc
+   dmd
+
+2696:
+   cfc
+   ffm
+   ddd
+
+2697:
+   cfc
+   ffm
+   ddc
+
+2698:
+   cfc
+   ffm
+   dcd
+
+2699:
+   cfc
+   ffm
+   cdd
+
+2700:
+   cfc
+   fcd
+   ddm
+
+2701:
+   cfc
+   fcd
+   dmd
+
+2702:
+   cfc
+   fcf
+   ddd
+
+2703:
+   cfc
+   fcf
+   ddm
+
+2704:
+   cfc
+   fcf
+   dmd
+
+2705:
+   cfc
+   fcm
+   ddd
+
+2706:
+   cfc
+   fmf
+   ddd
+
+2707:
+   cfc
+   fmf
+   ddc
+
+2708:
+   cfc
+   fmf
+   dcd
+
+2709:
+   cfc
+   fmf
+   cdd
+
+2710:
+   cfc
+   fmc
+   ddd
+
+2711:
+   cfc
+   cdd
+   ffm
+
+2712:
+   cfc
+   cdd
+   fmf
+
+2713:
+   cfc
+   cdf
+   ddm
+
+2714:
+   cfc
+   cdf
+   dmd
+
+2715:
+   cfc
+   cfd
+   ddm
+
+2716:
+   cfc
+   cfd
+   dmd
+
+2717:
+   cfc
+   cff
+   ddd
+
+2718:
+   cfc
+   cff
+   ddm
+
+2719:
+   cfc
+   cff
+   dmd
+
+2720:
+   cfc
+   cfm
+   ddd
+
+2721:
+   cfc
+   cmf
+   ddd
+
+2722:
+   cfc
+   mff
+   ddd
+
+2723:
+   cfc
+   mfc
+   ddd
+
+2724:
+   cfc
+   mcf
+   ddd
+
+2725:
+   cfm
+   ddd
+   ffc
+
+2726:
+   cfm
+   ddd
+   fcf
+
+2727:
+   cfm
+   ddd
+   fcc
+
+2728:
+   cfm
+   ddd
+   cff
+
+2729:
+   cfm
+   ddd
+   cfc
+
+2730:
+   cfm
+   ddd
+   ccf
+
+2731:
+   cfm
+   ffc
+   ddd
+
+2732:
+   cfm
+   fcf
+   ddd
+
+2733:
+   cfm
+   fcc
+   ddd
+
+2734:
+   cfm
+   cff
+   ddd
+
+2735:
+   cfm
+   cfc
+   ddd
+
+2736:
+   cfm
+   ccf
+   ddd
+
+2737:
+   ccd
+   ddf
+   ffm
+
+2738:
+   ccd
+   ddf
+   fmf
+
+2739:
+   ccd
+   ddc
+   fff
+
+2740:
+   ccd
+   ddc
+   ffm
+
+2741:
+   ccd
+   ddc
+   fmf
+
+2742:
+   ccd
+   ddm
+   fff
+
+2743:
+   ccd
+   ddm
+   ffc
+
+2744:
+   ccd
+   ddm
+   fcf
+
+2745:
+   ccd
+   ddm
+   cff
+
+2746:
+   ccd
+   dfd
+   ffm
+
+2747:
+   ccd
+   dfd
+   fmf
+
+2748:
+   ccd
+   dfc
+   ffm
+
+2749:
+   ccd
+   dfc
+   fmf
+
+2750:
+   ccd
+   dcd
+   fff
+
+2751:
+   ccd
+   dcd
+   ffm
+
+2752:
+   ccd
+   dcd
+   fmf
+
+2753:
+   ccd
+   dcf
+   ffm
+
+2754:
+   ccd
+   dcf
+   fmf
+
+2755:
+   ccd
+   dcm
+   fff
+
+2756:
+   ccd
+   dmd
+   fff
+
+2757:
+   ccd
+   dmd
+   ffc
+
+2758:
+   ccd
+   dmd
+   fcf
+
+2759:
+   ccd
+   dmd
+   cff
+
+2760:
+   ccd
+   dmc
+   fff
+
+2761:
+   ccd
+   fdd
+   ffm
+
+2762:
+   ccd
+   fdd
+   fmf
+
+2763:
+   ccd
+   fdc
+   ffm
+
+2764:
+   ccd
+   fdc
+   fmf
+
+2765:
+   ccd
+   fff
+   ddc
+
+2766:
+   ccd
+   fff
+   ddm
+
+2767:
+   ccd
+   fff
+   dcd
+
+2768:
+   ccd
+   fff
+   dcm
+
+2769:
+   ccd
+   fff
+   dmd
+
+2770:
+   ccd
+   fff
+   dmc
+
+2771:
+   ccd
+   fff
+   cdd
+
+2772:
+   ccd
+   fff
+   cdm
+
+2773:
+   ccd
+   fff
+   cmd
+
+2774:
+   ccd
+   fff
+   mdd
+
+2775:
+   ccd
+   fff
+   mdc
+
+2776:
+   ccd
+   fff
+   mcd
+
+2777:
+   ccd
+   ffc
+   ddm
+
+2778:
+   ccd
+   ffc
+   dmd
+
+2779:
+   ccd
+   ffm
+   ddf
+
+2780:
+   ccd
+   ffm
+   ddc
+
+2781:
+   ccd
+   ffm
+   dfd
+
+2782:
+   ccd
+   ffm
+   dfc
+
+2783:
+   ccd
+   ffm
+   dcd
+
+2784:
+   ccd
+   ffm
+   dcf
+
+2785:
+   ccd
+   ffm
+   fdd
+
+2786:
+   ccd
+   ffm
+   fdc
+
+2787:
+   ccd
+   ffm
+   fcd
+
+2788:
+   ccd
+   ffm
+   cdd
+
+2789:
+   ccd
+   ffm
+   cdf
+
+2790:
+   ccd
+   ffm
+   cfd
+
+2791:
+   ccd
+   fcd
+   ffm
+
+2792:
+   ccd
+   fcd
+   fmf
+
+2793:
+   ccd
+   fcf
+   ddm
+
+2794:
+   ccd
+   fcf
+   dmd
+
+2795:
+   ccd
+   fmf
+   ddf
+
+2796:
+   ccd
+   fmf
+   ddc
+
+2797:
+   ccd
+   fmf
+   dfd
+
+2798:
+   ccd
+   fmf
+   dfc
+
+2799:
+   ccd
+   fmf
+   dcd
+
+2800:
+   ccd
+   fmf
+   dcf
+
+2801:
+   ccd
+   fmf
+   fdd
+
+2802:
+   ccd
+   fmf
+   fdc
+
+2803:
+   ccd
+   fmf
+   fcd
+
+2804:
+   ccd
+   fmf
+   cdd
+
+2805:
+   ccd
+   fmf
+   cdf
+
+2806:
+   ccd
+   fmf
+   cfd
+
+2807:
+   ccd
+   cdd
+   fff
+
+2808:
+   ccd
+   cdd
+   ffm
+
+2809:
+   ccd
+   cdd
+   fmf
+
+2810:
+   ccd
+   cdf
+   ffm
+
+2811:
+   ccd
+   cdf
+   fmf
+
+2812:
+   ccd
+   cdm
+   fff
+
+2813:
+   ccd
+   cfd
+   ffm
+
+2814:
+   ccd
+   cfd
+   fmf
+
+2815:
+   ccd
+   cff
+   ddm
+
+2816:
+   ccd
+   cff
+   dmd
+
+2817:
+   ccd
+   cmd
+   fff
+
+2818:
+   ccd
+   mdd
+   fff
+
+2819:
+   ccd
+   mdc
+   fff
+
+2820:
+   ccd
+   mcd
+   fff
+
+2821:
+   ccf
+   ddd
+   ffc
+
+2822:
+   ccf
+   ddd
+   ffm
+
+2823:
+   ccf
+   ddd
+   fcf
+
+2824:
+   ccf
+   ddd
+   fcm
+
+2825:
+   ccf
+   ddd
+   fmf
+
+2826:
+   ccf
+   ddd
+   fmc
+
+2827:
+   ccf
+   ddd
+   cff
+
+2828:
+   ccf
+   ddd
+   cfm
+
+2829:
+   ccf
+   ddd
+   cmf
+
+2830:
+   ccf
+   ddd
+   mff
+
+2831:
+   ccf
+   ddd
+   mfc
+
+2832:
+   ccf
+   ddd
+   mcf
+
+2833:
+   ccf
+   ddc
+   ffm
+
+2834:
+   ccf
+   ddc
+   fmf
+
+2835:
+   ccf
+   ddm
+   dff
+
+2836:
+   ccf
+   ddm
+   dfc
+
+2837:
+   ccf
+   ddm
+   dcf
+
+2838:
+   ccf
+   ddm
+   fdf
+
+2839:
+   ccf
+   ddm
+   fdc
+
+2840:
+   ccf
+   ddm
+   ffd
+
+2841:
+   ccf
+   ddm
+   ffc
+
+2842:
+   ccf
+   ddm
+   fcd
+
+2843:
+   ccf
+   ddm
+   fcf
+
+2844:
+   ccf
+   ddm
+   cdf
+
+2845:
+   ccf
+   ddm
+   cfd
+
+2846:
+   ccf
+   ddm
+   cff
+
+2847:
+   ccf
+   dff
+   ddm
+
+2848:
+   ccf
+   dff
+   dmd
+
+2849:
+   ccf
+   dfc
+   ddm
+
+2850:
+   ccf
+   dfc
+   dmd
+
+2851:
+   ccf
+   dcd
+   ffm
+
+2852:
+   ccf
+   dcd
+   fmf
+
+2853:
+   ccf
+   dcf
+   ddm
+
+2854:
+   ccf
+   dcf
+   dmd
+
+2855:
+   ccf
+   dmd
+   dff
+
+2856:
+   ccf
+   dmd
+   dfc
+
+2857:
+   ccf
+   dmd
+   dcf
+
+2858:
+   ccf
+   dmd
+   fdf
+
+2859:
+   ccf
+   dmd
+   fdc
+
+2860:
+   ccf
+   dmd
+   ffd
+
+2861:
+   ccf
+   dmd
+   ffc
+
+2862:
+   ccf
+   dmd
+   fcd
+
+2863:
+   ccf
+   dmd
+   fcf
+
+2864:
+   ccf
+   dmd
+   cdf
+
+2865:
+   ccf
+   dmd
+   cfd
+
+2866:
+   ccf
+   dmd
+   cff
+
+2867:
+   ccf
+   fdf
+   ddm
+
+2868:
+   ccf
+   fdf
+   dmd
+
+2869:
+   ccf
+   fdc
+   ddm
+
+2870:
+   ccf
+   fdc
+   dmd
+
+2871:
+   ccf
+   ffd
+   ddm
+
+2872:
+   ccf
+   ffd
+   dmd
+
+2873:
+   ccf
+   ffc
+   ddd
+
+2874:
+   ccf
+   ffc
+   ddm
+
+2875:
+   ccf
+   ffc
+   dmd
+
+2876:
+   ccf
+   ffm
+   ddd
+
+2877:
+   ccf
+   ffm
+   ddc
+
+2878:
+   ccf
+   ffm
+   dcd
+
+2879:
+   ccf
+   ffm
+   cdd
+
+2880:
+   ccf
+   fcd
+   ddm
+
+2881:
+   ccf
+   fcd
+   dmd
+
+2882:
+   ccf
+   fcf
+   ddd
+
+2883:
+   ccf
+   fcf
+   ddm
+
+2884:
+   ccf
+   fcf
+   dmd
+
+2885:
+   ccf
+   fcm
+   ddd
+
+2886:
+   ccf
+   fmf
+   ddd
+
+2887:
+   ccf
+   fmf
+   ddc
+
+2888:
+   ccf
+   fmf
+   dcd
+
+2889:
+   ccf
+   fmf
+   cdd
+
+2890:
+   ccf
+   fmc
+   ddd
+
+2891:
+   ccf
+   cdd
+   ffm
+
+2892:
+   ccf
+   cdd
+   fmf
+
+2893:
+   ccf
+   cdf
+   ddm
+
+2894:
+   ccf
+   cdf
+   dmd
+
+2895:
+   ccf
+   cfd
+   ddm
+
+2896:
+   ccf
+   cfd
+   dmd
+
+2897:
+   ccf
+   cff
+   ddd
+
+2898:
+   ccf
+   cff
+   ddm
+
+2899:
+   ccf
+   cff
+   dmd
+
+2900:
+   ccf
+   cfm
+   ddd
+
+2901:
+   ccf
+   cmf
+   ddd
+
+2902:
+   ccf
+   mff
+   ddd
+
+2903:
+   ccf
+   mfc
+   ddd
+
+2904:
+   ccf
+   mcf
+   ddd
+
+2905:
+   ccc
+   ddd
+   fff
+
+2906:
+   ccc
+   ddd
+   ffm
+
+2907:
+   ccc
+   ddd
+   fmf
+
+2908:
+   ccc
+   ddd
+   mff
+
+2909:
+   ccc
+   ddf
+   dff
+
+2910:
+   ccc
+   ddf
+   dfm
+
+2911:
+   ccc
+   ddf
+   dmf
+
+2912:
+   ccc
+   ddf
+   fdf
+
+2913:
+   ccc
+   ddf
+   fdm
+
+2914:
+   ccc
+   ddf
+   ffd
+
+2915:
+   ccc
+   ddf
+   ffm
+
+2916:
+   ccc
+   ddf
+   fmd
+
+2917:
+   ccc
+   ddf
+   fmf
+
+2918:
+   ccc
+   ddf
+   mdf
+
+2919:
+   ccc
+   ddf
+   mfd
+
+2920:
+   ccc
+   ddf
+   mff
+
+2921:
+   ccc
+   ddm
+   dff
+
+2922:
+   ccc
+   ddm
+   fdf
+
+2923:
+   ccc
+   ddm
+   ffd
+
+2924:
+   ccc
+   ddm
+   fff
+
+2925:
+   ccc
+   dfd
+   dff
+
+2926:
+   ccc
+   dfd
+   dfm
+
+2927:
+   ccc
+   dfd
+   dmf
+
+2928:
+   ccc
+   dfd
+   fdf
+
+2929:
+   ccc
+   dfd
+   fdm
+
+2930:
+   ccc
+   dfd
+   ffd
+
+2931:
+   ccc
+   dfd
+   ffm
+
+2932:
+   ccc
+   dfd
+   fmd
+
+2933:
+   ccc
+   dfd
+   fmf
+
+2934:
+   ccc
+   dfd
+   mdf
+
+2935:
+   ccc
+   dfd
+   mfd
+
+2936:
+   ccc
+   dfd
+   mff
+
+2937:
+   ccc
+   dff
+   ddf
+
+2938:
+   ccc
+   dff
+   ddm
+
+2939:
+   ccc
+   dff
+   dfd
+
+2940:
+   ccc
+   dff
+   dfm
+
+2941:
+   ccc
+   dff
+   dmd
+
+2942:
+   ccc
+   dff
+   dmf
+
+2943:
+   ccc
+   dff
+   fdd
+
+2944:
+   ccc
+   dff
+   fdm
+
+2945:
+   ccc
+   dff
+   fmd
+
+2946:
+   ccc
+   dff
+   mdd
+
+2947:
+   ccc
+   dff
+   mdf
+
+2948:
+   ccc
+   dff
+   mfd
+
+2949:
+   ccc
+   dfm
+   ddf
+
+2950:
+   ccc
+   dfm
+   dfd
+
+2951:
+   ccc
+   dfm
+   dff
+
+2952:
+   ccc
+   dfm
+   fdd
+
+2953:
+   ccc
+   dfm
+   fdf
+
+2954:
+   ccc
+   dfm
+   ffd
+
+2955:
+   ccc
+   dmd
+   dff
+
+2956:
+   ccc
+   dmd
+   fdf
+
+2957:
+   ccc
+   dmd
+   ffd
+
+2958:
+   ccc
+   dmd
+   fff
+
+2959:
+   ccc
+   dmf
+   ddf
+
+2960:
+   ccc
+   dmf
+   dfd
+
+2961:
+   ccc
+   dmf
+   dff
+
+2962:
+   ccc
+   dmf
+   fdd
+
+2963:
+   ccc
+   dmf
+   fdf
+
+2964:
+   ccc
+   dmf
+   ffd
+
+2965:
+   ccc
+   fdd
+   dff
+
+2966:
+   ccc
+   fdd
+   dfm
+
+2967:
+   ccc
+   fdd
+   dmf
+
+2968:
+   ccc
+   fdd
+   fdf
+
+2969:
+   ccc
+   fdd
+   fdm
+
+2970:
+   ccc
+   fdd
+   ffd
+
+2971:
+   ccc
+   fdd
+   ffm
+
+2972:
+   ccc
+   fdd
+   fmd
+
+2973:
+   ccc
+   fdd
+   fmf
+
+2974:
+   ccc
+   fdd
+   mdf
+
+2975:
+   ccc
+   fdd
+   mfd
+
+2976:
+   ccc
+   fdd
+   mff
+
+2977:
+   ccc
+   fdf
+   ddf
+
+2978:
+   ccc
+   fdf
+   ddm
+
+2979:
+   ccc
+   fdf
+   dfd
+
+2980:
+   ccc
+   fdf
+   dfm
+
+2981:
+   ccc
+   fdf
+   dmd
+
+2982:
+   ccc
+   fdf
+   dmf
+
+2983:
+   ccc
+   fdf
+   fdd
+
+2984:
+   ccc
+   fdf
+   fdm
+
+2985:
+   ccc
+   fdf
+   fmd
+
+2986:
+   ccc
+   fdf
+   mdd
+
+2987:
+   ccc
+   fdf
+   mdf
+
+2988:
+   ccc
+   fdf
+   mfd
+
+2989:
+   ccc
+   fdm
+   ddf
+
+2990:
+   ccc
+   fdm
+   dfd
+
+2991:
+   ccc
+   fdm
+   dff
+
+2992:
+   ccc
+   fdm
+   fdd
+
+2993:
+   ccc
+   fdm
+   fdf
+
+2994:
+   ccc
+   fdm
+   ffd
+
+2995:
+   ccc
+   ffd
+   ddf
+
+2996:
+   ccc
+   ffd
+   ddm
+
+2997:
+   ccc
+   ffd
+   dfd
+
+2998:
+   ccc
+   ffd
+   dfm
+
+2999:
+   ccc
+   ffd
+   dmd
+
+3000:
+   ccc
+   ffd
+   dmf
+
+3001:
+   ccc
+   ffd
+   fdd
+
+3002:
+   ccc
+   ffd
+   fdm
+
+3003:
+   ccc
+   ffd
+   fmd
+
+3004:
+   ccc
+   ffd
+   mdd
+
+3005:
+   ccc
+   ffd
+   mdf
+
+3006:
+   ccc
+   ffd
+   mfd
+
+3007:
+   ccc
+   fff
+   ddd
+
+3008:
+   ccc
+   fff
+   ddm
+
+3009:
+   ccc
+   fff
+   dmd
+
+3010:
+   ccc
+   fff
+   mdd
+
+3011:
+   ccc
+   ffm
+   ddd
+
+3012:
+   ccc
+   ffm
+   ddf
+
+3013:
+   ccc
+   ffm
+   dfd
+
+3014:
+   ccc
+   ffm
+   fdd
+
+3015:
+   ccc
+   fmd
+   ddf
+
+3016:
+   ccc
+   fmd
+   dfd
+
+3017:
+   ccc
+   fmd
+   dff
+
+3018:
+   ccc
+   fmd
+   fdd
+
+3019:
+   ccc
+   fmd
+   fdf
+
+3020:
+   ccc
+   fmd
+   ffd
+
+3021:
+   ccc
+   fmf
+   ddd
+
+3022:
+   ccc
+   fmf
+   ddf
+
+3023:
+   ccc
+   fmf
+   dfd
+
+3024:
+   ccc
+   fmf
+   fdd
+
+3025:
+   ccc
+   mdd
+   dff
+
+3026:
+   ccc
+   mdd
+   fdf
+
+3027:
+   ccc
+   mdd
+   ffd
+
+3028:
+   ccc
+   mdd
+   fff
+
+3029:
+   ccc
+   mdf
+   ddf
+
+3030:
+   ccc
+   mdf
+   dfd
+
+3031:
+   ccc
+   mdf
+   dff
+
+3032:
+   ccc
+   mdf
+   fdd
+
+3033:
+   ccc
+   mdf
+   fdf
+
+3034:
+   ccc
+   mdf
+   ffd
+
+3035:
+   ccc
+   mfd
+   ddf
+
+3036:
+   ccc
+   mfd
+   dfd
+
+3037:
+   ccc
+   mfd
+   dff
+
+3038:
+   ccc
+   mfd
+   fdd
+
+3039:
+   ccc
+   mfd
+   fdf
+
+3040:
+   ccc
+   mfd
+   ffd
+
+3041:
+   ccc
+   mff
+   ddd
+
+3042:
+   ccc
+   mff
+   ddf
+
+3043:
+   ccc
+   mff
+   dfd
+
+3044:
+   ccc
+   mff
+   fdd
+
+3045:
+   ccm
+   ddd
+   fff
+
+3046:
+   ccm
+   ddd
+   ffc
+
+3047:
+   ccm
+   ddd
+   fcf
+
+3048:
+   ccm
+   ddd
+   cff
+
+3049:
+   ccm
+   ddf
+   dff
+
+3050:
+   ccm
+   ddf
+   dfc
+
+3051:
+   ccm
+   ddf
+   dcf
+
+3052:
+   ccm
+   ddf
+   fdf
+
+3053:
+   ccm
+   ddf
+   fdc
+
+3054:
+   ccm
+   ddf
+   ffd
+
+3055:
+   ccm
+   ddf
+   ffc
+
+3056:
+   ccm
+   ddf
+   fcd
+
+3057:
+   ccm
+   ddf
+   fcf
+
+3058:
+   ccm
+   ddf
+   cdf
+
+3059:
+   ccm
+   ddf
+   cfd
+
+3060:
+   ccm
+   ddf
+   cff
+
+3061:
+   ccm
+   ddc
+   dff
+
+3062:
+   ccm
+   ddc
+   fdf
+
+3063:
+   ccm
+   ddc
+   ffd
+
+3064:
+   ccm
+   ddc
+   fff
+
+3065:
+   ccm
+   dfd
+   dff
+
+3066:
+   ccm
+   dfd
+   dfc
+
+3067:
+   ccm
+   dfd
+   dcf
+
+3068:
+   ccm
+   dfd
+   fdf
+
+3069:
+   ccm
+   dfd
+   fdc
+
+3070:
+   ccm
+   dfd
+   ffd
+
+3071:
+   ccm
+   dfd
+   ffc
+
+3072:
+   ccm
+   dfd
+   fcd
+
+3073:
+   ccm
+   dfd
+   fcf
+
+3074:
+   ccm
+   dfd
+   cdf
+
+3075:
+   ccm
+   dfd
+   cfd
+
+3076:
+   ccm
+   dfd
+   cff
+
+3077:
+   ccm
+   dff
+   ddf
+
+3078:
+   ccm
+   dff
+   ddc
+
+3079:
+   ccm
+   dff
+   dfd
+
+3080:
+   ccm
+   dff
+   dfc
+
+3081:
+   ccm
+   dff
+   dcd
+
+3082:
+   ccm
+   dff
+   dcf
+
+3083:
+   ccm
+   dff
+   fdd
+
+3084:
+   ccm
+   dff
+   fdc
+
+3085:
+   ccm
+   dff
+   fcd
+
+3086:
+   ccm
+   dff
+   cdd
+
+3087:
+   ccm
+   dff
+   cdf
+
+3088:
+   ccm
+   dff
+   cfd
+
+3089:
+   ccm
+   dfc
+   ddf
+
+3090:
+   ccm
+   dfc
+   dfd
+
+3091:
+   ccm
+   dfc
+   dff
+
+3092:
+   ccm
+   dfc
+   fdd
+
+3093:
+   ccm
+   dfc
+   fdf
+
+3094:
+   ccm
+   dfc
+   ffd
+
+3095:
+   ccm
+   dcd
+   dff
+
+3096:
+   ccm
+   dcd
+   fdf
+
+3097:
+   ccm
+   dcd
+   ffd
+
+3098:
+   ccm
+   dcd
+   fff
+
+3099:
+   ccm
+   dcf
+   ddf
+
+3100:
+   ccm
+   dcf
+   dfd
+
+3101:
+   ccm
+   dcf
+   dff
+
+3102:
+   ccm
+   dcf
+   fdd
+
+3103:
+   ccm
+   dcf
+   fdf
+
+3104:
+   ccm
+   dcf
+   ffd
+
+3105:
+   ccm
+   fdd
+   dff
+
+3106:
+   ccm
+   fdd
+   dfc
+
+3107:
+   ccm
+   fdd
+   dcf
+
+3108:
+   ccm
+   fdd
+   fdf
+
+3109:
+   ccm
+   fdd
+   fdc
+
+3110:
+   ccm
+   fdd
+   ffd
+
+3111:
+   ccm
+   fdd
+   ffc
+
+3112:
+   ccm
+   fdd
+   fcd
+
+3113:
+   ccm
+   fdd
+   fcf
+
+3114:
+   ccm
+   fdd
+   cdf
+
+3115:
+   ccm
+   fdd
+   cfd
+
+3116:
+   ccm
+   fdd
+   cff
+
+3117:
+   ccm
+   fdf
+   ddf
+
+3118:
+   ccm
+   fdf
+   ddc
+
+3119:
+   ccm
+   fdf
+   dfd
+
+3120:
+   ccm
+   fdf
+   dfc
+
+3121:
+   ccm
+   fdf
+   dcd
+
+3122:
+   ccm
+   fdf
+   dcf
+
+3123:
+   ccm
+   fdf
+   fdd
+
+3124:
+   ccm
+   fdf
+   fdc
+
+3125:
+   ccm
+   fdf
+   fcd
+
+3126:
+   ccm
+   fdf
+   cdd
+
+3127:
+   ccm
+   fdf
+   cdf
+
+3128:
+   ccm
+   fdf
+   cfd
+
+3129:
+   ccm
+   fdc
+   ddf
+
+3130:
+   ccm
+   fdc
+   dfd
+
+3131:
+   ccm
+   fdc
+   dff
+
+3132:
+   ccm
+   fdc
+   fdd
+
+3133:
+   ccm
+   fdc
+   fdf
+
+3134:
+   ccm
+   fdc
+   ffd
+
+3135:
+   ccm
+   ffd
+   ddf
+
+3136:
+   ccm
+   ffd
+   ddc
+
+3137:
+   ccm
+   ffd
+   dfd
+
+3138:
+   ccm
+   ffd
+   dfc
+
+3139:
+   ccm
+   ffd
+   dcd
+
+3140:
+   ccm
+   ffd
+   dcf
+
+3141:
+   ccm
+   ffd
+   fdd
+
+3142:
+   ccm
+   ffd
+   fdc
+
+3143:
+   ccm
+   ffd
+   fcd
+
+3144:
+   ccm
+   ffd
+   cdd
+
+3145:
+   ccm
+   ffd
+   cdf
+
+3146:
+   ccm
+   ffd
+   cfd
+
+3147:
+   ccm
+   fff
+   ddd
+
+3148:
+   ccm
+   fff
+   ddc
+
+3149:
+   ccm
+   fff
+   dcd
+
+3150:
+   ccm
+   fff
+   cdd
+
+3151:
+   ccm
+   ffc
+   ddd
+
+3152:
+   ccm
+   ffc
+   ddf
+
+3153:
+   ccm
+   ffc
+   dfd
+
+3154:
+   ccm
+   ffc
+   fdd
+
+3155:
+   ccm
+   fcd
+   ddf
+
+3156:
+   ccm
+   fcd
+   dfd
+
+3157:
+   ccm
+   fcd
+   dff
+
+3158:
+   ccm
+   fcd
+   fdd
+
+3159:
+   ccm
+   fcd
+   fdf
+
+3160:
+   ccm
+   fcd
+   ffd
+
+3161:
+   ccm
+   fcf
+   ddd
+
+3162:
+   ccm
+   fcf
+   ddf
+
+3163:
+   ccm
+   fcf
+   dfd
+
+3164:
+   ccm
+   fcf
+   fdd
+
+3165:
+   ccm
+   cdd
+   dff
+
+3166:
+   ccm
+   cdd
+   fdf
+
+3167:
+   ccm
+   cdd
+   ffd
+
+3168:
+   ccm
+   cdd
+   fff
+
+3169:
+   ccm
+   cdf
+   ddf
+
+3170:
+   ccm
+   cdf
+   dfd
+
+3171:
+   ccm
+   cdf
+   dff
+
+3172:
+   ccm
+   cdf
+   fdd
+
+3173:
+   ccm
+   cdf
+   fdf
+
+3174:
+   ccm
+   cdf
+   ffd
+
+3175:
+   ccm
+   cfd
+   ddf
+
+3176:
+   ccm
+   cfd
+   dfd
+
+3177:
+   ccm
+   cfd
+   dff
+
+3178:
+   ccm
+   cfd
+   fdd
+
+3179:
+   ccm
+   cfd
+   fdf
+
+3180:
+   ccm
+   cfd
+   ffd
+
+3181:
+   ccm
+   cff
+   ddd
+
+3182:
+   ccm
+   cff
+   ddf
+
+3183:
+   ccm
+   cff
+   dfd
+
+3184:
+   ccm
+   cff
+   fdd
+
+3185:
+   cmd
+   ddc
+   fff
+
+3186:
+   cmd
+   dcd
+   fff
+
+3187:
+   cmd
+   dcc
+   fff
+
+3188:
+   cmd
+   fff
+   ddc
+
+3189:
+   cmd
+   fff
+   dcd
+
+3190:
+   cmd
+   fff
+   dcc
+
+3191:
+   cmd
+   fff
+   cdd
+
+3192:
+   cmd
+   fff
+   cdc
+
+3193:
+   cmd
+   fff
+   ccd
+
+3194:
+   cmd
+   cdd
+   fff
+
+3195:
+   cmd
+   cdc
+   fff
+
+3196:
+   cmd
+   ccd
+   fff
+
+3197:
+   cmf
+   ddd
+   ffc
+
+3198:
+   cmf
+   ddd
+   fcf
+
+3199:
+   cmf
+   ddd
+   fcc
+
+3200:
+   cmf
+   ddd
+   cff
+
+3201:
+   cmf
+   ddd
+   cfc
+
+3202:
+   cmf
+   ddd
+   ccf
+
+3203:
+   cmf
+   ffc
+   ddd
+
+3204:
+   cmf
+   fcf
+   ddd
+
+3205:
+   cmf
+   fcc
+   ddd
+
+3206:
+   cmf
+   cff
+   ddd
+
+3207:
+   cmf
+   cfc
+   ddd
+
+3208:
+   cmf
+   ccf
+   ddd
+
+3209:
+   cmc
+   ddd
+   fff
+
+3210:
+   cmc
+   ddd
+   ffc
+
+3211:
+   cmc
+   ddd
+   fcf
+
+3212:
+   cmc
+   ddd
+   cff
+
+3213:
+   cmc
+   ddf
+   dff
+
+3214:
+   cmc
+   ddf
+   dfc
+
+3215:
+   cmc
+   ddf
+   dcf
+
+3216:
+   cmc
+   ddf
+   fdf
+
+3217:
+   cmc
+   ddf
+   fdc
+
+3218:
+   cmc
+   ddf
+   ffd
+
+3219:
+   cmc
+   ddf
+   ffc
+
+3220:
+   cmc
+   ddf
+   fcd
+
+3221:
+   cmc
+   ddf
+   fcf
+
+3222:
+   cmc
+   ddf
+   cdf
+
+3223:
+   cmc
+   ddf
+   cfd
+
+3224:
+   cmc
+   ddf
+   cff
+
+3225:
+   cmc
+   ddc
+   dff
+
+3226:
+   cmc
+   ddc
+   fdf
+
+3227:
+   cmc
+   ddc
+   ffd
+
+3228:
+   cmc
+   ddc
+   fff
+
+3229:
+   cmc
+   dfd
+   dff
+
+3230:
+   cmc
+   dfd
+   dfc
+
+3231:
+   cmc
+   dfd
+   dcf
+
+3232:
+   cmc
+   dfd
+   fdf
+
+3233:
+   cmc
+   dfd
+   fdc
+
+3234:
+   cmc
+   dfd
+   ffd
+
+3235:
+   cmc
+   dfd
+   ffc
+
+3236:
+   cmc
+   dfd
+   fcd
+
+3237:
+   cmc
+   dfd
+   fcf
+
+3238:
+   cmc
+   dfd
+   cdf
+
+3239:
+   cmc
+   dfd
+   cfd
+
+3240:
+   cmc
+   dfd
+   cff
+
+3241:
+   cmc
+   dff
+   ddf
+
+3242:
+   cmc
+   dff
+   ddc
+
+3243:
+   cmc
+   dff
+   dfd
+
+3244:
+   cmc
+   dff
+   dfc
+
+3245:
+   cmc
+   dff
+   dcd
+
+3246:
+   cmc
+   dff
+   dcf
+
+3247:
+   cmc
+   dff
+   fdd
+
+3248:
+   cmc
+   dff
+   fdc
+
+3249:
+   cmc
+   dff
+   fcd
+
+3250:
+   cmc
+   dff
+   cdd
+
+3251:
+   cmc
+   dff
+   cdf
+
+3252:
+   cmc
+   dff
+   cfd
+
+3253:
+   cmc
+   dfc
+   ddf
+
+3254:
+   cmc
+   dfc
+   dfd
+
+3255:
+   cmc
+   dfc
+   dff
+
+3256:
+   cmc
+   dfc
+   fdd
+
+3257:
+   cmc
+   dfc
+   fdf
+
+3258:
+   cmc
+   dfc
+   ffd
+
+3259:
+   cmc
+   dcd
+   dff
+
+3260:
+   cmc
+   dcd
+   fdf
+
+3261:
+   cmc
+   dcd
+   ffd
+
+3262:
+   cmc
+   dcd
+   fff
+
+3263:
+   cmc
+   dcf
+   ddf
+
+3264:
+   cmc
+   dcf
+   dfd
+
+3265:
+   cmc
+   dcf
+   dff
+
+3266:
+   cmc
+   dcf
+   fdd
+
+3267:
+   cmc
+   dcf
+   fdf
+
+3268:
+   cmc
+   dcf
+   ffd
+
+3269:
+   cmc
+   fdd
+   dff
+
+3270:
+   cmc
+   fdd
+   dfc
+
+3271:
+   cmc
+   fdd
+   dcf
+
+3272:
+   cmc
+   fdd
+   fdf
+
+3273:
+   cmc
+   fdd
+   fdc
+
+3274:
+   cmc
+   fdd
+   ffd
+
+3275:
+   cmc
+   fdd
+   ffc
+
+3276:
+   cmc
+   fdd
+   fcd
+
+3277:
+   cmc
+   fdd
+   fcf
+
+3278:
+   cmc
+   fdd
+   cdf
+
+3279:
+   cmc
+   fdd
+   cfd
+
+3280:
+   cmc
+   fdd
+   cff
+
+3281:
+   cmc
+   fdf
+   ddf
+
+3282:
+   cmc
+   fdf
+   ddc
+
+3283:
+   cmc
+   fdf
+   dfd
+
+3284:
+   cmc
+   fdf
+   dfc
+
+3285:
+   cmc
+   fdf
+   dcd
+
+3286:
+   cmc
+   fdf
+   dcf
+
+3287:
+   cmc
+   fdf
+   fdd
+
+3288:
+   cmc
+   fdf
+   fdc
+
+3289:
+   cmc
+   fdf
+   fcd
+
+3290:
+   cmc
+   fdf
+   cdd
+
+3291:
+   cmc
+   fdf
+   cdf
+
+3292:
+   cmc
+   fdf
+   cfd
+
+3293:
+   cmc
+   fdc
+   ddf
+
+3294:
+   cmc
+   fdc
+   dfd
+
+3295:
+   cmc
+   fdc
+   dff
+
+3296:
+   cmc
+   fdc
+   fdd
+
+3297:
+   cmc
+   fdc
+   fdf
+
+3298:
+   cmc
+   fdc
+   ffd
+
+3299:
+   cmc
+   ffd
+   ddf
+
+3300:
+   cmc
+   ffd
+   ddc
+
+3301:
+   cmc
+   ffd
+   dfd
+
+3302:
+   cmc
+   ffd
+   dfc
+
+3303:
+   cmc
+   ffd
+   dcd
+
+3304:
+   cmc
+   ffd
+   dcf
+
+3305:
+   cmc
+   ffd
+   fdd
+
+3306:
+   cmc
+   ffd
+   fdc
+
+3307:
+   cmc
+   ffd
+   fcd
+
+3308:
+   cmc
+   ffd
+   cdd
+
+3309:
+   cmc
+   ffd
+   cdf
+
+3310:
+   cmc
+   ffd
+   cfd
+
+3311:
+   cmc
+   fff
+   ddd
+
+3312:
+   cmc
+   fff
+   ddc
+
+3313:
+   cmc
+   fff
+   dcd
+
+3314:
+   cmc
+   fff
+   cdd
+
+3315:
+   cmc
+   ffc
+   ddd
+
+3316:
+   cmc
+   ffc
+   ddf
+
+3317:
+   cmc
+   ffc
+   dfd
+
+3318:
+   cmc
+   ffc
+   fdd
+
+3319:
+   cmc
+   fcd
+   ddf
+
+3320:
+   cmc
+   fcd
+   dfd
+
+3321:
+   cmc
+   fcd
+   dff
+
+3322:
+   cmc
+   fcd
+   fdd
+
+3323:
+   cmc
+   fcd
+   fdf
+
+3324:
+   cmc
+   fcd
+   ffd
+
+3325:
+   cmc
+   fcf
+   ddd
+
+3326:
+   cmc
+   fcf
+   ddf
+
+3327:
+   cmc
+   fcf
+   dfd
+
+3328:
+   cmc
+   fcf
+   fdd
+
+3329:
+   cmc
+   cdd
+   dff
+
+3330:
+   cmc
+   cdd
+   fdf
+
+3331:
+   cmc
+   cdd
+   ffd
+
+3332:
+   cmc
+   cdd
+   fff
+
+3333:
+   cmc
+   cdf
+   ddf
+
+3334:
+   cmc
+   cdf
+   dfd
+
+3335:
+   cmc
+   cdf
+   dff
+
+3336:
+   cmc
+   cdf
+   fdd
+
+3337:
+   cmc
+   cdf
+   fdf
+
+3338:
+   cmc
+   cdf
+   ffd
+
+3339:
+   cmc
+   cfd
+   ddf
+
+3340:
+   cmc
+   cfd
+   dfd
+
+3341:
+   cmc
+   cfd
+   dff
+
+3342:
+   cmc
+   cfd
+   fdd
+
+3343:
+   cmc
+   cfd
+   fdf
+
+3344:
+   cmc
+   cfd
+   ffd
+
+3345:
+   cmc
+   cff
+   ddd
+
+3346:
+   cmc
+   cff
+   ddf
+
+3347:
+   cmc
+   cff
+   dfd
+
+3348:
+   cmc
+   cff
+   fdd
+
+3349:
+   mdd
+   dff
+   ccc
+
+3350:
+   mdd
+   dcc
+   fff
+
+3351:
+   mdd
+   fdf
+   ccc
+
+3352:
+   mdd
+   ffd
+   ccc
+
+3353:
+   mdd
+   fff
+   dcc
+
+3354:
+   mdd
+   fff
+   cdc
+
+3355:
+   mdd
+   fff
+   ccd
+
+3356:
+   mdd
+   fff
+   ccc
+
+3357:
+   mdd
+   cdc
+   fff
+
+3358:
+   mdd
+   ccd
+   fff
+
+3359:
+   mdd
+   ccc
+   dff
+
+3360:
+   mdd
+   ccc
+   fdf
+
+3361:
+   mdd
+   ccc
+   ffd
+
+3362:
+   mdd
+   ccc
+   fff
+
+3363:
+   mdf
+   ddf
+   ccc
+
+3364:
+   mdf
+   dfd
+   ccc
+
+3365:
+   mdf
+   dff
+   ccc
+
+3366:
+   mdf
+   fdd
+   ccc
+
+3367:
+   mdf
+   fdf
+   ccc
+
+3368:
+   mdf
+   ffd
+   ccc
+
+3369:
+   mdf
+   ccc
+   ddf
+
+3370:
+   mdf
+   ccc
+   dfd
+
+3371:
+   mdf
+   ccc
+   dff
+
+3372:
+   mdf
+   ccc
+   fdd
+
+3373:
+   mdf
+   ccc
+   fdf
+
+3374:
+   mdf
+   ccc
+   ffd
+
+3375:
+   mdc
+   ddc
+   fff
+
+3376:
+   mdc
+   dcd
+   fff
+
+3377:
+   mdc
+   dcc
+   fff
+
+3378:
+   mdc
+   fff
+   ddc
+
+3379:
+   mdc
+   fff
+   dcd
+
+3380:
+   mdc
+   fff
+   dcc
+
+3381:
+   mdc
+   fff
+   cdd
+
+3382:
+   mdc
+   fff
+   cdc
+
+3383:
+   mdc
+   fff
+   ccd
+
+3384:
+   mdc
+   cdd
+   fff
+
+3385:
+   mdc
+   cdc
+   fff
+
+3386:
+   mdc
+   ccd
+   fff
+
+3387:
+   mfd
+   ddf
+   ccc
+
+3388:
+   mfd
+   dfd
+   ccc
+
+3389:
+   mfd
+   dff
+   ccc
+
+3390:
+   mfd
+   fdd
+   ccc
+
+3391:
+   mfd
+   fdf
+   ccc
+
+3392:
+   mfd
+   ffd
+   ccc
+
+3393:
+   mfd
+   ccc
+   ddf
+
+3394:
+   mfd
+   ccc
+   dfd
+
+3395:
+   mfd
+   ccc
+   dff
+
+3396:
+   mfd
+   ccc
+   fdd
+
+3397:
+   mfd
+   ccc
+   fdf
+
+3398:
+   mfd
+   ccc
+   ffd
+
+3399:
+   mff
+   ddd
+   fcc
+
+3400:
+   mff
+   ddd
+   cfc
+
+3401:
+   mff
+   ddd
+   ccf
+
+3402:
+   mff
+   ddd
+   ccc
+
+3403:
+   mff
+   ddf
+   ccc
+
+3404:
+   mff
+   dfd
+   ccc
+
+3405:
+   mff
+   fdd
+   ccc
+
+3406:
+   mff
+   fcc
+   ddd
+
+3407:
+   mff
+   cfc
+   ddd
+
+3408:
+   mff
+   ccf
+   ddd
+
+3409:
+   mff
+   ccc
+   ddd
+
+3410:
+   mff
+   ccc
+   ddf
+
+3411:
+   mff
+   ccc
+   dfd
+
+3412:
+   mff
+   ccc
+   fdd
+
+3413:
+   mfc
+   ddd
+   ffc
+
+3414:
+   mfc
+   ddd
+   fcf
+
+3415:
+   mfc
+   ddd
+   fcc
+
+3416:
+   mfc
+   ddd
+   cff
+
+3417:
+   mfc
+   ddd
+   cfc
+
+3418:
+   mfc
+   ddd
+   ccf
+
+3419:
+   mfc
+   ffc
+   ddd
+
+3420:
+   mfc
+   fcf
+   ddd
+
+3421:
+   mfc
+   fcc
+   ddd
+
+3422:
+   mfc
+   cff
+   ddd
+
+3423:
+   mfc
+   cfc
+   ddd
+
+3424:
+   mfc
+   ccf
+   ddd
+
+3425:
+   mcd
+   ddc
+   fff
+
+3426:
+   mcd
+   dcd
+   fff
+
+3427:
+   mcd
+   dcc
+   fff
+
+3428:
+   mcd
+   fff
+   ddc
+
+3429:
+   mcd
+   fff
+   dcd
+
+3430:
+   mcd
+   fff
+   dcc
+
+3431:
+   mcd
+   fff
+   cdd
+
+3432:
+   mcd
+   fff
+   cdc
+
+3433:
+   mcd
+   fff
+   ccd
+
+3434:
+   mcd
+   cdd
+   fff
+
+3435:
+   mcd
+   cdc
+   fff
+
+3436:
+   mcd
+   ccd
+   fff
+
+3437:
+   mcf
+   ddd
+   ffc
+
+3438:
+   mcf
+   ddd
+   fcf
+
+3439:
+   mcf
+   ddd
+   fcc
+
+3440:
+   mcf
+   ddd
+   cff
+
+3441:
+   mcf
+   ddd
+   cfc
+
+3442:
+   mcf
+   ddd
+   ccf
+
+3443:
+   mcf
+   ffc
+   ddd
+
+3444:
+   mcf
+   fcf
+   ddd
+
+3445:
+   mcf
+   fcc
+   ddd
+
+3446:
+   mcf
+   cff
+   ddd
+
+3447:
+   mcf
+   cfc
+   ddd
+
+3448:
+   mcf
+   ccf
+   ddd
+
+3449:
+   mcc
+   ddd
+   fff
+
+3450:
+   mcc
+   ddd
+   ffc
+
+3451:
+   mcc
+   ddd
+   fcf
+
+3452:
+   mcc
+   ddd
+   cff
+
+3453:
+   mcc
+   ddc
+   fff
+
+3454:
+   mcc
+   dcd
+   fff
+
+3455:
+   mcc
+   fff
+   ddd
+
+3456:
+   mcc
+   fff
+   ddc
+
+3457:
+   mcc
+   fff
+   dcd
+
+3458:
+   mcc
+   fff
+   cdd
+
+3459:
+   mcc
+   ffc
+   ddd
+
+3460:
+   mcc
+   fcf
+   ddd
+
+3461:
+   mcc
+   cdd
+   fff
+
+3462:
+   mcc
+   cff
+   ddd
+
